@@ -1,0 +1,19 @@
+services:
+  master-data:
+    environment:
+      MASTER_DATA_API_CSRF_ENABLED: 'false'
+      MASTER_DATA_API_AUTH_PROVIDER_API_URL: http://iam:8000
+      MASTER_DATA_API_KEYCLOAK_CLIENT_ID: ${AUTH_CLIENT_ID}
+      MASTER_DATA_API_AUTH_REDIS_URL: redis://redis:6379/0
+      MASTER_DATA_API_AUTH_TRANSACTION_STORE_BACKEND: redis
+      MASTER_DATA_API_AUTH_COOKIE_DOMAIN: ${COOKIE_DOMAIN}
+      MASTER_DATA_API_AUTH_COOKIE_SECURE: 'false'
+      MASTER_DATA_API_AUTH_VERIFY_SSL: 'false'
+    volumes:
+      - ./local/master-data/patch_geo_routes.py:/app/patch_geo_routes.py:ro
+    command: >-
+      /bin/sh -c '
+        python3 /app/patch_geo_routes.py;
+        python3 -m openg2p_gen2_master_data.main migrate;
+        $${MASTER_DATA_API_WORKER_TYPE} "openg2p_gen2_master_data.main:app" --workers $${MASTER_DATA_API_NO_OF_WORKERS} --worker-class uvicorn.workers.UvicornWorker --bind $${MASTER_DATA_API_HOST}:$${MASTER_DATA_API_PORT}
+      '

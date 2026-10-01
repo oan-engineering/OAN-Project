@@ -1,0 +1,3012 @@
+list_name,name,label
+crop_category,CROP_CATEGORY_1,Cereal Crops
+crop_category,CROP_CATEGORY_7,Forage and Pasture Crops
+crop_category,CROP_CATEGORY_6,Fruit Crops
+crop_category,CROP_CATEGORY_3,Oil Crops
+crop_category,CROP_CATEGORY_10,Other Crops
+crop_category,CROP_CATEGORY_2,Pulse Crops
+crop_category,CROP_CATEGORY_5,"Tubers, Roots & Vegetable Crops"
+crop,CROP_COMMODITY_114,Adzuki bean
+crop,CROP_COMMODITY_69,African marigold
+crop,CROP_COMMODITY_102,Alfalfa (Medicago sativa)
+crop,CROP_COMMODITY_133,Amaranthus
+crop,CROP_COMMODITY_54,Anchote
+crop,CROP_COMMODITY_95,Andropogon
+crop,CROP_COMMODITY_84,Avocado
+crop,CROP_COMMODITY_80,Banana
+crop,CROP_COMMODITY_79,Basil
+crop,CROP_COMMODITY_134,Black cumin
+crop,CROP_COMMODITY_58,Black pepper
+crop,CROP_COMMODITY_126,Brachiaria brizantha cv. Xaraes descriptors
+crop,CROP_COMMODITY_2,Bread wheat (Triticum aestivum L.)
+crop,CROP_COMMODITY_119,Broccoli
+crop,CROP_COMMODITY_14,Buck wheat
+crop,CROP_COMMODITY_51,Cabbage
+crop,CROP_COMMODITY_129,Cacao
+crop,CROP_COMMODITY_39,Camelina sativa
+crop,CROP_COMMODITY_61,Cardamom
+crop,CROP_COMMODITY_52,Carrot
+crop,CROP_COMMODITY_43,Cassava
+crop,CROP_COMMODITY_38,Castor
+crop,CROP_COMMODITY_120,Cauliflower
+crop,CROP_COMMODITY_71,Chamomile
+crop,CROP_COMMODITY_22,Chickpea
+crop,CROP_COMMODITY_63,Citronella grass
+crop,CROP_COMMODITY_112,Coffee
+crop,CROP_COMMODITY_135,Common bean
+crop,CROP_COMMODITY_25,Common/Haricot/ bean
+crop,CROP_COMMODITY_57,Coriander
+crop,CROP_COMMODITY_109,Cotton
+crop,CROP_COMMODITY_94,Cow pea
+crop,CROP_COMMODITY_23,Cowpea
+crop,CROP_COMMODITY_136,Cuccumber
+crop,CROP_COMMODITY_65,Cumin
+crop,CROP_COMMODITY_85,Date palm
+crop,CROP_COMMODITY_21,Dekoko
+crop,CROP_COMMODITY_105,Desho grass
+crop,CROP_COMMODITY_90,Dolicos lablab
+crop,CROP_COMMODITY_3,Durum Wheat
+crop,CROP_COMMODITY_137,Eggplant
+crop,CROP_COMMODITY_87,Elephant grass
+crop,CROP_COMMODITY_13,Emmer wheat (Aja)
+crop,CROP_COMMODITY_44,Enset
+crop,CROP_COMMODITY_132,Ethiopian mustard
+crop,CROP_COMMODITY_19,Faba bean
+crop,CROP_COMMODITY_29,Fenugreek
+crop,CROP_COMMODITY_20,Field pea
+crop,CROP_COMMODITY_138,Fig
+crop,CROP_COMMODITY_139,Fine bush
+crop,CROP_COMMODITY_10,Finger Millet
+crop,CROP_COMMODITY_4,Food Barley
+crop,CROP_COMMODITY_18,Food oat
+crop,CROP_COMMODITY_128,Forage Soyabean
+crop,CROP_COMMODITY_16,Foxtail millet
+crop,CROP_COMMODITY_47,Garlic
+crop,CROP_COMMODITY_59,Ginger
+crop,CROP_COMMODITY_27,Grass pea/ ''Guaya''
+crop,CROP_COMMODITY_140,Green courgette
+crop,CROP_COMMODITY_34,Groundnut
+crop,CROP_COMMODITY_74,Hibiscus
+crop,CROP_COMMODITY_40,Irish potato
+crop,CROP_COMMODITY_141,Japanese mint
+crop,CROP_COMMODITY_110,Kenaf
+crop,CROP_COMMODITY_124,Kororima
+crop,CROP_COMMODITY_75,Lavender
+crop,CROP_COMMODITY_66,Lemmon grass
+crop,CROP_COMMODITY_142,Lemon scented eucalyptus
+crop,CROP_COMMODITY_72,Lemon verbena
+crop,CROP_COMMODITY_24,Lentil
+crop,CROP_COMMODITY_116,Lettuce
+crop,CROP_COMMODITY_115,Lima bean
+crop,CROP_COMMODITY_31,Linseed
+crop,CROP_COMMODITY_107,Local forage legume
+crop,CROP_COMMODITY_101,Lupin
+crop,CROP_COMMODITY_1,Maize ( Zea mays L.)
+crop,CROP_COMMODITY_76,Majoram/Oregano
+crop,CROP_COMMODITY_5,Malt Barley
+crop,CROP_COMMODITY_81,Mango
+crop,CROP_COMMODITY_8,Millet
+crop,CROP_COMMODITY_108,Mulberry
+crop,CROP_COMMODITY_28,Mung bean
+crop,CROP_COMMODITY_118,Musk melon
+crop,CROP_COMMODITY_106,Napier grass
+crop,CROP_COMMODITY_30,Noug
+crop,CROP_COMMODITY_97,Oats
+crop,CROP_COMMODITY_53,Okra
+crop,CROP_COMMODITY_48,Onion
+crop,CROP_COMMODITY_143,Pakchoi
+crop,CROP_COMMODITY_144,Palmarosa
+crop,CROP_COMMODITY_89,Panicum
+crop,CROP_COMMODITY_100,Panicum maximum
+crop,CROP_COMMODITY_145,Papaya
+crop,CROP_COMMODITY_146,Peach
+crop,CROP_COMMODITY_15,Pearl millet
+crop,CROP_COMMODITY_99,Pennisetum polystachion
+crop,CROP_COMMODITY_103,Pennisetum sphacelatum
+crop,CROP_COMMODITY_147,Peppermint
+crop,CROP_COMMODITY_104,Perennial grass
+crop,CROP_COMMODITY_91,Phalaries
+crop,CROP_COMMODITY_96,Pigeon pea
+crop,CROP_COMMODITY_82,Pineapple
+crop,CROP_COMMODITY_64,Pyrethrum
+crop,CROP_COMMODITY_17,Quinoa
+crop,CROP_COMMODITY_32,Rapeseed
+crop,CROP_COMMODITY_148,Red beet
+crop,CROP_COMMODITY_88,Rhode
+crop,CROP_COMMODITY_9,Rice
+crop,CROP_COMMODITY_125,Rose
+crop,CROP_COMMODITY_149,Rosemary
+crop,CROP_COMMODITY_70,Rose Scented Geranium
+crop,CROP_COMMODITY_36,Safflower
+crop,CROP_COMMODITY_77,Sage
+crop,CROP_COMMODITY_33,Sesame
+crop,CROP_COMMODITY_98,Sesbania
+crop,CROP_COMMODITY_49,Shallot
+crop,CROP_COMMODITY_150,Snap bean
+crop,CROP_COMMODITY_121,Snap pea
+crop,CROP_COMMODITY_122,Snow pea
+crop,CROP_COMMODITY_127,Sorghum forage
+crop,CROP_COMMODITY_7,Sorghum (Sorghum bicolor)
+crop,CROP_COMMODITY_26,Soybean
+crop,CROP_COMMODITY_68,Spanish mint
+crop,CROP_COMMODITY_67,Speare mint
+crop,CROP_COMMODITY_73,Stevia
+crop,CROP_COMMODITY_111,Sugarcane
+crop,CROP_COMMODITY_56,Summarsquash
+crop,CROP_COMMODITY_55,Summer squash
+crop,CROP_COMMODITY_35,Sunflower
+crop,CROP_COMMODITY_62,Sweet annie
+crop,CROP_COMMODITY_123,Sweet corn
+crop,CROP_COMMODITY_50,Sweet/Hot Pepper
+crop,CROP_COMMODITY_41,Sweet potato
+crop,CROP_COMMODITY_42,Taro
+crop,CROP_COMMODITY_6,Tef ( Eragrostis tef)
+crop,CROP_COMMODITY_113,Tobaco
+crop,CROP_COMMODITY_46,Tomato
+crop,CROP_COMMODITY_86,Tree lucerne
+crop,CROP_COMMODITY_92,Trifolium
+crop,CROP_COMMODITY_12,Triticale
+crop,CROP_COMMODITY_60,Turmeric
+crop,CROP_COMMODITY_78,Vanilla
+crop,CROP_COMMODITY_37,Vernonia
+crop,CROP_COMMODITY_93,Vetch
+crop,CROP_COMMODITY_117,Water melon
+crop,CROP_COMMODITY_151,White cumin
+crop,CROP_COMMODITY_83,Wine grape
+crop,CROP_COMMODITY_45,Yam
+crop,CROP_COMMODITY_152,Yellow courgette
+crop,CROP_COMMODITY_153,Ziziphus (Kurkura)
+crop_variety,CROP_VARIETY_ethioseed-803,124-b(109) (Male parent for Basic …
+crop_variety,CROP_VARIETY_ethioseed-776,142-1-e (Maize parental line)
+crop_variety,CROP_VARIETY_ethioseed-794,142-1-e (Male parent for BH …
+crop_variety,CROP_VARIETY_ethioseed-796,144-7-b (Male parent for BH670)
+crop_variety,CROP_VARIETY_barley-4731-7,4731-7
+crop_variety,CROP_VARIETY_barley-4748-16,4748-16
+crop_variety,CROP_VARIETY_sorghum-76-ti-23,76TI#23
+crop_variety,CROP_VARIETY_cowpea-82-d-889,82D-889
+crop_variety,CROP_VARIETY_sorghum-87-bk-4122-geremew,87 BK-4122 (Geremew)
+crop_variety,CROP_VARIETY_peach-90-19-h,90-19H
+crop_variety,CROP_VARIETY_sorghum-9058-esh5-9511-a-prl020817,9058 (ESH5)({9511A/PRL020817)
+crop_variety,CROP_VARIETY_haricot-bean-a197x-om-naz-cr02-11,A197xOM NAZ Cr02-11
+crop_variety,CROP_VARIETY_sorghum-a2267-2,A2267-2
+crop_variety,CROP_VARIETY_cotton-a-333-57,A-333-57
+crop_variety,CROP_VARIETY_maize-a511,A511
+crop_variety,CROP_VARIETY_ethioseed-793,A7033/ F-7215 (Female for BH …
+crop_variety,CROP_VARIETY_ethioseed-795,A7033/ F7215 (Female parent for …
+crop_variety,CROP_VARIETY_tomato-abale-rz,Abale RZ
+crop_variety,CROP_VARIETY_sorghum-aba-melko-sartu,Aba Melko (Sartu)
+crop_variety,CROP_VARIETY_maize-aba-raya-sc-627,Aba raya (Sc 627)
+crop_variety,CROP_VARIETY_castor-abaro,Abaro
+crop_variety,CROP_VARIETY_sesame-abasena,Abasena
+crop_variety,CROP_VARIETY_barley-abay-3357-10,Abay (3357-10)
+crop_variety,CROP_VARIETY_tef-abay-acc-225931,Abay (Acc#225931)
+crop_variety,CROP_VARIETY_rice-abay-arcc-16-bar-21-5-12-3-1-2,Abay (ARCC 16Bar-21-5-12-3-1-2
+crop_variety,CROP_VARIETY_bread-wheat-abay-etbw-9396,Abay (ETBW 9396)
+crop_variety,CROP_VARIETY_barley-abdane-aruso-eh956-f2-8-h-6-4-s,Abdane (Aruso/EH956/F2-8H-6-4S
+crop_variety,CROP_VARIETY_triticale-abdissa-tcl-76,Abdissa (TCL 76)
+crop_variety,CROP_VARIETY_tef-abola-quncho-x-key,Abola (Quncho x Key)
+crop_variety,CROP_VARIETY_sorghum-abshir-p9403,Abshir (P9403)
+crop_variety,CROP_VARIETY_sorghum-abuare-90-mw-5353,Abuare (90MW 5353)
+crop_variety,CROP_VARIETY_cotton-acala-1517-70,Acala 1517/70
+crop_variety,CROP_VARIETY_cotton-acala-sj-2,Acala SJ 2
+crop_variety,CROP_VARIETY_sesame-acc-00047,Acc.00047
+crop_variety,CROP_VARIETY_sesame-acc-051-02-sel-1-2,Acc.051-02-sel-1(2)
+crop_variety,CROP_VARIETY_linseed-acc-230826,ACC 230826
+crop_variety,CROP_VARIETY_amaranthus-ac-nl,AC-NL
+crop_variety,CROP_VARIETY_ethioseed-822,Ada
+crop_variety,CROP_VARIETY_sunflower-adadi,Adadi
+crop_variety,CROP_VARIETY_onion-ada-f1,Ada F1
+crop_variety,CROP_VARIETY_lentil-ada-flip-86-14-l,ADA (Flip 86-14L)
+crop_variety,CROP_VARIETY_haricot-bean-ada-kat-b1,Ada (KAT B1)
+crop_variety,CROP_VARIETY_onion-adama-red-sudan,Adama red (Sudan)
+crop_variety,CROP_VARIETY_fine-bush-adante,Adante
+crop_variety,CROP_VARIETY_finger-millet-addis-01-acc-203544,Addis-01 (ACC 203544)
+crop_variety,CROP_VARIETY_pepper-addis-avpp0512,ADDIS (AVPP0512)
+crop_variety,CROP_VARIETY_bread-wheat-adel-6-samar-13-pastor-1,ADEL-6 (SAMAR-13/Pastor-1)
+crop_variety,CROP_VARIETY_sorghum-adelle,Adelle
+crop_variety,CROP_VARIETY_barley-adena-sxh-08-f4-s-143,Adena (SXH-08-F4-S-143)
+crop_variety,CROP_VARIETY_black-cumin-aden-yemen-1,Aden (Yemen 1)
+crop_variety,CROP_VARIETY_rice-adet,ADET
+crop_variety,CROP_VARIETY_finger-millet-adet-05-ad14-sel045,Adet-05 (AD14-SEL045)
+crop_variety,CROP_VARIETY_field-pea-adet-1,Adet 1
+crop_variety,CROP_VARIETY_bread-wheat-adet-1,Adet-1
+crop_variety,CROP_VARIETY_faba-bean-adet-hanna-pgrc-e25041-2-2,Adet-Hanna (PGRC/E25041-2-2)
+crop_variety,CROP_VARIETY_field-pea-adi,Adi
+crop_variety,CROP_VARIETY_sesame-adi,Adi
+crop_variety,CROP_VARIETY_bread-wheat-adola-1,Adola 1
+crop_variety,CROP_VARIETY_haricot-bean-ado-sab736,Ado (SAB736)
+crop_variety,CROP_VARIETY_barley-adoshe-quina-mja-scarrlett,Adoshe (Quina/Mja/Scarrlett)
+crop_variety,CROP_VARIETY_sorghum-adukara,Adukara
+crop_variety,CROP_VARIETY_adzuki-bean-adzuki-bean-erimo,Adzuki bean (Erimo)
+crop_variety,CROP_VARIETY_adzuki-bean-adzuki-bean-japan-keyo,Adzuki bean Japan (Keyo)
+crop_variety,CROP_VARIETY_maize-afan-qalloo-hr-u-28,Afan Qalloo (HrU 28)
+crop_variety,CROP_VARIETY_soybean-afgat-tgx-1892-10-f,Afgat (TGX-1892-10F)
+crop_variety,CROP_VARIETY_tomato-agaro-359-as-199-awash-river,Agaro-359/AS-199/ Awash River
+crop_variety,CROP_VARIETY_broccoli-agassi,Agassi
+crop_variety,CROP_VARIETY_barley-agegnehu-218950-08,Agegnehu (218950-08)
+crop_variety,CROP_VARIETY_field-pea-agrit-ifp308-4,Agrit (IFP308-4)
+crop_variety,CROP_VARIETY_tomato-agro-34-as-198-awassa,Agro-34/ AS-198/ Awassa
+crop_variety,CROP_VARIETY_sesame-ahadu-kelafo-74-x-c-22sel4,Ahadu (Kelafo 74 x C-22sel4)
+crop_variety,CROP_VARIETY_tomato-aibatros-f1,AIbatros F1
+crop_variety,CROP_VARIETY_tef-ajora-pgrc-e-205396,Ajora (PGRC/E 205396)
+crop_variety,CROP_VARIETY_chickpea-akaki-dz-10-9-2,Akaki (DZ-10-9-2)
+crop_variety,CROP_VARIETY_chickpea-akuri-iccv-03402,Akuri (ICCV-03402)
+crop_variety,CROP_VARIETY_durum-wheat-alamtena-43-idsnmeh-2011-130,Alamtena (43IDSNMeh 2011-130)
+crop_variety,CROP_VARIETY_sweet-potato-alamura,Alamura
+crop_variety,CROP_VARIETY_cotton-albar-637,Albar 637
+crop_variety,CROP_VARIETY_potato-alemaya-624,Alemaya 624
+crop_variety,CROP_VARIETY_lentil-alemaya-98-flip-89-63-l,Alemaya 98 (Flip 89-63L)
+crop_variety,CROP_VARIETY_maize-alemaya-composite,Alemaya Composite
+crop_variety,CROP_VARIETY_sorghum-alene-wsv387x-e36-2,Alene (WSV387xE36-2)
+crop_variety,CROP_VARIETY_ethioseed-85,Alfalfa - Supersonic
+crop_variety,CROP_VARIETY_faba-bean-alloshe-eh03043-1,Alloshe (EH03043-1)
+crop_variety,CROP_VARIETY_pepper-amando-tgs-6040,Amando (TGS 6040)
+crop_variety,CROP_VARIETY_tef-amarach-dz-cr-136,Amarach (DZ-Cr-136 )
+crop_variety,CROP_VARIETY_field-pea-ambericho-ig-51664,Ambericho (IG-51664)
+crop_variety,CROP_VARIETY_tef-ambo-toke-dz-01-1278,Ambo Toke (DZ-01-1278)
+crop_variety,CROP_VARIETY_maize-amh850-wnchi,"AMH850 (Wnchi"""
+crop_variety,CROP_VARIETY_maize-amh852-q,AMH852Q
+crop_variety,CROP_VARIETY_maize-amh853,AMH853
+crop_variety,CROP_VARIETY_maize-amh854-ambo,AMH854: (AMBO)
+crop_variety,CROP_VARIETY_bread-wheat-amibara-2-etbw-5963-irrigate,Amibara-2 (ETBW 5963)(Irrigate
+crop_variety,CROP_VARIETY_bread-wheat-amibara-irrigated-doukkala-4,Amibara (irrigated) DOUKKALA-4
+crop_variety,CROP_VARIETY_rice-andassa,ANDASSA
+crop_variety,CROP_VARIETY_soybean-andinet,Andinet
+crop_variety,CROP_VARIETY_faba-bean-angacha-1-tfb097,Angacha-1 (TFB097)
+crop_variety,CROP_VARIETY_coffee-angafa-5-05-1377,Angafa 5-05 (1377)
+crop_variety,CROP_VARIETY_haricot-bean-anger-emp-376,Anger (EMP-376)
+crop_variety,CROP_VARIETY_tomato-anna-f1,Anna F1
+crop_variety,CROP_VARIETY_mango-apple-mango,Apple Mango
+crop_variety,CROP_VARIETY_barley-aquila,Aquila
+crop_variety,CROP_VARIETY_haricot-bean-ar04-gy,AR04GY
+crop_variety,CROP_VARIETY_potato-araarsaa-cip-90138-12,Araarsaa (CIP-90138.12)
+crop_variety,CROP_VARIETY_eggplant-aragon-1726,Aragon 1726
+crop_variety,CROP_VARIETY_cotton-arba,Arba
+crop_variety,CROP_VARIETY_bread-wheat-ardi,Ardi
+crop_variety,CROP_VARIETY_sorghum-aregiti-2005-m15064,Aregiti (2005M15064)
+crop_variety,CROP_VARIETY_tef-areka-1-dz-cr-401,Areka-1 (DZ-Cr-401 )
+crop_variety,CROP_VARIETY_chickpea-arerti-flip-89-84-c,Arerti (FLIP-89-84C)
+crop_variety,CROP_VARIETY_sesame-argane,Argane
+crop_variety,CROP_VARIETY_fenugreek-arganne,Arganne
+crop_variety,CROP_VARIETY_maize-arganne-amh-800,Arganne (AMH 800)
+crop_variety,CROP_VARIETY_field-pea-arjo-1-eh90025-1,Arjo-1 (EH90025-1)
+crop_variety,CROP_VARIETY_mung-bean-arkebe-sml-668,Arkebe (SML-668)
+crop_variety,CROP_VARIETY_tomato-arp-tomato-d2,ARP tomato d2
+crop_variety,CROP_VARIETY_durum-wheat-arsi-robe-tob-66,Arsi-Robe (TOB 66)
+crop_variety,CROP_VARIETY_durum-wheat-asasa-dz-2085,Asasa (DZ 2085)
+crop_variety,CROP_VARIETY_tef-asgori-dz-01-99,Asgori (DZ-01-99)
+crop_variety,CROP_VARIETY_faba-bean-ashebeka-eh01075-4,Ashebeka (EH01075-4)
+crop_variety,CROP_VARIETY_chickpea-asnake-kabuli-type,Asnake (Kabuli type)
+crop_variety,CROP_VARIETY_cowpea-asrat-its-92-kd-279-3,Asrat (ITS 92KD-279-3)
+crop_variety,CROP_VARIETY_lentil-assano-flip-88-46,Assano (Flip 88-46)
+crop_variety,CROP_VARIETY_sorghum-assosa-1-bambasi-no-9,Assosa-1 (Bambasi no-9)
+crop_variety,CROP_VARIETY_sorghum-assosa-2-acc-mok079,Assosa-2(Acc.Mok079)
+crop_variety,CROP_VARIETY_water-melon-augusta,Augusta
+crop_variety,CROP_VARIETY_pepper-austin-c-annuum,Austin (C. annuum)
+crop_variety,CROP_VARIETY_water-melon-avallon-f1,Avallon F1
+crop_variety,CROP_VARIETY_lettuce-aviram-f1-iceberg-type,Aviram F1 (iceberg type)
+crop_variety,CROP_VARIETY_ethioseed-922,Avocado-AL1
+crop_variety,CROP_VARIETY_ethioseed-923,Avocado-Choquette
+crop_variety,CROP_VARIETY_african-marigold-avt001,AVT001
+crop_variety,CROP_VARIETY_african-marigold-avt540,AVT540
+crop_variety,CROP_VARIETY_african-marigold-avt7063-hewoyde,AVT7063 (HEWOYDE)
+crop_variety,CROP_VARIETY_yam-aw-004-00,Aw-004/00
+crop_variety,CROP_VARIETY_coffee-awada-ch1-75227-1377-angafa,Awada CH1(75227*1377(Angafa)
+crop_variety,CROP_VARIETY_potato-awash,Awash
+crop_variety,CROP_VARIETY_haricot-bean-awash-2,Awash-2
+crop_variety,CROP_VARIETY_haricot-bean-awash-mitin,Awash Mitin
+crop_variety,CROP_VARIETY_wine-grape-awash-nigest,Awash Nigest
+crop_variety,CROP_VARIETY_ethiopian-mustard-awassa-1-acc153,Awassa-1 (ACC153)
+crop_variety,CROP_VARIETY_soybean-awassa-95-g2261,Awassa-95 (G2261)
+crop_variety,CROP_VARIETY_rapeseed-axana,Axana
+crop_variety,CROP_VARIETY_finger-millet-axum-acc229355,Axum (ACC229355)
+crop_variety,CROP_VARIETY_tef-axumawit-dz-cr-494-ril-7,Axumawit (DZ-Cr-494 RIL 7)
+crop_variety,CROP_VARIETY_sunflower-ayehu-pgrc-e-acc-208768,Ayehu (PGRC/E ACC#208768)
+crop_variety,CROP_VARIETY_sorghum-ayinage-acc-5012,AYINAGE (Acc.5012)
+crop_variety,CROP_VARIETY_tomato-ayvaz-311,Ayvaz 311
+crop_variety,CROP_VARIETY_rice-azmera,Azmera
+crop_variety,CROP_VARIETY_maize-baate-hr-u-22,Baate (HrU 22)
+crop_variety,CROP_VARIETY_groundnut-babile-1-icgv-98412,Babile-1 (ICGV-98412)
+crop_variety,CROP_VARIETY_groundnut-babile-2-icgv-98404,Babile-2 (ICGV-98404)
+crop_variety,CROP_VARIETY_groundnut-babile-3-icgv-94100,Babile-3 (ICGV-94100)
+crop_variety,CROP_VARIETY_haricot-bean-babile-ecab0247,Babile (ECAB0247)
+crop_variety,CROP_VARIETY_avocado-bacon,Bacon
+crop_variety,CROP_VARIETY_onion-baftaim-improved-1,Baftaim improved -1
+crop_variety,CROP_VARIETY_groundnut-ba-ha-gudo-icgv-88357,BaHa gudo (ICGV-88357)
+crop_variety,CROP_VARIETY_groundnut-ba-ha-jidu-nc-ac-2748-x-chico,BaHa Jidu (NC-AC-2748 x Chico)
+crop_variety,CROP_VARIETY_sesame-ba-ha-necho-w-109-wss-acc-ew-012-5,BaHaNecho-(W-109/WSS/ACC-EW-012(5)
+crop_variety,CROP_VARIETY_barley-bahati,Bahati
+crop_variety,CROP_VARIETY_sesame-ba-ha-zeyit-w-119-wsm-acc-ev-023-1,BaHaZeyit (W-119/WSM(Acc-EV-023(1))
+crop_variety,CROP_VARIETY_sorghum-baji-85-mw-5334,Baji (85 MW 5334)
+crop_variety,CROP_VARIETY_durum-wheat-bakalcha-980-sn-gedirfa-gwero,Bakalcha (980SN Gedirfa/ Gwero
+crop_variety,CROP_VARIETY_linseed-bakalcha-chilalo-x-omega-4-b,Bakalcha (Chilalo X Omega/ 4B)
+crop_variety,CROP_VARIETY_finger-millet-bako-09-acc214995,Bako-09 (ACC214995)
+crop_variety,CROP_VARIETY_maize-bako-1-sc-22-xfh-625-263-xcml,Bako 1 (SC-22XFH-625-263-XCML-
+crop_variety,CROP_VARIETY_bread-wheat-balcha,Balcha
+crop_variety,CROP_VARIETY_field-pea-bamo-flagman,Bamo (Flagman)
+crop_variety,CROP_VARIETY_okra-bamya-humera-acc-23793,Bamya-Humera (ACC#23793)
+crop_variety,CROP_VARIETY_cabbage-bandung-f1,Bandung F1
+crop_variety,CROP_VARIETY_finger-millet-bareda-bre-356-1,Bareda (BRE 356-1)
+crop_variety,CROP_VARIETY_lentil-baredu,Baredu
+crop_variety,CROP_VARIETY_field-pea-bariso-eh90011-1-2,Bariso (EH90011-1-2)
+crop_variety,CROP_VARIETY_tomato-barnum,Barnum
+crop_variety,CROP_VARIETY_water-melon-baronesa-rz-f1,BARONESA RZ F1
+crop_variety,CROP_VARIETY_sesame-barsan-acc-00016-1,Barsan (ACC-00016(1))
+crop_variety,CROP_VARIETY_finger-millet-baruda-pw01-075,Baruda (Pw01-075)
+crop_variety,CROP_VARIETY_lettuce-barundi-nz-f1,Barundi NZ F1
+crop_variety,CROP_VARIETY_onion-basic,Basic
+crop_variety,CROP_VARIETY_haricot-bean-batagonia-rwv-482,Batagonia (RWV-482)
+crop_variety,CROP_VARIETY_tomato-batool,Batool
+crop_variety,CROP_VARIETY_coriander-batu-90312,Batu (90312)
+crop_variety,CROP_VARIETY_snap-bean-b-c-4-4,B.C 4.4
+crop_variety,CROP_VARIETY_potato-bedasa-al-114,Bedasa (AL-114)
+crop_variety,CROP_VARIETY_durum-wheat-begna,Begna
+crop_variety,CROP_VARIETY_barley-beka,Beka
+crop_variety,CROP_VARIETY_linseed-bekoji-14,Bekoji-14
+crop_variety,CROP_VARIETY_barley-bekoji-1-eh1293-f2-18-b-11-1-1,Bekoji-1 (EH1293/F2-18B-11-1-1
+crop_variety,CROP_VARIETY_pyrethrum-bekoji-clone-ku-59,Bekoji (Clone Ku-59)
+crop_variety,CROP_VARIETY_cowpea-bekur-838-689-4,Bekur (838-689-4)
+crop_variety,CROP_VARIETY_tef-bekur-dz-cr-457-ril143,Bekur (DZ-Cr-457 RIL143)
+crop_variety,CROP_VARIETY_linseed-belay-96-iar-li,Belay-96 (IAR/Li)
+crop_variety,CROP_VARIETY_soybean-belesa-95-pr149,Belesa-95 (PR149)
+crop_variety,CROP_VARIETY_okra-belese,Belese
+crop_variety,CROP_VARIETY_maize-beles-sc-713-hybrid-sp13w-x-s,Beles SC 713 hybrid (SP13w X s
+crop_variety,CROP_VARIETY_potato-belete-cip-393371-58,Belete (CIP-393371.58)
+crop_variety,CROP_VARIETY_sorghum-beletew,Beletew
+crop_variety,CROP_VARIETY_rapeseed-belinda,Belinda
+crop_variety,CROP_VARIETY_kororima-benchi-maji-1,Benchi maji-1
+crop_variety,CROP_VARIETY_sesame-benishangul-1-ww-001-6,Benishangul-1 (WW-001(6))
+crop_variety,CROP_VARIETY_barley-bentu-embsn-5th-2-95-3-3-3,Bentu (EMBSN 5th 2/95-3-3-3)
+crop_variety,CROP_VARIETY_maize-bereda-sc-715-hybrid-sp13w-x,Bereda SC 715 hybrid (SP13w x
+crop_variety,CROP_VARIETY_tef-bereket-dz-cr-551-ril173,Bereket (DZ-Cr-551 RIL173)
+crop_variety,CROP_VARIETY_linseed-berene-pgrc-e-01-3627,Berene (PGRC/E 01 3627)
+crop_variety,CROP_VARIETY_date-palm-berhee,Berhee
+crop_variety,CROP_VARIETY_groundnut-betisedi-icg-273,Betisedi (ICG-273)
+crop_variety,CROP_VARIETY_maize-bh140,BH140
+crop_variety,CROP_VARIETY_maize-bh520-nada,BH520 (Nada)
+crop_variety,CROP_VARIETY_maize-bh5211,BH5211
+crop_variety,CROP_VARIETY_maize-bh5212,BH5212
+crop_variety,CROP_VARIETY_maize-bh540,BH540
+crop_variety,CROP_VARIETY_maize-bh541-nscm41-188-32x-xcml197,BH541 (NSCM41-188/32xXCML197)
+crop_variety,CROP_VARIETY_maize-bh-543-sc-22-x124b-129-xcml197,BH 543 (SC 22X124b(129)xcml197
+crop_variety,CROP_VARIETY_ethioseed-815,BH-545
+crop_variety,CROP_VARIETY_maize-bh546-cml395x-cml202x-bkl1,BH546 (CML395xCML202xBKL1)
+crop_variety,CROP_VARIETY_maize-bh547-bkl2-cml312-bkl3,BH547 (BKL2/CML312/BKL3)
+crop_variety,CROP_VARIETY_maize-bh-549-bkl4-bkl003,BH 549 (BKL4/BKL003)
+crop_variety,CROP_VARIETY_maize-bh660,BH660
+crop_variety,CROP_VARIETY_maize-bh661-cml395-x-cml202-x142-1,BH661 (CML395 x CML202 x142-1-
+crop_variety,CROP_VARIETY_maize-bh-670-a-7033x-f7215x144-7-b,BH 670 (A-7033xF7215x144-7-b)
+crop_variety,CROP_VARIETY_maize-bha5211,BHA5211
+crop_variety,CROP_VARIETY_maize-bh-qp542-cml-144-xcml159-xcml17,BH-QP542 (CML-144XCML159XCML17
+crop_variety,CROP_VARIETY_maize-bhqp548-hybrid,BHQP548 Hybrid
+crop_variety,CROP_VARIETY_durum-wheat-bichena-dz-393-4,Bichena (DZ 393-4)
+crop_variety,CROP_VARIETY_bread-wheat-biftu-bw173528,BIFTU(BW173528)
+crop_variety,CROP_VARIETY_barley-biftu-shasho-22-go-1-sn98-b,Biftu (Shasho#22 GO-1 (Sn98B)
+crop_variety,CROP_VARIETY_field-pea-bilallo-eh02-002-3,Bilallo (EH02-002-3)
+crop_variety,CROP_VARIETY_soybean-billo,Billo
+crop_variety,CROP_VARIETY_linseed-biltstar,Biltstar
+crop_variety,CROP_VARIETY_bread-wheat-biqa-etbw-6095,BIQA (ETBW 6095)
+crop_variety,CROP_VARIETY_tef-biradama-acc-236756-3,Biradama (Acc#236756-3)
+crop_variety,CROP_VARIETY_sorghum-birhan-key-8566,Birhan (Key#8566)
+crop_variety,CROP_VARIETY_sorghum-birmash,Birmash
+crop_variety,CROP_VARIETY_tef-bishoftu-dz-cr-497-ril-133,Bishoftu (DZ-Cr-497 RIL 133)
+crop_variety,CROP_VARIETY_fenugreek-bishoftu-fg-10,Bishoftu (FG-10)
+crop_variety,CROP_VARIETY_garlic-bishoftu-netch-w-014,Bishoftu Netch (W-014)
+crop_variety,CROP_VARIETY_tomato-bishola-floradado,Bishola (Floradado)
+crop_variety,CROP_VARIETY_ethioseed-800,BKL001 (Male parent for BH546)
+crop_variety,CROP_VARIETY_ethioseed-804,BKL002 (Female parent for BH547 …
+crop_variety,CROP_VARIETY_ethioseed-801,BKL003 (Male parent for BH547)
+crop_variety,CROP_VARIETY_wine-grape-black-corinth,Black corinth
+crop_variety,CROP_VARIETY_wine-grape-black-hamberg,Black Hamberg
+crop_variety,CROP_VARIETY_haricot-bean-bobe-red-xan-310,Bobe-red (XAN-310)
+crop_variety,CROP_VARIETY_vernonia-boke-kuni-ad-01-04-acc-7,Boke Kuni (AD-01-04 (ACC#7))
+crop_variety,CROP_VARIETY_cowpea-bole-85-d-3517-2,Bole (85D-3517-2)
+crop_variety,CROP_VARIETY_taro-boloso-1-arc-064-96,Boloso-1 (ARC/064/96)
+crop_variety,CROP_VARIETY_bread-wheat-bondena-etbw-6188,Bondena (ETBW 6188)
+crop_variety,CROP_VARIETY_finger-millet-boneya-kne-411,Boneya (KNE#411)
+crop_variety,CROP_VARIETY_tef-boni-dz-cr-498-ril-37,Boni (DZ-Cr-498 RIL 37)
+crop_variety,CROP_VARIETY_sorghum-bonsa-07-mw6085-97-bk6129-85-mw,Bonsa (07MW6085)(97BK6129/85MW
+crop_variety,CROP_VARIETY_common-bean-bontu-nuv-54,Bontu(NUV-54)
+crop_variety,CROP_VARIETY_durum-wheat-boohai,Boohai
+crop_variety,CROP_VARIETY_tef-bora-dz-cr-453-ril120-b,Bora (DZ-Cr-453 RIL120B)
+crop_variety,CROP_VARIETY_mung-bean-borda-mh-97-6,Borda (MH-97-6)
+crop_variety,CROP_VARIETY_green-courgette-borja,Borja
+crop_variety,CROP_VARIETY_sesame-borkena-pungun-yongae,Borkena (Pungun Yongae)
+crop_variety,CROP_VARIETY_red-beet-boro-f1,BORO F1
+crop_variety,CROP_VARIETY_bread-wheat-boru,Boru
+crop_variety,CROP_VARIETY_maize-bos20-w1-sweet-corn-white,BOS20W1 (Sweet corn (white))
+crop_variety,CROP_VARIETY_maize-bos20-y1-sweet-corn-yellow,BOS20Y1 (Sweet corn (yellow))
+crop_variety,CROP_VARIETY_tef-boset-dz-cr-409-ril-50-d,Boset (DZ-Cr-409 RIL.50D)
+crop_variety,CROP_VARIETY_soybean-boshe-iac-13-1,Boshe (IAC-13-1)
+crop_variety,CROP_VARIETY_fine-bush-boston,Boston
+crop_variety,CROP_VARIETY_lettuce-botiola,Botiola
+crop_variety,CROP_VARIETY_ginger-boziab-mau-37-79,BOZIAB (Mau. 37/79)
+crop_variety,CROP_VARIETY_ethioseed-87,Brachiaria brizantha cv.Xaraes - Xaraes …
+crop_variety,CROP_VARIETY_papaya-braz-hs1-cmf-078-l56,Braz-HS1 (CMF 078-L56)
+crop_variety,CROP_VARIETY_ethioseed-716,Bread Wheat-Abola (HAR-1522)
+crop_variety,CROP_VARIETY_ethioseed-86,Bread Wheat - Adet-1 (BAJ …
+crop_variety,CROP_VARIETY_ethioseed-471,Bread Wheat - Alidoro
+crop_variety,CROP_VARIETY_ethioseed-176,Bread Wheat - Amibara – …
+crop_variety,CROP_VARIETY_ethioseed-248,Bread Wheat - Amibera (DOUKKALA-4 …
+crop_variety,CROP_VARIETY_ethioseed-98,Bread Wheat - Ardi (GLADIUS/2*BAVIS) …
+crop_variety,CROP_VARIETY_ethioseed-844,bread wheat-Asgori (EBW192350)
+crop_variety,CROP_VARIETY_ethioseed-101,Bread Wheat - Balcha (ETB …
+crop_variety,CROP_VARIETY_ethioseed-395,Bread Wheat - BIQA (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-460,Bread Wheat - Bobicho
+crop_variety,CROP_VARIETY_ethioseed-732,Bread Wheat-Bobicho (HAR-2419)
+crop_variety,CROP_VARIETY_ethioseed-475,Bread Wheat - Bolo
+crop_variety,CROP_VARIETY_ethioseed-192,Bread Wheat - Bondena (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-251,Bread Wheat - Bulluq (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-246,Bread Wheat - Dambal (AGUILAL/3/PYN/BAU/MILAN)
+crop_variety,CROP_VARIETY_ethioseed-838,bread wheat-Damota
+crop_variety,CROP_VARIETY_ethioseed-710,Bread Wheat-Dashen
+crop_variety,CROP_VARIETY_ethioseed-198,Bread Wheat - Deka (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-195,Bread Wheat - Deka (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-459,Bread Wheat - Densa
+crop_variety,CROP_VARIETY_ethioseed-731,Bread Wheat-Densa (HAR-2562)
+crop_variety,CROP_VARIETY_ethioseed-705,Bread Wheat - Dereselgne
+crop_variety,CROP_VARIETY_ethioseed-462,Bread Wheat - Digalu
+crop_variety,CROP_VARIETY_ethioseed-734,Bread Wheat-Digalu (SHA 7/ KAUZ …
+crop_variety,CROP_VARIETY_ethioseed-472,Bread Wheat - Dinknesh
+crop_variety,CROP_VARIETY_ethioseed-729,Bread Wheat-Doddota (HAR-2508)
+crop_variety,CROP_VARIETY_ethioseed-458,Bread Wheat - Dodota
+crop_variety,CROP_VARIETY_ethioseed-840,bread wheat-Dugda
+crop_variety,CROP_VARIETY_ethioseed-456,Bread Wheat - Dure
+crop_variety,CROP_VARIETY_ethioseed-727,Bread Wheat-Dure (HAR-1008)
+crop_variety,CROP_VARIETY_ethioseed-841,bread wheat-EL-SHALOM ( ETBW9006)
+crop_variety,CROP_VARIETY_ethioseed-708,Bread Wheat-ET-13 A2
+crop_variety,CROP_VARIETY_ethioseed-175,Bread Wheat - Fentale – …
+crop_variety,CROP_VARIETY_ethioseed-249,Bread Wheat - Fentale (MOONTIJ-3 …
+crop_variety,CROP_VARIETY_ethioseed-99,Bread Wheat - Ga’ambo-2 (HEILO/MILAN/MUNIA/3/KIRITATI/2*TRCH) …
+crop_variety,CROP_VARIETY_ethioseed-102,Bread Wheat - Galan (ETBW8003 …
+crop_variety,CROP_VARIETY_ethioseed-714,Bread Wheat-Galema (HAR-604)
+crop_variety,CROP_VARIETY_ethioseed-477,Bread Wheat - Galil
+crop_variety,CROP_VARIETY_ethioseed-480,Bread Wheat - Gambo = …
+crop_variety,CROP_VARIETY_ethioseed-473,Bread Wheat - Gasay
+crop_variety,CROP_VARIETY_ethioseed-455,Bread Wheat - Guna
+crop_variety,CROP_VARIETY_ethioseed-726,Bread Wheat-Guna (HAR-2029)
+crop_variety,CROP_VARIETY_ethioseed-77,Bread Wheat -Hachalu (ETB 8260)
+crop_variety,CROP_VARIETY_ethioseed-187,Bread wheat - Hadis (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-845,bread wheat-Harato (Acc.ETBW9413)
+crop_variety,CROP_VARIETY_ethioseed-723,Bread Wheat-Hawi (HAR-2501)
+crop_variety,CROP_VARIETY_ethioseed-200,Bread Wheat - Hibist (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-484,Bread Wheat - Hoggana (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-396,Bread Wheat - HONQOLO (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-476,Bread Wheat - Inseno-1
+crop_variety,CROP_VARIETY_ethioseed-173,Bread Wheat - JAALANNE (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-174,Bread Wheat - JAJABO (ETB …
+crop_variety,CROP_VARIETY_ethioseed-467,Bread Wheat - Jiru
+crop_variety,CROP_VARIETY_ethioseed-739,Bread Wheat-Jiru (HAR-2896)
+crop_variety,CROP_VARIETY_ethioseed-706,Bread Wheat -K 6290 bulk
+crop_variety,CROP_VARIETY_ethioseed-707,Bread Wheat - K6295-4A
+crop_variety,CROP_VARIETY_ethioseed-478,Bread Wheat - Kakaba (Picaflor …
+crop_variety,CROP_VARIETY_ethioseed-719,Bread Wheat-Katar (HAR-1899)
+crop_variety,CROP_VARIETY_ethioseed-457,Bread Wheat - KBG-01
+crop_variety,CROP_VARIETY_ethioseed-728,Bread Wheat-KBG-01 (FH-1-7A or Line …
+crop_variety,CROP_VARIETY_ethioseed-712,Bread Wheat-Kubsa (HAR 1685)
+crop_variety,CROP_VARIETY_ethioseed-842,bread wheat-Kulito (ETBW9131)
+crop_variety,CROP_VARIETY_ethioseed-843,bread wheat-Kulumsa (EBW192346)
+crop_variety,CROP_VARIETY_ethioseed-293,Bread Wheat - LEMU (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-252,Bread Wheat - Liben (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-724,Bread Wheat-Madda Walabu (HAR-1480)
+crop_variety,CROP_VARIETY_ethioseed-715,Bread Wheat-Megala (HAR-1595)
+crop_variety,CROP_VARIETY_ethioseed-529,Bread Wheat - Mekelle- 03 …
+crop_variety,CROP_VARIETY_ethioseed-470,Bread Wheat - Menze
+crop_variety,CROP_VARIETY_ethioseed-465,Bread Wheat - Meraro
+crop_variety,CROP_VARIETY_ethioseed-737,Bread Wheat-Meraro (11-6-24)
+crop_variety,CROP_VARIETY_ethioseed-468,Bread Wheat - Millenium
+crop_variety,CROP_VARIETY_ethioseed-740,Bread Wheat-Millennium (ETBW-4921)
+crop_variety,CROP_VARIETY_ethioseed-711,Bread Wheat - Mitike (HAR …
+crop_variety,CROP_VARIETY_ethioseed-304,Bread Wheat -NEJMAH-14
+crop_variety,CROP_VARIETY_ethioseed-709,Bread Wheat-Pavon 76
+crop_variety,CROP_VARIETY_ethioseed-474,Bread Wheat - Qulqullu
+crop_variety,CROP_VARIETY_ethioseed-394,Bread Wheat - Sanate (14F/HAR …
+crop_variety,CROP_VARIETY_ethioseed-846,bread wheat-Sekela (Maringa)
+crop_variety,CROP_VARIETY_ethioseed-463,Bread Wheat - Senkegna
+crop_variety,CROP_VARIETY_ethioseed-735,Bread Wheat-Senkegna (HAR 3646)
+crop_variety,CROP_VARIETY_ethioseed-720,Bread Wheat-Shina (HAR-1868)
+crop_variety,CROP_VARIETY_ethioseed-485,Bread Wheat - Shorima (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-721,Bread Wheat-Simba (HAR-2536)
+crop_variety,CROP_VARIETY_ethioseed-203,Bread Wheat- Sinja (Dure/Madda Walabu …
+crop_variety,CROP_VARIETY_ethioseed-730,Bread Wheat-Sirbo (HAR-2192)
+crop_variety,CROP_VARIETY_ethioseed-725,Bread Wheat-Sofumar (HAR-1889)
+crop_variety,CROP_VARIETY_ethioseed-308,Bread Wheat - Sorra (Vorobeycmss96Y02555-040y-020m)
+crop_variety,CROP_VARIETY_ethioseed-469,Bread Wheat - Sulla
+crop_variety,CROP_VARIETY_ethioseed-464,Bread Wheat - Tay
+crop_variety,CROP_VARIETY_ethioseed-736,Bread Wheat-TAY (ET-12 D4/HAR 604 …
+crop_variety,CROP_VARIETY_ethioseed-461,Bread Wheat - Tossa
+crop_variety,CROP_VARIETY_ethioseed-733,Bread Wheat-Tossa (HAR 3123)
+crop_variety,CROP_VARIETY_ethioseed-718,Bread Wheat-Tura (HAR-1775)
+crop_variety,CROP_VARIETY_ethioseed-717,Bread Wheat-Tuse (HAR-1407)
+crop_variety,CROP_VARIETY_ethioseed-713,Bread Wheat-Wabe (HAR-710) 1995 KARC/EIAR
+crop_variety,CROP_VARIETY_ethioseed-290,Bread Wheat - WANE (ETBW …
+crop_variety,CROP_VARIETY_ethioseed-466,Bread Wheat - Warkaye
+crop_variety,CROP_VARIETY_ethioseed-738,Bread Wheat-Warkaye (HAR-3820)
+crop_variety,CROP_VARIETY_ethioseed-722,Bread Wheat-Wetera (HAR-1920)
+crop_variety,CROP_VARIETY_tomato-bridget-40,Bridget 40
+crop_variety,CROP_VARIETY_fig-brown-turkey,Brown Turkey
+crop_variety,CROP_VARIETY_potato-bubu-cip-384321-3,Bubu (CIP-384321-3)
+crop_variety,CROP_VARIETY_ethioseed-752,Buck wheat - Shashe (Japan)
+crop_variety,CROP_VARIETY_yam-bulcha-brc-8-s,Bulcha (BRC-8S)
+crop_variety,CROP_VARIETY_faba-bean-bule-04-eh00102-5,Bule-04 (EH00102-5)
+crop_variety,CROP_VARIETY_faba-bean-bulga-70,Bulga 70
+crop_variety,CROP_VARIETY_groundnut-bulgi,Bulgi
+crop_variety,CROP_VARIETY_cotton-bulk-202,Bulk 202
+crop_variety,CROP_VARIETY_groundnut-bulki-01-icgv-88424,Bulki-01 (ICGV-88424)
+crop_variety,CROP_VARIETY_durum-wheat-bullaallaa-duru-icarda-ethiop,Bullaallaa (Duru ICARDA/Ethiop
+crop_variety,CROP_VARIETY_potato-bulle-cip-387224-25,Bulle (CIP-387224-25)
+crop_variety,CROP_VARIETY_bread-wheat-bulluq-etbw-5484-utqe96-3-py,Bulluq (ETBW 5484)(UTQE96/3/PY
+crop_variety,CROP_VARIETY_coffee-bultum-h-857-98,Bultum (H-857/98)
+crop_variety,CROP_VARIETY_coffee-buno-washi-2-05-7416,Buno-washi 2-05 (7416)
+crop_variety,CROP_VARIETY_potato-burka,Burka
+crop_variety,CROP_VARIETY_field-pea-burkitu-eh99004-2,Burkitu (EH99004-2)
+crop_variety,CROP_VARIETY_fenugreek-burqaa-201617-sno3-7,Burqaa (201617Sno3-7)
+crop_variety,CROP_VARIETY_groundnut-burree-19748,Burree (19748)
+crop_variety,CROP_VARIETY_field-pea-bursa-eh05027-2,Bursa (EH05027-2)
+crop_variety,CROP_VARIETY_banana-butuzua,Butuzua
+crop_variety,CROP_VARIETY_linseed-c1-1525,C1-1525
+crop_variety,CROP_VARIETY_linseed-c1-1652,C1-1652
+crop_variety,CROP_VARIETY_cabbage-cabbice,CABBICE
+crop_variety,CROP_VARIETY_ethioseed-92,Cacao - Cacao (Theobroma cacao)
+crop_variety,CROP_VARIETY_potato-caesar,CAESAR
+crop_variety,CROP_VARIETY_maize-caiman,Caiman
+crop_variety,CROP_VARIETY_sunflower-camara-ii,Camara II
+crop_variety,CROP_VARIETY_cotton-candia,Candia
+crop_variety,CROP_VARIETY_water-melon-candy-swmh-123,Candy (SWMH 123)
+crop_variety,CROP_VARIETY_wine-grape-cannonano,Cannonano
+crop_variety,CROP_VARIETY_pepper-capsi-sch-902-f1,CAPSI (SCH-902 F1)
+crop_variety,CROP_VARIETY_onion-caramelo-f1,Caramelo F1
+crop_variety,CROP_VARIETY_banana-cardaba,Cardaba
+crop_variety,CROP_VARIETY_musk-melon-caribbean-king-rz,Caribbean King RZ
+crop_variety,CROP_VARIETY_water-melon-carmen-f1,Carmen F1
+crop_variety,CROP_VARIETY_ethioseed-920,Carrot-Brillyance F1
+crop_variety,CROP_VARIETY_lettuce-cartagenas-nz-f1,Cartagenas NZ F1
+crop_variety,CROP_VARIETY_ethioseed-50,Cassava - Chemere (IITA 1050127)
+crop_variety,CROP_VARIETY_ethioseed-917,Cassava (Manihot esculenta)-Hawassa 5 (1708)
+crop_variety,CROP_VARIETY_cabbage-ccs1104-1060644-mp0-2-chine,CCS1104(1060644) MP0-2 (Chine
+crop_variety,CROP_VARIETY_cabbage-ccs1107-v1060647-mp0-1-chi,CCS1107 (V1060647) MP0-1 (Chi
+crop_variety,CROP_VARIETY_barley-cdc-select,CDC Select
+crop_variety,CROP_VARIETY_fenugreek-chafe,Chafe
+crop_variety,CROP_VARIETY_cabbage-chaka,CHAKA
+crop_variety,CROP_VARIETY_potato-chala-cip-387412-2,Chala (CIP-387412.2)
+crop_variety,CROP_VARIETY_fenugreek-chala-fg-47-01,Chala (FG-47-01)
+crop_variety,CROP_VARIETY_pepper-chala-pbc-602-c-annuum,Chala (PBC 602) C. annuum
+crop_variety,CROP_VARIETY_sesame-chalasa-ew023-2,Chalasa-EW023 (2)
+crop_variety,CROP_VARIETY_faba-bean-chalew-eh060088-1,Chalew (EH060088-1)
+crop_variety,CROP_VARIETY_lentil-chalew-nel-358,Chalew (NEL 358)
+crop_variety,CROP_VARIETY_tomato-chali-riogrande,Chali (Riogrande)
+crop_variety,CROP_VARIETY_coffee-challa-w76-98,Challa (W76/98)
+crop_variety,CROP_VARIETY_cauliflower-chambord-rz,Chambord RZ
+crop_variety,CROP_VARIETY_chamomile-chamomile-i-american-type,Chamomile-I (American type)
+crop_variety,CROP_VARIETY_chamomile-chamomile-ii-german-type,Chamomile-II (German type)
+crop_variety,CROP_VARIETY_sorghum-chare-pgrc-e-222880,Chare/PGRC/E#222880
+crop_variety,CROP_VARIETY_lentil-checole-enal-2704,Checole (ENAL-2704)
+crop_variety,CROP_VARIETY_cabbage-cheers-f1,Cheers F1
+crop_variety,CROP_VARIETY_garlic-chefe-g-104-1-94,Chefe (G-104-1/94)
+crop_variety,CROP_VARIETY_chickpea-chefe-iccv-92318,Chefe (ICCV-92318)
+crop_variety,CROP_VARIETY_sorghum-chelenko-ets-1176,Chelenko ETS 1176
+crop_variety,CROP_VARIETY_garlic-chelenko-i-g-147-2-94,Chelenko I (G-147-2/94)
+crop_variety,CROP_VARIETY_sorghum-chemeda-acc-brc18,Chemeda (ACC-BRC18)
+crop_variety,CROP_VARIETY_cassava-chemere,Chemere
+crop_variety,CROP_VARIETY_haricot-bean-chercher-sttt-165-96,Chercher (STTT-165-96)
+crop_variety,CROP_VARIETY_soybean-cheri-ipb-81-ep7,Cheri (IPB-81-EP7)
+crop_variety,CROP_VARIETY_rice-chewaqa,Chewaqa
+crop_variety,CROP_VARIETY_tomato-chibli,Chibli
+crop_variety,CROP_VARIETY_ethioseed-892,chich pea mastewal
+crop_variety,CROP_VARIETY_cassava-chichu-tms-191-0427,Chichu (TMS 191/0427)
+crop_variety,CROP_VARIETY_ethioseed-32,Chickpea - Asnake (DZ-2012-CK-0272/ FLIP09-156C)
+crop_variety,CROP_VARIETY_ethioseed-348,Chickpea - Dalota (ICCV-00104)
+crop_variety,CROP_VARIETY_ethioseed-370,Chickpea - (Dhera) DZ-2012 CK-009/FLIP …
+crop_variety,CROP_VARIETY_ethioseed-364,Chickpea - Dimtu ( DZ-2012 …
+crop_variety,CROP_VARIETY_ethioseed-31,Chickpea - (Girar) ግራር ICCMABCA …
+crop_variety,CROP_VARIETY_ethioseed-810,Chickpea- Habiru
+crop_variety,CROP_VARIETY_ethioseed-860,chick pea-hewa (X11TH-78-7)
+crop_variety,CROP_VARIETY_ethioseed-367,Chickpea - (Hora) DZ-2012 CK-001/FLIP …
+crop_variety,CROP_VARIETY_ethioseed-128,Chickpea - ICCV-07108 (Melba) (ሜልባ)
+crop_variety,CROP_VARIETY_ethioseed-127,Chickpea - ICCV-93954 (Mitik)
+crop_variety,CROP_VARIETY_ethioseed-130,Chickpea - KOKA (ICCV-04305)
+crop_variety,CROP_VARIETY_ethioseed-811,Chickpea - Naatoli
+crop_variety,CROP_VARIETY_ethioseed-894,chick pea - teji
+crop_variety,CROP_VARIETY_ethioseed-349,Chickpea - Teketay (ICCX-940002-F5-242P-1-1-1)
+crop_variety,CROP_VARIETY_linseed-chilalo,Chilalo
+crop_variety,CROP_VARIETY_linseed-chilalo-kulumsa-1,Chilalo (Kulumsa-1)
+crop_variety,CROP_VARIETY_sorghum-chiro-coll-4,Chiro (Coll#4)
+crop_variety,CROP_VARIETY_potato-chirro-al-111,Chirro (AL-111)
+crop_variety,CROP_VARIETY_haricot-bean-chore-sttt-165-92,Chore (STTT-165-92)
+crop_variety,CROP_VARIETY_citronella-grass-citronella,Citronella
+crop_variety,CROP_VARIETY_soybean-clark-63-k,Clark 63K
+crop_variety,CROP_VARIETY_cotton-claudia,Claudia
+crop_variety,CROP_VARIETY_tomato-cln-5915-93-d4-tekeze-1,CLN-5915-93-D4 (Tekeze -1)
+crop_variety,CROP_VARIETY_ethioseed-799,CML202 (Male parent for BH543 …
+crop_variety,CROP_VARIETY_ethioseed-797,CML395/CML202 (Female parent for BH661)
+crop_variety,CROP_VARIETY_ethioseed-798,CML395 (Female parent for Basic …
+crop_variety,CROP_VARIETY_ethioseed-777,CML 395 X CML 202 …
+crop_variety,CROP_VARIETY_tomato-cochoro-pace-setter,Cochoro (Pace setter)
+crop_variety,CROP_VARIETY_soybean-coker-240,Coker 240
+crop_variety,CROP_VARIETY_water-melon-columbia-rz-f1,COLUMBIA RZ F1
+crop_variety,CROP_VARIETY_ethioseed-766,Common bean - AR04GY- Canning …
+crop_variety,CROP_VARIETY_ethioseed-768,Common bean - Atndaba /A-262/- …
+crop_variety,CROP_VARIETY_ethioseed-770,Common bean - Ayenew- Food …
+crop_variety,CROP_VARIETY_ethioseed-772,Common bean - Beshbesh/Melk 97 …
+crop_variety,CROP_VARIETY_ethioseed-773,Common bean - Gobe Rasha-1(ICA-15541) …
+crop_variety,CROP_VARIETY_ethioseed-769,Common bean - Gofta- Food …
+crop_variety,CROP_VARIETY_ethioseed-418,common bean/ Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-38,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-36,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-355,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-354,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-353,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-35,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-425,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-665,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-666,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-667,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-668,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-39,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-37,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-282,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-281,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-132,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-133,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-134,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-136,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-137,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-138,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-139,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-159,Common bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-426,Common bean/ Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-761,Common bean/ Haricot bean -- …
+crop_variety,CROP_VARIETY_ethioseed-222,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-224,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-226,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-223,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-229,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-225,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-228,Common Bean /Haricot bean - …
+crop_variety,CROP_VARIETY_ethioseed-763,Common bean/Haricot bean - Awash …
+crop_variety,CROP_VARIETY_ethioseed-227,Common Bean/Haricot bean - Awash …
+crop_variety,CROP_VARIETY_ethioseed-759,Common bean/Haricot bean--Babile (ECAB 0247)
+crop_variety,CROP_VARIETY_ethioseed-703,Common bean/Haricot bean -DAB-372 (Belete)
+crop_variety,CROP_VARIETY_ethioseed-702,Common bean/Haricot bean - DAB-413 …
+crop_variety,CROP_VARIETY_ethioseed-268,Common bean/Haricot bean - DOYO …
+crop_variety,CROP_VARIETY_ethioseed-742,Common bean/Haricot bean - Fedis …
+crop_variety,CROP_VARIETY_ethioseed-588,Common bean/Haricot Bean -Fedis (ECAB0060)
+crop_variety,CROP_VARIETY_ethioseed-265,Common bean/Haricot bean - Gobu …
+crop_variety,CROP_VARIETY_ethioseed-704,Common bean/Haricot bean- (Hundaf) (ሁንዳፍ) …
+crop_variety,CROP_VARIETY_ethioseed-760,Common bean/Haricot bean -- Hundane …
+crop_variety,CROP_VARIETY_ethioseed-758,Common bean/Haricot bean - (Keyyo) …
+crop_variety,CROP_VARIETY_ethioseed-762,Common bean/Haricot/ bean - Mexican …
+crop_variety,CROP_VARIETY_ethioseed-424,Common bean/Haricot bean - Remeda …
+crop_variety,CROP_VARIETY_ethioseed-423,Common bean /Haricot bean -SER …
+crop_variety,CROP_VARIETY_ethioseed-263,Common bean/Haricot bean - Wabero …
+crop_variety,CROP_VARIETY_ethioseed-743,Common bean - Hirna (ECAB …
+crop_variety,CROP_VARIETY_ethioseed-701,Common bean - Hora (ሆራ) …
+crop_variety,CROP_VARIETY_ethioseed-699,Common bean - Jabdu (Ram-20)
+crop_variety,CROP_VARIETY_ethioseed-764,Common bean - Melka Awash-98 …
+crop_variety,CROP_VARIETY_ethioseed-771,Common bean - Melke/Areka 97 …
+crop_variety,CROP_VARIETY_ethioseed-700,Common bean -Milkesa (ሚልኬሳ) DAB-523
+crop_variety,CROP_VARIETY_ethioseed-765,Common bean - Nazareth-2 (TA04JI) …
+crop_variety,CROP_VARIETY_ethioseed-767,Common bean - Red Wolaita- …
+crop_variety,CROP_VARIETY_ethioseed-862,common/haricot/bean-Key-Burre
+crop_variety,CROP_VARIETY_ethioseed-863,common/haricot/bean-Key-Woliata
+crop_variety,CROP_VARIETY_ethioseed-864,common/haricot/bean-Labu
+crop_variety,CROP_VARIETY_lettuce-concorde-nz-f1,Concorde NZ F1
+crop_variety,CROP_VARIETY_ethioseed-74,Coriander - Derara (Acc. 240574-1)
+crop_variety,CROP_VARIETY_ethioseed-927,cotton-Jantekel (Amibara I)
+crop_variety,CROP_VARIETY_ethioseed-861,cow pea-Hundaol (ILRI#25368)
+crop_variety,CROP_VARIETY_maize-cp-201,CP 201
+crop_variety,CROP_VARIETY_maize-cp-838,CP.838
+crop_variety,CROP_VARIETY_maize-cps-10,CPS 10
+crop_variety,CROP_VARIETY_maize-cps-6,CPS 6
+crop_variety,CROP_VARIETY_haricot-bean-cranscope,Cranscope
+crop_variety,CROP_VARIETY_soybean-crawford,Crawford
+crop_variety,CROP_VARIETY_barley-cross-41-98,Cross # 41/98
+crop_variety,CROP_VARIETY_faba-bean-cs-20-dk,CS-20-DK
+crop_variety,CROP_VARIETY_ethioseed-76,Cumin - Likie (242840)
+crop_variety,CROP_VARIETY_ethioseed-75,Cumin - Urgesa (Acc. 205167-2)
+crop_variety,CROP_VARIETY_haricot-bean-dab-372-belete,DAB-372 (Belete)
+crop_variety,CROP_VARIETY_haricot-bean-dab-413-liyu,DAB-413 (Liyu)
+crop_variety,CROP_VARIETY_field-pea-dadimos,Dadimos
+crop_variety,CROP_VARIETY_barley-dafo-aruso-42-4-sn-99-g,Dafo (Aruso (42) 4 (Sn 99 G)
+crop_variety,CROP_VARIETY_sorghum-dagem-97-mw-6130,Dagem (97MW 6130)
+crop_variety,CROP_VARIETY_tef-dagem-dz-cr-438-ril-91-a,Dagem (DZ-Cr-438(RIL.91A))
+crop_variety,CROP_VARIETY_potato-dagim-cip-396004-337,Dagim (CIP-396004.337)
+crop_variety,CROP_VARIETY_faba-bean-dagm-grarjarso-89-8,Dagm (Grarjarso 89-8)
+crop_variety,CROP_VARIETY_chickpea-dalota,Dalota
+crop_variety,CROP_VARIETY_bread-wheat-dambal-aguilal-3-pyn-bau-mil,Dambal (AGUILAL/3/ PYN/BAU/MIL
+crop_variety,CROP_VARIETY_pepper-dame-244666,Dame (244666)
+crop_variety,CROP_VARIETY_turmeric-damey-ind-48-72,DAMEY (Ind. 48/72)
+crop_variety,CROP_VARIETY_groundnut-damkt-2016-icgv-96346,Damkt-2016 (ICGV-96346)
+crop_variety,CROP_VARIETY_maize-damote-p3506-w,Damote (P3506W)
+crop_variety,CROP_VARIETY_potato-dancha-cip-392618-511,Dancha (CIP-392618.511)
+crop_variety,CROP_VARIETY_bread-wheat-danda-a-danphe-1,Danda'a (Danphe#1)
+crop_variety,CROP_VARIETY_ethioseed-824,Dandesu
+crop_variety,CROP_VARIETY_haricot-bean-dandesu-brc-acc-4,Dandesu (BRC-ACC-4)
+crop_variety,CROP_VARIETY_haricot-bean-dandesu-kat-b69,Dandesu (KAT B69)
+crop_variety,CROP_VARIETY_sesame-dangur-ew013-8,Dangur (EW013(8))
+crop_variety,CROP_VARIETY_sorghum-dano,Dano
+crop_variety,CROP_VARIETY_black-cumin-darbera,Darbera
+crop_variety,CROP_VARIETY_soybean-davis,Davis
+crop_variety,CROP_VARIETY_barley-debark-1-acc221300,Debark 1 (ACC221300)
+crop_variety,CROP_VARIETY_finger-millet-debatsi-evi,Debatsi (EVI=)
+crop_variety,CROP_VARIETY_lentil-debine,Debine
+crop_variety,CROP_VARIETY_faba-bean-degaga-r-878-3,Degaga (R-878-3)
+crop_variety,CROP_VARIETY_tef-dega-tef-dz-01-2675,Dega-Tef (DZ-01-2675)
+crop_variety,CROP_VARIETY_potato-degemegn-cip-384321-19,Degemegn (CIP-384321-19)
+crop_variety,CROP_VARIETY_finger-millet-degu-pgrc-e215874,Degu (PGRC/E215874)
+crop_variety,CROP_VARIETY_bread-wheat-deka-etbw-7638-attila-3-2-ba,Deka (ETBW 7638)(ATTILA/3*2/BA
+crop_variety,CROP_VARIETY_sorghum-dekeba-icsr-24004,Dekeba (ICSR 24004)
+crop_variety,CROP_VARIETY_ethioseed-276,Dekoko - RAYA-1 (TK-006/08 Al)
+crop_variety,CROP_VARIETY_cotton-deltapine-90,Deltapine 90
+crop_variety,CROP_VARIETY_white-cumin-dembia-1-gonder-023-2000,Dembia-1 (Gonder 023/2000)
+crop_variety,CROP_VARIETY_lentil-dembi-ei-142xr-186-3,Dembi (EI-142xr-186-3)
+crop_variety,CROP_VARIETY_haricot-bean-deme-sug-131,Deme (SUG-131)
+crop_variety,CROP_VARIETY_pepper-demon-f1-c-frutescence,Demon F1 (C. frutescence)
+crop_variety,CROP_VARIETY_durum-wheat-denbi-ajaia-buashen,Denbi (AJAIA/ BUASHEN)
+crop_variety,CROP_VARIETY_coriander-denkinesh-brazil,Denkinesh (Brazil)
+crop_variety,CROP_VARIETY_taro-denu-33-79,Denu 33/79
+crop_variety,CROP_VARIETY_coriander-derara,Derara
+crop_variety,CROP_VARIETY_haricot-bean-derash-bz-2,Derash (BZ-2)
+crop_variety,CROP_VARIETY_ethiopian-mustard-derash-s-67-x-holetta-1-9-2,Derash (S-67 x Holetta -1/9/2/
+crop_variety,CROP_VARIETY_black-cumin-dershaye,Dershaye
+crop_variety,CROP_VARIETY_lentil-derso-alemaya-flip-88-411-02,Derso (Alemaya FLIP-88-411-02-
+crop_variety,CROP_VARIETY_ethioseed-834,Derso (Alemaya FLIP-88-411-02-AK-14)
+crop_variety,CROP_VARIETY_triticale-dersolign-adtr-085,Dersolign (ADTR 085)
+crop_variety,CROP_VARIETY_anchote-desta-01-223110-25,Desta 01 (223110(25))
+crop_variety,CROP_VARIETY_barley-desta-embsn-5th-46-95-9-9-5,Desta (EMBSN 5th 46/95-9-9-5)
+crop_variety,CROP_VARIETY_chickpea-dhera,Dhera
+crop_variety,CROP_VARIETY_soybean-dhidhessa-pr-149-81-ep-7-2,Dhidhessa (PR-149-81-EP-7-2)
+crop_variety,CROP_VARIETY_sorghum-dibaba-ets639-srn39,Dibaba (ETS639/SRN39)
+crop_variety,CROP_VARIETY_linseed-dibannee-ci-1525-x-cdc1747-21,Dibannee (CI-1525 x CDC1747/21
+crop_variety,CROP_VARIETY_sesame-dicho-ew015,Dicho (EW015)
+crop_variety,CROP_VARIETY_faba-bean-didea-eh01048-1,Didea (EH01048-1)
+crop_variety,CROP_VARIETY_finger-millet-diga-1-acc-216036,Diga-1 (ACC.216036)
+crop_variety,CROP_VARIETY_finger-millet-diga-2-acc-bkfm0010,Diga 2 (Acc.BKFM0010)
+crop_variety,CROP_VARIETY_sweet-potato-dilla,Dilla
+crop_variety,CROP_VARIETY_tef-dima-dz-01-2423,Dima (DZ-01-2423)
+crop_variety,CROP_VARIETY_chickpea-dimtu,Dimtu
+crop_variety,CROP_VARIETY_barley-dimtu-3369-19,Dimtu (3369-19)
+crop_variety,CROP_VARIETY_haricot-bean-dimtu-dor-554,Dimtu (DOR-554)
+crop_variety,CROP_VARIETY_sorghum-dinkimash,Dinkimash
+crop_variety,CROP_VARIETY_banana-dinkua-1,Dinkua-1
+crop_variety,CROP_VARIETY_barley-dinsho-wadago-4,Dinsho (Wadago 4)
+crop_variety,CROP_VARIETY_pepper-dinsire-224665,Dinsire (224665)
+crop_variety,CROP_VARIETY_groundnut-direb-confectionary-type,Direb (Confectionary type)
+crop_variety,CROP_VARIETY_durum-wheat-dire-chen-te3-bushen4-3-ac089,Dire (Chen/TE3/Bushen4/3/AC089
+crop_variety,CROP_VARIETY_barley-diribe-7th-embsn-19-98,Diribe (7th Embsn 19/98)
+crop_variety,CROP_VARIETY_maize-dk008,DK008
+crop_variety,CROP_VARIETY_maize-dk7500,DK7500
+crop_variety,CROP_VARIETY_wine-grape-dodom-alietico,Dodom Alietico
+crop_variety,CROP_VARIETY_durum-wheat-don-matteo,Don Matteo
+crop_variety,CROP_VARIETY_lettuce-dornas-rz,Dornas RZ
+crop_variety,CROP_VARIETY_faba-bean-dosha-coll-155-00-3,Dosha (Coll 155/00-3)
+crop_variety,CROP_VARIETY_haricot-bean-doyo-sab-627,Doyo (SAB 627)
+crop_variety,CROP_VARIETY_banana-ducasse-hybrid,Ducasse Hybrid
+crop_variety,CROP_VARIETY_tef-dukem-dz-01-974,Dukem (DZ-01-974)
+crop_variety,CROP_VARIETY_ethioseed-178,Durem Wheat - Alemtena (43IDSNMeh …
+crop_variety,CROP_VARIETY_ethioseed-495,Durem Wheat - Arsi-Robe (TOB …
+crop_variety,CROP_VARIETY_ethioseed-494,Durem Wheat - Asasa (DZ …
+crop_variety,CROP_VARIETY_ethioseed-512,Durem Wheat - Bakalcha (980SN …
+crop_variety,CROP_VARIETY_ethioseed-497,Durem Wheat - Bichena (DZ …
+crop_variety,CROP_VARIETY_ethioseed-500,Durem Wheat - Boohai
+crop_variety,CROP_VARIETY_ethioseed-177,Durem Wheat - Bullaallaa (Durum …
+crop_variety,CROP_VARIETY_ethioseed-513,Durem Wheat - EJERSA LABUD/NIGERIS …
+crop_variety,CROP_VARIETY_ethioseed-16,Durem Wheat - ETCROSS-21 (DW171226)
+crop_variety,CROP_VARIETY_ethioseed-515,Durem Wheat - FLAKIT (EN-25)
+crop_variety,CROP_VARIETY_ethioseed-499,Durem Wheat - Foka
+crop_variety,CROP_VARIETY_ethioseed-492,Durem Wheat - Ginchi (DZ-1050)
+crop_variety,CROP_VARIETY_ethioseed-508,Durem Wheat - Ilani (DZ …
+crop_variety,CROP_VARIETY_ethioseed-498,Durem Wheat - Kilinto (DZ …
+crop_variety,CROP_VARIETY_ethioseed-511,Durem Wheat - Kokate -- …
+crop_variety,CROP_VARIETY_ethioseed-503,Durem Wheat - Laste (Tob …
+crop_variety,CROP_VARIETY_ethioseed-502,Durem Wheat - Lelisso (DZ-1605)
+crop_variety,CROP_VARIETY_ethioseed-510,Durem Wheat - Malefia- (CD …
+crop_variety,CROP_VARIETY_ethioseed-507,Durem Wheat - Megenagna (DZ …
+crop_variety,CROP_VARIETY_ethioseed-505,Durem Wheat - Mettaya (DZ …
+crop_variety,CROP_VARIETY_ethioseed-506,Durem Wheat - Mosobo (DZ …
+crop_variety,CROP_VARIETY_ethioseed-514,Durem Wheat - OBSA (ALTAR …
+crop_variety,CROP_VARIETY_ethioseed-509,Durem Wheat - Oda (DZ …
+crop_variety,CROP_VARIETY_ethioseed-496,Durem Wheat - Quami (CD-75533-A)
+crop_variety,CROP_VARIETY_ethioseed-181,Durem Wheat - Rigeat (Acc≠208304)
+crop_variety,CROP_VARIETY_ethioseed-493,Durem Wheat - Robe (DZ-1640)
+crop_variety,CROP_VARIETY_ethioseed-504,Durem Wheat - Selam (DZ …
+crop_variety,CROP_VARIETY_ethioseed-179,Durem Wheat - Tesfaye (43IDSNMeh …
+crop_variety,CROP_VARIETY_ethioseed-491,Durem Wheat - Ude
+crop_variety,CROP_VARIETY_ethioseed-254,Durem Wheat - Utuba (IDON-MD-2009-off/53/2009)
+crop_variety,CROP_VARIETY_ethioseed-180,Durem Wheat - Wehabit (Acc≠8208)
+crop_variety,CROP_VARIETY_ethioseed-501,Durem Wheat - Yerer (CD …
+crop_variety,CROP_VARIETY_common-bean-duromsa,Duromsa
+crop_variety,CROP_VARIETY_bread-wheat-dursa,Dursa
+crop_variety,CROP_VARIETY_tef-dursi-acc-236952,Dursi (Acc.236952)
+crop_variety,CROP_VARIETY_haricot-bean-dursitu-dor-811,Dursitu (DOR-811)
+crop_variety,CROP_VARIETY_ethioseed-532,Durum Wheat - Dire
+crop_variety,CROP_VARIETY_ethioseed-214,Durum wheat -Fetan
+crop_variety,CROP_VARIETY_ethioseed-531,Durum Wheat - Mangudo (ICAJIHAN …
+crop_variety,CROP_VARIETY_ethioseed-530,Durum Wheat - Mukiye (STJ3/BCR …
+crop_variety,CROP_VARIETY_ethioseed-847,durum wheat-Seiftu (DW-183142)
+crop_variety,CROP_VARIETY_banana-dwarf-cavandish,Dwarf Cavandish
+crop_variety,CROP_VARIETY_chickpea-dz-10-11,DZ-10-11
+crop_variety,CROP_VARIETY_chickpea-dz-10-4,DZ-10-4
+crop_variety,CROP_VARIETY_ethioseed-783,(DZ-Cr-542(RIL106)
+crop_variety,CROP_VARIETY_ethioseed-782,(DZ-Cr-551(RIL173 (ደዘ-ክሮስ-551)
+crop_variety,CROP_VARIETY_shallot-dzsht-005-02,DZSHT-005/02
+crop_variety,CROP_VARIETY_shallot-dzsht-157-21,DZSHT-157-21
+crop_variety,CROP_VARIETY_shallot-dzsht-91-2-b,DZSHT-91-2B
+crop_variety,CROP_VARIETY_sesame-e,E
+crop_variety,CROP_VARIETY_tef-ebba-dz-cr-458-ril18,Ebba (DZ-Cr-458 RIL18 )
+crop_variety,CROP_VARIETY_fenugreek-ebbisa-ac-tr-7,Ebbisa (AC-TR-7)
+crop_variety,CROP_VARIETY_lentil-ec837891,EC837891
+crop_variety,CROP_VARIETY_tomato-eden-f1,Eden F1
+crop_variety,CROP_VARIETY_rice-edget-wab-189-b-b-b-8-hb,Edget (WAB 189-B-B-B-8-HB)
+crop_variety,CROP_VARIETY_linseed-eh010007-7,EH010007-7
+crop_variety,CROP_VARIETY_barley-eh1493-f6-32-h-3,EH1493/F6.32H.3
+crop_variety,CROP_VARIETY_barley-eh1847-f4-2p-5-2-bea-ibon64-9,EH1847/F4.2p.5.2 (BEA/IBON64/9
+crop_variety,CROP_VARIETY_coffee-eiar50-ch,EIAR50/CH
+crop_variety,CROP_VARIETY_chickpea-ejeri-flip-97-263-c,Ejeri (FLIP-97-263C)
+crop_variety,CROP_VARIETY_durum-wheat-ejersa-labud-nigeris-3-gan-cd,Ejersa Labud/Nigeris 3/Gan (CD
+crop_variety,CROP_VARIETY_faba-bean-ek06007-2-besmena,EK06007-2/Besmena/
+crop_variety,CROP_VARIETY_sorghum-elemo,Elemo
+crop_variety,CROP_VARIETY_bread-wheat-emegwa-eyt-kul-17-62,Emegwa (EYT-KUL-17#62)
+crop_variety,CROP_VARIETY_tomato-emerald-f1,Emerald F1
+crop_variety,CROP_VARIETY_ethioseed-184,Emmer wheat/Aja - Haydaroo (Sintrial1/DZ2212/Sinana-01)
+crop_variety,CROP_VARIETY_ethioseed-751,Emmer wheat/Aja - Lammesso (ACC-224885-2)
+crop_variety,CROP_VARIETY_ethioseed-750,Emmer wheat/Aja - Sinana-01 (Acc. …
+crop_variety,CROP_VARIETY_cotton-enat-caroline-queen,Enat (Caroline queen)
+crop_variety,CROP_VARIETY_tef-enatit-dz-01-354,Enatit (DZ-01-354)
+crop_variety,CROP_VARIETY_enset-endale-manduluka,Endale (Manduluka)
+crop_variety,CROP_VARIETY_field-pea-ep-dz,EP DZ
+crop_variety,CROP_VARIETY_sorghum-erer-2005-mi5081,Erer (#2005MI5081)
+crop_variety,CROP_VARIETY_rice-erib-wab880-1-32-1-2-p1-hb,Erib (WAB880-1-32-1-2-P1-HB)
+crop_variety,CROP_VARIETY_ethioseed-288,Erimo (Adzuki bean)
+crop_variety,CROP_VARIETY_pepper-erta-ale-rz-f1-c-annuum,Erta Ale RZ F1 (C. annuum)
+crop_variety,CROP_VARIETY_noug-esete-1,Esete-1
+crop_variety,CROP_VARIETY_sorghum-esh1,ESH1
+crop_variety,CROP_VARIETY_sorghum-esh2,ESH2
+crop_variety,CROP_VARIETY_sorghum-esh3-hybrid3-icsa-15x-m5568,ESH3 hybrid3 (ICSA-15xM5568)
+crop_variety,CROP_VARIETY_sorghum-esh4-pu209-a-pu304,ESH4 (PU209A/PU304)
+crop_variety,CROP_VARIETY_tomato-eshete-calypso,Eshete (Calypso)
+crop_variety,CROP_VARIETY_chickpea-eshete-dz-2012-ck-0254-iccv-10515,Eshete (DZ-2012 CK-0254/ICCV-10515)
+crop_variety,CROP_VARIETY_barley-estayish-218963-4,Estayish (218963-4)
+crop_variety,CROP_VARIETY_groundnut-eta-icgv-96395,Eta (ICGV-96395)
+crop_variety,CROP_VARIETY_triticale-etcl-161-chima,ETCL 161 (CHIMA)
+crop_variety,CROP_VARIETY_durum-wheat-etcross-21-dw171226,ETCROSS-21 (DW171226)
+crop_variety,CROP_VARIETY_field-pea-etetu-eh010011-3-kik-type,Etetu (EH010011-3) Kik type
+crop_variety,CROP_VARIETY_ethioseed-274,Ethiopian mustard - Derash
+crop_variety,CROP_VARIETY_ethioseed-271,Ethiopian mustard - Tesfa
+crop_variety,CROP_VARIETY_soybean-ethio-yugoslavia,Ethio-Yugoslavia
+crop_variety,CROP_VARIETY_tef-etsub-dz-01-3186,Etsub (DZ-01-3186)
+crop_variety,CROP_VARIETY_avocado-ettinger,Ettinger
+crop_variety,CROP_VARIETY_barley-explorer-marine-x-beatrix,Explorer (Marine X Beatrix)
+crop_variety,CROP_VARIETY_ethioseed-775,Faba bean
+crop_variety,CROP_VARIETY_ethioseed-215,Faba Bean - Alloshe (አሎሼ) …
+crop_variety,CROP_VARIETY_ethioseed-272,Faba Bean - ASHEBEKA (አሸበቃ) …
+crop_variety,CROP_VARIETY_ethioseed-880,faba bean - dagm (Grarjarso …
+crop_variety,CROP_VARIETY_ethioseed-409,Faba bean - DIDE'A ዲደዓ …
+crop_variety,CROP_VARIETY_ethioseed-343,Faba bean - EH00099-1
+crop_variety,CROP_VARIETY_ethioseed-859,Fababean-EH011089-3 (Cherinet)
+crop_variety,CROP_VARIETY_ethioseed-341,Faba Bean - EK01001-5-1
+crop_variety,CROP_VARIETY_ethioseed-878,Faba bean - gebelcho (ET96009-1)
+crop_variety,CROP_VARIETY_ethioseed-411,Faba bean - GORA (EK …
+crop_variety,CROP_VARIETY_ethioseed-819,faba bean- Hachalu
+crop_variety,CROP_VARIETY_ethioseed-273,Faba Bean - HASHENGE (ILB …
+crop_variety,CROP_VARIETY_ethioseed-340,Faba Bean - Mosisaa (: …
+crop_variety,CROP_VARIETY_ethioseed-124,Faba bean - Moybon (ሞይቦን) …
+crop_variety,CROP_VARIETY_ethioseed-25,Faba bean - Shoa/ሸዋ (EH01078-4-3)
+crop_variety,CROP_VARIETY_ethioseed-633,Faba bean - Tesfa (75 …
+crop_variety,CROP_VARIETY_ethioseed-125,Faba bean - Tosha (ቶሻ) …
+crop_variety,CROP_VARIETY_ethioseed-820,faba bean-Tumsa
+crop_variety,CROP_VARIETY_sorghum-fadis-01,Fadis 01
+crop_variety,CROP_VARIETY_barley-fatima-sunshine-x-tamtam,Fatima (Sunshine x Tamtam)
+crop_variety,CROP_VARIETY_coffee-fayate-971,Fayate (971)
+crop_variety,CROP_VARIETY_haricot-bean-fedis-ecab0060,Fedis (ECAB0060)
+crop_variety,CROP_VARIETY_barley-felamit,Felamit
+crop_variety,CROP_VARIETY_sorghum-fendisha-1,Fendisha 1
+crop_variety,CROP_VARIETY_groundnut-fenta-icgv-97267,Fenta (ICGV-97267)
+crop_variety,CROP_VARIETY_bread-wheat-fentale-2-irrigated-type-qafz,Fentale-2(Irrigated type)(QAFZ
+crop_variety,CROP_VARIETY_bread-wheat-fentale-irrigated-moontij-3,Fentale (Irrigated)(MOONTIJ-3)
+crop_variety,CROP_VARIETY_groundnut-fentene-icgv-93370,Fentene (ICGV-93370)
+crop_variety,CROP_VARIETY_ethioseed-45,Fenugreek - Arganne (Acc. 202209sno3-5)
+crop_variety,CROP_VARIETY_ethioseed-43,Fenugreek - Chafe (Acc#FG202120)
+crop_variety,CROP_VARIETY_ethioseed-44,Fenugreek - Turu (Acc#FG53063)
+crop_variety,CROP_VARIETY_cauliflower-ferrara,Ferrara
+crop_variety,CROP_VARIETY_foxtail-millet-fetan-1-e10-zhangzagu-1,Fetan 1 (E10 (Zhangzagu-1)
+crop_variety,CROP_VARIETY_foxtail-millet-fetan-2-e7-bagu214,Fetan 2 (E7(Bagu214))
+crop_variety,CROP_VARIETY_durum-wheat-fetan-cdss02-b00643-s-oy-0-m-1-y4,Fetan (CDSS02B00643S-OY-0M-1Y4
+crop_variety,CROP_VARIETY_tomato-fetane-picador,Fetane (Picador)
+crop_variety,CROP_VARIETY_maize-fetene-acv3,Fetene (ACV3)
+crop_variety,CROP_VARIETY_haricot-bean-fetenech-dab-277,Fetenech (DAB-277)
+crop_variety,CROP_VARIETY_chickpea-fetenech-iccv-92069,Fetenech (ICCV-92069)
+crop_variety,CROP_VARIETY_barley-fetina-sxh-t182,Fetina (SXH T182)
+crop_variety,CROP_VARIETY_potato-feyissa,Feyissa
+crop_variety,CROP_VARIETY_ethioseed-575,Field pea - BILALLO (EH …
+crop_variety,CROP_VARIETY_ethioseed-275,Field pea - BURSA (ቡርሣ) …
+crop_variety,CROP_VARIETY_ethioseed-883,field pea- dume (EH96026-1-4)
+crop_variety,CROP_VARIETY_ethioseed-635,Field pea - FP DZ
+crop_variety,CROP_VARIETY_ethioseed-576,Field pea - Haranna (Cool …
+crop_variety,CROP_VARIETY_ethioseed-28,Field pea - Hasset (ሀሴት) …
+crop_variety,CROP_VARIETY_ethioseed-646,Field pea - Holetta
+crop_variety,CROP_VARIETY_ethioseed-220,Field Pea - Hortu (ሆርቱ) …
+crop_variety,CROP_VARIETY_ethioseed-344,Field pea - ICN Bunsi …
+crop_variety,CROP_VARIETY_ethioseed-126,Field pea - Jeldu (ጀልዱ) …
+crop_variety,CROP_VARIETY_ethioseed-27,Field pea - Jirraafi (EH05011-2) …
+crop_variety,CROP_VARIETY_ethioseed-372,Field Pea - JMeti (NI-21)
+crop_variety,CROP_VARIETY_ethioseed-29,Field pea - Mieso (ሜኤሶ) …
+crop_variety,CROP_VARIETY_ethioseed-640,Field pea - Tulu (PGRC/E32 …
+crop_variety,CROP_VARIETY_ethioseed-221,Field Pea - Weyib (ዌይብ) …
+crop_variety,CROP_VARIETY_ethioseed-652,Field pea - Weyitu (EH …
+crop_variety,CROP_VARIETY_ethioseed-219,Field Pea - Yewaginesh (የዋግነሽ) …
+crop_variety,CROP_VARIETY_ethioseed-30,Fiel pea - Etetu (እቴቱ) …
+crop_variety,CROP_VARIETY_ethioseed-26,Fiel pea - Kuullee (EH08027-2) …
+crop_variety,CROP_VARIETY_ethioseed-208,Figer Millet - Bako-09 (Acc.214995)
+crop_variety,CROP_VARIETY_ethioseed-849,finger millet-Adet-06
+crop_variety,CROP_VARIETY_ethioseed-332,Finger Millet - Diga-1 (ACC. …
+crop_variety,CROP_VARIETY_ethioseed-850,finger millet-Haro (FMC-33)
+crop_variety,CROP_VARIETY_ethioseed-118,Finger Millet - Jabi (ጃቢ) …
+crop_variety,CROP_VARIETY_ethioseed-267,Finger Millet - Kako-1(LR005)
+crop_variety,CROP_VARIETY_ethioseed-117,Finger Millet - : Kumsa …
+crop_variety,CROP_VARIETY_ethioseed-408,Finger Millet - Mecha(ሜጫ)
+crop_variety,CROP_VARIETY_ethioseed-336,Finger Millet - Mereb-1 (KNE#622)
+crop_variety,CROP_VARIETY_ethioseed-149,Finger Millet - Metekili (Acc. …
+crop_variety,CROP_VARIETY_ethioseed-237,Finger millet - Tekeze-1(SMARC collL.60)
+crop_variety,CROP_VARIETY_ethioseed-406,Finger Millet - Tessema (ተሰማ)
+crop_variety,CROP_VARIETY_ethioseed-333,Finger Millet - Urji (Acc. …
+crop_variety,CROP_VARIETY_ethioseed-328,Finger millet - መባ (GBK- …
+crop_variety,CROP_VARIETY_ethioseed-331,Finger Millet - አክሱም (ACC …
+crop_variety,CROP_VARIETY_barley-fire-gebs-eh1609-f5-b3-10,Fire Gebs (EH1609-F5-B3-10)
+crop_variety,CROP_VARIETY_tef-flagot-dz-cr-442-ril77-c,Flagot (DZ-Cr-442 RIL77C)
+crop_variety,CROP_VARIETY_durum-wheat-flakit-en-25,Flakit (EN-25)
+crop_variety,CROP_VARIETY_cauliflower-flamenco-f1,Flamenco F1
+crop_variety,CROP_VARIETY_wine-grape-flame-toky,Flame Toky
+crop_variety,CROP_VARIETY_lentil-flip-96-49-l,FLIP 96-49L
+crop_variety,CROP_VARIETY_barley-focus-grace-x-zeppelin,Focus (Grace x Zeppelin)
+crop_variety,CROP_VARIETY_noug-fogera,Fogera
+crop_variety,CROP_VARIETY_rice-fogera-1-art15-7-16-30-2-b-b,Fogera 1 (ART15-7-16-30-2-B-B)
+crop_variety,CROP_VARIETY_rice-fogera-2-komboka,Fogera 2 (Komboka)
+crop_variety,CROP_VARIETY_durum-wheat-foka,Foka
+crop_variety,CROP_VARIETY_ethioseed-901,food barely-‘Gesse’
+crop_variety,CROP_VARIETY_ethioseed-900,food barely -Odasha (IBONH141P#38)
+crop_variety,CROP_VARIETY_ethioseed-902,food barley
+crop_variety,CROP_VARIETY_ethioseed-561,Food barley - Cross # …
+crop_variety,CROP_VARIETY_ethioseed-209,Food Barley - DEBARK-1 (Acc …
+crop_variety,CROP_VARIETY_ethioseed-564,"Food barley - Fetina (SXH, …"
+crop_variety,CROP_VARIETY_ethioseed-903,food barley-GNT1808 (Fetenech)
+crop_variety,CROP_VARIETY_ethioseed-563,Food barley - Gobe
+crop_variety,CROP_VARIETY_ethioseed-239,Food barley - Hagere (Feres …
+crop_variety,CROP_VARIETY_ethioseed-780,Food barley HB 1307
+crop_variety,CROP_VARIETY_ethioseed-210,Food Barley - HB1965
+crop_variety,CROP_VARIETY_ethioseed-211,Food Barley - HB1966
+crop_variety,CROP_VARIETY_ethioseed-21,Food Barley - Jalqabne (BARC/JED/003/14) …
+crop_variety,CROP_VARIETY_ethioseed-622,Food Barley - Meserach (Kulumsa …
+crop_variety,CROP_VARIETY_ethioseed-152,Food barley - Negele (LMON …
+crop_variety,CROP_VARIETY_ethioseed-857,food barley-Sena/ Semi- Hulled
+crop_variety,CROP_VARIETY_ethioseed-899,food barly-'GABISA' (ICBO4-0080-0AP-6AP-0AP- 0AP-0TR-0AREC)
+crop_variety,CROP_VARIETY_ethioseed-855,food barly-Gishen (Acc204669-1)
+crop_variety,CROP_VARIETY_ethioseed-858,food oat-Richo
+crop_variety,CROP_VARIETY_ethioseed-122,Food Oats - 'Hulegeb' (Goslin)
+crop_variety,CROP_VARIETY_ethioseed-123,Food Oats - Tena' (Souris: …
+crop_variety,CROP_VARIETY_ethioseed-90,Forage Soyabean - (Milkii) TGX1990-114FN
+crop_variety,CROP_VARIETY_cacao-forasterio-1,Forasterio-1
+crop_variety,CROP_VARIETY_bread-wheat-frti-1-mekel4,FRTI-1 (Mekel4)
+crop_variety,CROP_VARIETY_avocado-fuerte,Fuerte
+crop_variety,CROP_VARIETY_lentil-furi,Furi
+crop_variety,CROP_VARIETY_linseed-furtu-ci-1525x-pgrc-e10011,Furtu (CI-1525xPGRC/E10011)
+crop_variety,CROP_VARIETY_field-pea-g22763-2-c,G22763-2C
+crop_variety,CROP_VARIETY_bread-wheat-ga-ambo-2-irrigated-type,Ga ambo-2 Irrigated type
+crop_variety,CROP_VARIETY_tomato-gabbi,GABBI
+crop_variety,CROP_VARIETY_potato-gabbisa-cip-3870-96-11,Gabbisa (CIP-3870-96-11)
+crop_variety,CROP_VARIETY_faba-bean-gabelcho-eh96009-1,Gabelcho (EH96009-1)
+crop_variety,CROP_VARIETY_ethioseed-853,GABISA' (ICBO4-0080-0AP-6AP-0AP- 0AP-0TR-0AREC)
+crop_variety,CROP_VARIETY_haricot-bean-gabisa-vax-2,Gabisa (Vax-2)
+crop_variety,CROP_VARIETY_barley-gabula-acc-231222-ms,Gabula (ACC 231222/MS)
+crop_variety,CROP_VARIETY_black-pepper-gacheb-pan-4-80,GACHEB (Pan. 4/80)
+crop_variety,CROP_VARIETY_faba-bean-gachena-eth91001-13-2,Gachena (ETH91001-13-2)
+crop_variety,CROP_VARIETY_coriander-gadisa,Gadisa
+crop_variety,CROP_VARIETY_bread-wheat-galan,Galan
+crop_variety,CROP_VARIETY_maize-galaxy,Galaxy
+crop_variety,CROP_VARIETY_tomato-galilea,Galilea
+crop_variety,CROP_VARIETY_tomato-galilea-39,Galilea 39
+crop_variety,CROP_VARIETY_tomato-galilea-86,GALILEA 86
+crop_variety,CROP_VARIETY_onion-gamay,Gamay
+crop_variety,CROP_VARIETY_sorghum-gambella-1107,Gambella 1107
+crop_variety,CROP_VARIETY_bread-wheat-gambo-quaiu-2,Gambo (Quaiu #2)
+crop_variety,CROP_VARIETY_ethioseed-55,Garlic - Kundi (NG-0048/04)
+crop_variety,CROP_VARIETY_snow-pea-garnet,GARNET
+crop_variety,CROP_VARIETY_coffee-gawe-74110-x-f-59,Gawe (74110 x F-59)
+crop_variety,CROP_VARIETY_soybean-gazale,Gazale
+crop_variety,CROP_VARIETY_pepper-gebaba-rivival-c-annuum,Gebaba (Rivival) (C. annuum)
+crop_variety,CROP_VARIETY_sorghum-gedo,Gedo
+crop_variety,CROP_VARIETY_field-pea-gedo-1-eh99002-1,Gedo-1 (EH99002-1)
+crop_variety,CROP_VARIETY_chickpea-geletu-iccx-090013-f2-p276-bp,Geletu (ICCX-090013-F2-P276-BP)
+crop_variety,CROP_VARIETY_tomato-gelilema-oval-red,Gelilema (Oval red)
+crop_variety,CROP_VARIETY_tef-gemechis-dz-cr-387-ril-127,Gemechis (DZ-CR-387(RIL.127))
+crop_variety,CROP_VARIETY_sorghum-gemedi,Gemedi
+crop_variety,CROP_VARIETY_black-cumin-gemmachis,Gemmachis
+crop_variety,CROP_VARIETY_cardamom-gene-tan-82-72,GENE (Tan. 82/72)
+crop_variety,CROP_VARIETY_tef-genete-dz-01-146,Genete (DZ-01-146)
+crop_variety,CROP_VARIETY_coffee-gera-coffee-hybrid-1-74158x75,Gera coffee hybrid 1 (74158x75
+crop_variety,CROP_VARIETY_tef-gerado-dz-01-1281,Gerado (DZ-01-1281)
+crop_variety,CROP_VARIETY_potato-gera-kp-90134-2,Gera (KP-90134.2)
+crop_variety,CROP_VARIETY_linseed-geregera-r7-20-d,Geregera (R7-20D)
+crop_variety,CROP_VARIETY_rice-getachew,GETACHEW
+crop_variety,CROP_VARIETY_enset-gewada-henuwa,Gewada (Henuwa)
+crop_variety,CROP_VARIETY_banana-giant-cavandish,Giant Cavandish
+crop_variety,CROP_VARIETY_maize-giba-awash-fendisha,Giba-Awash Fendisha
+crop_variety,CROP_VARIETY_maize-gibe-2,Gibe 2
+crop_variety,CROP_VARIETY_maize-gibe3-open-pollinated,Gibe3 Open pollinated
+crop_variety,CROP_VARIETY_maize-gibe-comp-1-mmrc51,Gibe Comp-1 (MMRC51)
+crop_variety,CROP_VARIETY_tef-gibe-dz-cr-255,Gibe (DZ-CR-255)
+crop_variety,CROP_VARIETY_sesame-gida-ayana-ass-acc-29,Gida Ayana (Ass-acc-29)
+crop_variety,CROP_VARIETY_tef-gimbichu-dz-01-899,Gimbichu (DZ-01-899)
+crop_variety,CROP_VARIETY_sunflower-gimja-p63-a98,Gimja (P63A98)
+crop_variety,CROP_VARIETY_noug-ginchi-1-pgrc-e-227187,Ginchi-1 (PGRC/E 227187)
+crop_variety,CROP_VARIETY_durum-wheat-ginchi-dz-1050,Ginchi (DZ 1050)
+crop_variety,CROP_VARIETY_sorghum-girana1,Girana1
+crop_variety,CROP_VARIETY_chickpea-girar-iccmabca-39,Girar (ICCMABCA-39)
+crop_variety,CROP_VARIETY_ethioseed-828,Gishama
+crop_variety,CROP_VARIETY_soybean-gishama-pr-143-26,Gishama (PR-143-26)
+crop_variety,CROP_VARIETY_soybean-gizo-tgx-1885-33-f,Gizo (TGX-1885-33F)
+crop_variety,CROP_VARIETY_cotton-gloria,Gloria
+crop_variety,CROP_VARIETY_cabbage-gloria,Gloria
+crop_variety,CROP_VARIETY_musk-melon-glory-f1,Glory F1
+crop_variety,CROP_VARIETY_haricot-bean-glp-2,GLP-2
+crop_variety,CROP_VARIETY_ethioseed-856,GNT1808 (Fetenech
+crop_variety,CROP_VARIETY_barley-gobe-cbss96-m00487-t-d-1-m-1-y-2-m,Gobe (CBSS96M00487T-D-1M-1Y-2M
+crop_variety,CROP_VARIETY_haricot-bean-gobu-selian-97,Gobu (Selian-97)
+crop_variety,CROP_VARIETY_rice-gode-1-bg-90-2,Gode 1 (BG 90-2)
+crop_variety,CROP_VARIETY_tef-gola-dz-01-2054,Gola (DZ-01-2054)
+crop_variety,CROP_VARIETY_barley-golden-eye,Golden eye
+crop_variety,CROP_VARIETY_sesame-gonder-1-acc-ba002,Gonder-1 (ACC.Ba002)
+crop_variety,CROP_VARIETY_faba-bean-gora-ek-01024-1-2,Gora (EK 01024-1-2)
+crop_variety,CROP_VARIETY_potato-gorebela-cip-382173-12,Gorebela (CIP-382173.12)
+crop_variety,CROP_VARIETY_haricot-bean-gorossa,Gorossa
+crop_variety,CROP_VARIETY_barley-grace,Grace
+crop_variety,CROP_VARIETY_banana-grand-nain,Grand Nain
+crop_variety,CROP_VARIETY_cabbage-green-boy-f1,Green boy F1
+crop_variety,CROP_VARIETY_broccoli-green-star-f,Green star F
+crop_variety,CROP_VARIETY_wine-grape-grenache-blanch,Grenache Blanch
+crop_variety,CROP_VARIETY_wine-grape-grenache-noir,Grenache noir
+crop_variety,CROP_VARIETY_ethioseed-805,Ground nut
+crop_variety,CROP_VARIETY_ethioseed-909,groundnut-Hirko (Accession # 23525)
+crop_variety,CROP_VARIETY_ethioseed-148,Groundnut - ICG67 X BIGSEED
+crop_variety,CROP_VARIETY_ethioseed-151,Groundnut - Milkaye (PI-158850
+crop_variety,CROP_VARIETY_ethioseed-806,Groundnut variety Werer 962
+crop_variety,CROP_VARIETY_ethioseed-150,Groundnut - ድርብ /Direb (ICGV-97164 …
+crop_variety,CROP_VARIETY_potato-guasa-cip-384321-9,Guasa (CIP-384321.9)
+crop_variety,CROP_VARIETY_sorghum-gubiye-p9401,Gubiye (P9401)
+crop_variety,CROP_VARIETY_soybean-guda,Guda
+crop_variety,CROP_VARIETY_potato-gudanie-cip-386423-13,Gudanie (CIP-386423.13)
+crop_variety,CROP_VARIETY_finger-millet-gudetu-acc215990,Gudetu (ACC215990)
+crop_variety,CROP_VARIETY_lentil-gudo-flip-84-78-l,Gudo (Flip 84-78L)
+crop_variety,CROP_VARIETY_tef-guduru-dz-01-1880,Guduru (DZ-01-1880)
+crop_variety,CROP_VARIETY_rice-gumara-iac-164,Gumara (IAC 164)
+crop_variety,CROP_VARIETY_field-pea-gume-eh96026-1-4,Gume (EH96026-1-4)
+crop_variety,CROP_VARIETY_maize-gusaw-gambella-composite,Gusaw (Gambella Composite)
+crop_variety,CROP_VARIETY_barley-guta-acc-3260-18,Guta (ACC 3260-18)
+crop_variety,CROP_VARIETY_soybean-gute,Gute
+crop_variety,CROP_VARIETY_finger-millet-gute-229373,Gute (229373)
+crop_variety,CROP_VARIETY_maize-guto,Guto
+crop_variety,CROP_VARIETY_groundnut-habesha-icg-7822,Habesha (ICG-7822)
+crop_variety,CROP_VARIETY_chickpea-habru-flip-88-42-c,Habru (FLIP-88-42C)
+crop_variety,CROP_VARIETY_bread-wheat-hachallu,Hachallu
+crop_variety,CROP_VARIETY_sesame-hachalu,Hachalu
+crop_variety,CROP_VARIETY_faba-bean-hachalu-eh00102-4-1,Hachalu (EH00102-4-1)
+crop_variety,CROP_VARIETY_bread-wheat-hadis-etbw-6463,Hadis (ETBW 6463)
+crop_variety,CROP_VARIETY_sesame-hagalo,Hagalo
+crop_variety,CROP_VARIETY_barley-hagere-feres-gama,Hagere (Feres gama)
+crop_variety,CROP_VARIETY_onion-han,Han
+crop_variety,CROP_VARIETY_haricot-bean-haramaya-g-843,Haramaya (G-843)
+crop_variety,CROP_VARIETY_carrot-haramaya-i-aua-108,Haramaya I (AUA-108)
+crop_variety,CROP_VARIETY_field-pea-haranna-cool38-00-4,Haranna (Cool38/00-4)
+crop_variety,CROP_VARIETY_pepper-harbad-f1,Harbad F1
+crop_variety,CROP_VARIETY_barley-harbu-aruso-bale-10-1,Harbu (Aruso Bale # 10-1)
+crop_variety,CROP_VARIETY_ethioseed-890,haricot bean- melka awash -98
+crop_variety,CROP_VARIETY_ethioseed-889,haricot bean- Nasir
+crop_variety,CROP_VARIETY_ethioseed-852,Haro (FMC-33) Landrace
+crop_variety,CROP_VARIETY_haricot-bean-haro-sabu-1-scr33,Haro Sabu-1 (SCR33)
+crop_variety,CROP_VARIETY_coffee-haru-1-w66-98,Haru 1 (W66/98)
+crop_variety,CROP_VARIETY_barley-haruna-nijo-specific-for-nort,Haruna Nijo (Specific for nort
+crop_variety,CROP_VARIETY_coffee-harusa-h-674-98,Harusa (H-674/98)
+crop_variety,CROP_VARIETY_faba-bean-hashenge-ilb-4358,Hashenge (ILB 4358)
+crop_variety,CROP_VARIETY_avocado-hass,Hass
+crop_variety,CROP_VARIETY_field-pea-hassabe,Hassabe
+crop_variety,CROP_VARIETY_field-pea-hasset-eh08003-2,Hasset (EH08003-2)
+crop_variety,CROP_VARIETY_soybean-hawassa-04-ags-7-1,Hawassa 04 (AGS-7.1)
+crop_variety,CROP_VARIETY_sweet-potato-hawassa-09-tis-8250-1,Hawassa-09 (TIS-8250-1)
+crop_variety,CROP_VARIETY_maize-hawassa-1-ese-237,Hawassa 1 (ESE 237)
+crop_variety,CROP_VARIETY_cassava-hawassa-4-mm-96-7151,Hawassa-4 (MM 96/7151)
+crop_variety,CROP_VARIETY_ethioseed-823,Hawassa Dume
+crop_variety,CROP_VARIETY_haricot-bean-hawassa-dume-snnpr-120,Hawassa Dume (SNNPR-120)
+crop_variety,CROP_VARIETY_emmer-wheat-haydaroo-sinana-01-dz2212-sin,Haydaroo (Sinana-01/DZ2212/Sin
+crop_variety,CROP_VARIETY_barley-hb-120,HB-120
+crop_variety,CROP_VARIETY_barley-hb-1307-eh-1700-f71-b1-63,HB-1307 (EH-1700/F71.B1.63)
+crop_variety,CROP_VARIETY_barley-hb-1533,HB-1533
+crop_variety,CROP_VARIETY_barley-hb-1963,HB 1963
+crop_variety,CROP_VARIETY_barley-hb-1964,HB 1964
+crop_variety,CROP_VARIETY_barley-hb1965-awragebs-ibon64-91-loc,HB1965 (Awragebs/IBON64/91-Loc
+crop_variety,CROP_VARIETY_barley-hb1966-f2-sx-s-121-99-icarda-s,HB1966 (F2 SxS 121/99-ICARDA s
+crop_variety,CROP_VARIETY_barley-hb-42,HB-42
+crop_variety,CROP_VARIETY_barley-hb-52,HB-52
+crop_variety,CROP_VARIETY_common-bean-hegere,Hegere
+crop_variety,CROP_VARIETY_garlic-heleta-g-hl,Heleta (G-HL)
+crop_variety,CROP_VARIETY_field-pea-heletta,Heletta
+crop_variety,CROP_VARIETY_barley-henrike,Henrike
+crop_variety,CROP_VARIETY_tef-hiber-1-dz-cr-419,Hiber-1 (DZ-Cr-419)
+crop_variety,CROP_VARIETY_rice-hibir-irga370-38-1-1-f-b1-1,Hibir (IRGA370-38-1-1F-B1-1)
+crop_variety,CROP_VARIETY_bread-wheat-hibist-etbw-7690,Hibist (ETBW 7690)
+crop_variety,CROP_VARIETY_bread-wheat-hidase-etbw-5795,Hidase (ETBW 5795)
+crop_variety,CROP_VARIETY_rice-hidasse,Hidasse
+crop_variety,CROP_VARIETY_haricot-bean-hirna-ecab0203,Hirna (ECAB0203)
+crop_variety,CROP_VARIETY_castor-hiruy-gk-sel-1,Hiruy (GK-SEL-1)
+crop_variety,CROP_VARIETY_durum-wheat-hitosa-chen-altar-84,Hitosa (Chen/Altar-84)
+crop_variety,CROP_VARIETY_barley-hkbl-1512-5-fanaka,HKBL 1512-5 (Fanaka)
+crop_variety,CROP_VARIETY_rice-hoden-mtu-1001,Hoden (MTU 1001)
+crop_variety,CROP_VARIETY_bread-wheat-hoggana-etbw-5780,Hoggana (ETBW 5780)
+crop_variety,CROP_VARIETY_ethiopian-mustard-holetta-1-ms-yd-x-zem-1-bcr-5,Holetta-1 (MS-YD x Zem-1-BCR-5
+crop_variety,CROP_VARIETY_faba-bean-holetta-bp-1802-1-2,Holetta (BP 1802-1-2)
+crop_variety,CROP_VARIETY_tef-holetta-key-brown-color-dz-0,Holetta Key (Brown color)(DZ-0
+crop_variety,CROP_VARIETY_lettuce-holetta-red-rsk-3,Holetta Red (Rsk-3)
+crop_variety,CROP_VARIETY_barley-holker,Holker
+crop_variety,CROP_VARIETY_bread-wheat-honqolo-etbw-5879,HONQOLO (ETBW 5879)
+crop_variety,CROP_VARIETY_chickpea-hora,Hora
+crop_variety,CROP_VARIETY_maize-hora-ambo-2-syn1,Hora (Ambo 2 syn1)
+crop_variety,CROP_VARIETY_haricot-bean-hora-scr-28,Hora (SCR-28)
+crop_variety,CROP_VARIETY_linseed-horesoba,Horesoba
+crop_variety,CROP_VARIETY_sorghum-hormat-icsv-1112-bf,Hormat (ICSV 1112 BF)
+crop_variety,CROP_VARIETY_potato-horro-cip38432-30,Horro (CIP38432.30)
+crop_variety,CROP_VARIETY_field-pea-hortu-eh0281-8,Hortu (EH0281-8)
+crop_variety,CROP_VARIETY_maize-hq-138,HQ 138
+crop_variety,CROP_VARIETY_barley-hriti-sxh-s106,Hriti (SXH S106)
+crop_variety,CROP_VARIETY_bread-wheat-hulluka-etbw-5496,Hulluka (ETBW 5496)
+crop_variety,CROP_VARIETY_sesame-humera-1-acc038-sel-1,Humera-1 (ACC038 sel. 1)
+crop_variety,CROP_VARIETY_fenugreek-hunda-01-fg-18,Hunda-01 (FG-18)
+crop_variety,CROP_VARIETY_haricot-bean-hundaf-dab-277-red-mottled,Hundaf (DAB 277) Red Mottled
+crop_variety,CROP_VARIETY_haricot-bean-hundane-k132,Hundane (K132)
+crop_variety,CROP_VARIETY_potato-hundee-cip-90147-8,Hundee (CIP-90147.8)
+crop_variety,CROP_VARIETY_field-pea-hursa-kfp-103-b,Hursa (KFP-103/B)
+crop_variety,CROP_VARIETY_shallot-huruta-dz-sht-91,Huruta (DZ-SHT-91)
+crop_variety,CROP_VARIETY_sunflower-hysun-33,Hysun 33
+crop_variety,CROP_VARIETY_haricot-bean-ibbado-afr-722,Ibbado (AFR-722)
+crop_variety,CROP_VARIETY_barley-ibon-174-03,IBON 174/03
+crop_variety,CROP_VARIETY_groundnut-icg67-x-big-seed-confectionary-type,ICG67 X BIG SEED (confectionary type)
+crop_variety,CROP_VARIETY_groundnut-icgv-93164,ICGV-93164
+crop_variety,CROP_VARIETY_groundnut-icgv-94205,ICGV-94205
+crop_variety,CROP_VARIETY_groundnut-icgv-94222,ICGV-94222
+crop_variety,CROP_VARIETY_groundnut-icgv-95469,ICGV-95469
+crop_variety,CROP_VARIETY_barley-iftuu-mn-brite,Iftuu (Mn Brite)
+crop_variety,CROP_VARIETY_finger-millet-ikhulule,Ikhulule
+crop_variety,CROP_VARIETY_pepper-ilanga-rz-f1-c-annuum,ILANGA RZ F1 (C. annuum)
+crop_variety,CROP_VARIETY_durum-wheat-ilani-dz-2234,Ilani (DZ 2234)
+crop_variety,CROP_VARIETY_barley-illala01-ereth07-51,Illala01 (Ereth07-51)
+crop_variety,CROP_VARIETY_barley-illala02-ereth07-80,Illala02 (Ereth07-80)
+crop_variety,CROP_VARIETY_tomato-ilu-harar-cln2498,Ilu-harar (CLN2498)
+crop_variety,CROP_VARIETY_shallot-improved-huruta,Improved Huruta
+crop_variety,CROP_VARIETY_cabbage-indica-f1,Indica F1
+crop_variety,CROP_VARIETY_coriander-indium-01,INDIUM 01
+crop_variety,CROP_VARIETY_cotton-ionia,Ionia
+crop_variety,CROP_VARIETY_ethioseed-912,irish potato-Birhan (CIP312921.576)
+crop_variety,CROP_VARIETY_ethioseed-911,irish potato-Caruso
+crop_variety,CROP_VARIETY_ethioseed-913,irish potato-Dagnew (CIP312929.532)
+crop_variety,CROP_VARIETY_ethioseed-910,Irish potato- (Solanum tuberosum)Hermes
+crop_variety,CROP_VARIETY_ethioseed-914,-irish potato-Worku (AD501645.9)
+crop_variety,CROP_VARIETY_tomato-irma,Irma
+crop_variety,CROP_VARIETY_sorghum-is9302,IS9302
+crop_variety,CROP_VARIETY_common-bean-isar-cb-10-4-cab2,ISAR CB-10-4(CAB2)
+crop_variety,CROP_VARIETY_cowpea-it-98-k-131-2,IT (98K-131-2)
+crop_variety,CROP_VARIETY_bread-wheat-jaalanne-etbw-6440-whear-sok,Jaalanne (ETBW 6440) Whear/SOK
+crop_variety,CROP_VARIETY_sorghum-jabaa-etsl101259-acc-20016,Jabaa[ETSL101259(Acc.20016)]
+crop_variety,CROP_VARIETY_haricot-bean-jabdu-ram-20,Jabdu (Ram-20)
+crop_variety,CROP_VARIETY_finger-millet-jabesa-wama-x-pw-001-002-p1-1-1-2,Jabesa(Wama x PW-001-002(P1-1)-1-2)
+crop_variety,CROP_VARIETY_finger-millet-jabi-pgrc-e-acc-229626,Jabi (PGRC/E) Acc.229626
+crop_variety,CROP_VARIETY_maize-jabi-phb-3253,Jabi (PHB 3253)
+crop_variety,CROP_VARIETY_bread-wheat-jajabo-etb6785-w15-92-4-pasto,JAJABO (ETB6785)W15.92/4/PASTO
+crop_variety,CROP_VARIETY_pepper-jajo-c-annuum,Jajo (C. annuum)
+crop_variety,CROP_VARIETY_soybean-jalale-ags-217,Jalale (AGS-217)
+crop_variety,CROP_VARIETY_potato-jalenie-cip-37792-5,Jalenie (CIP-37792.5)
+crop_variety,CROP_VARIETY_barley-jalqabne-barc-jed-003-14-hulless-barley,Jalqabne (BARC/JED/003/14) Hulless barley
+crop_variety,CROP_VARIETY_onion-jamber-f1,Jamber F1
+crop_variety,CROP_VARIETY_fenugreek-jamma-202169-3,Jamma (202169/3)
+crop_variety,CROP_VARIETY_tomato-jarrah-rz-f1,JARRAH RZ F1
+crop_variety,CROP_VARIETY_tef-jarso-dz-cr-456-ril-76-b,Jarso (DZ-Cr-456 RIL-76B )
+crop_variety,CROP_VARIETY_ethioseed-816,Jefferson
+crop_variety,CROP_VARIETY_bread-wheat-jefferson,Jefferson
+crop_variety,CROP_VARIETY_linseed-jeldu-c1-1652-x-omega-23,Jeldu (C1-1652 x Omega/23)
+crop_variety,CROP_VARIETY_field-pea-jeldu-eh07006-5-kik-type,Jeldu (EH07006-5) Kik type
+crop_variety,CROP_VARIETY_potato-jelly,Jelly
+crop_variety,CROP_VARIETY_cowpea-jergade-nllp-cpc-145-21,Jergade (NLLP_CPC-145-21)
+crop_variety,CROP_VARIETY_maize-jibat-amh851,JIbat (AMH851)
+crop_variety,CROP_VARIETY_field-pea-jiidhaa-eh08033-2,Jiidhaa (EH08033-2)
+crop_variety,CROP_VARIETY_linseed-jiituu-c1-1652x-omega-b-53,Jiituu (C1-1652xOmega/B/53)
+crop_variety,CROP_VARIETY_field-pea-jirraafi-eh05011-2-kik-type,Jirraafi (EH05011-2) Kik type
+crop_variety,CROP_VARIETY_sorghum-jiru-ets-2752,Jiru (ETS-2752)
+crop_variety,CROP_VARIETY_lentil-jiru-r-186x-flip-86-38-l-2,Jiru (R-186xFLIP 86-38L-2)
+crop_variety,CROP_VARIETY_tef-jitu-dz-01-256,Jitu (DZ-01-256)
+crop_variety,CROP_VARIETY_cotton-jkch-11050-bt-cotton,JKCH 11050 (BT Cotton)
+crop_variety,CROP_VARIETY_cotton-jkch-1947-bt-cotton,JKCH 1947 (BT Cotton)
+crop_variety,CROP_VARIETY_tobaco-k-110,K-110
+crop_variety,CROP_VARIETY_cabbage-k-500,K 500
+crop_variety,CROP_VARIETY_sweet-potato-kabode,Kabode
+crop_variety,CROP_VARIETY_finger-millet-kako-1-l005,Kako-1 (L005)
+crop_variety,CROP_VARIETY_rice-kallafo-1-fofifa-3737,Kallafo-1/Fofifa 3737
+crop_variety,CROP_VARIETY_cabbage-karibo-f1,Karibo F1
+crop_variety,CROP_VARIETY_chickpea-kasech-flip-95-31-c,Kasech (Flip-95-31C)
+crop_variety,CROP_VARIETY_faba-bean-kassa,Kassa
+crop_variety,CROP_VARIETY_linseed-kassa-2-pgrc-e-10306-x-chilal,Kassa-2 (PGRC/E 10306 x Chilal
+crop_variety,CROP_VARIETY_soybean-katta-pr-145-2,Katta (PR-145-2)
+crop_variety,CROP_VARIETY_maize-katumani,Katumani
+crop_variety,CROP_VARIETY_tomato-kayla-555-f1,Kayla 555F1
+crop_variety,CROP_VARIETY_tomato-kayla-6699-f1,Kayla 6699 F1
+crop_variety,CROP_VARIETY_sugarcane-kay-shenkora,Kay Shenkora
+crop_variety,CROP_VARIETY_sunflower-kazanova-hybrid,Kazanova (Hybrid)
+crop_variety,CROP_VARIETY_cowpea-kechene-nllp-cpc-103-b,Kechene (NLLP_CPC_103B)
+crop_variety,CROP_VARIETY_kororima-kefa-1,Kefa-1
+crop_variety,CROP_VARIETY_mango-keitt,Keitt
+crop_variety,CROP_VARIETY_sesame-kelafo-74,Kelafo 74
+crop_variety,CROP_VARIETY_enset-kelisa-wellanchie,Kelisa (WELLANCHIE)
+crop_variety,CROP_VARIETY_maize-kello-1-bhqpy-545,Kello 1 (BHQPY 545)
+crop_variety,CROP_VARIETY_cassava-kello-44-72-red,Kello (44/72 red)
+crop_variety,CROP_VARIETY_haricot-bean-kello-f10-b-sel-new-bilfa-58,Kello (F10B. sel new Bilfa 58)
+crop_variety,CROP_VARIETY_tef-kena-23-tafi-adi-72,Kena (23-Tafi-Adi-72)
+crop_variety,CROP_VARIETY_lettuce-kenia-rz-iceberg-lettuce,Kenia RZ (Iceberg lettuce)
+crop_variety,CROP_VARIETY_black-cumin-kenna,Kenna
+crop_variety,CROP_VARIETY_mango-kent,Kent
+crop_variety,CROP_VARIETY_ziziphus-kurkura-kethely,Kethely
+crop_variety,CROP_VARIETY_cowpea-keti-it99-k-1122,Keti (IT99K-1122)
+crop_variety,CROP_VARIETY_tef-key-tena-dark-brown-dz-01-16,Key Tena (Dark brown)(DZ-01-16
+crop_variety,CROP_VARIETY_lima-bean-butter-bean-kibat,Kibat
+crop_variety,CROP_VARIETY_barley-kiflu-b-miscal-21,Kiflu-B (Miscal-21)
+crop_variety,CROP_VARIETY_durum-wheat-kilinto-dz-918,Kilinto (DZ 918)
+crop_variety,CROP_VARIETY_bread-wheat-kingbird,Kingbird
+crop_variety,CROP_VARIETY_cabbage-kiseki-f1-chinese-cabbage,Kiseki F1 (Chinese cabbage)
+crop_variety,CROP_VARIETY_banana-kitawira,Kitawira
+crop_variety,CROP_VARIETY_taro-kiyaq-33-79,Kiyaq 33/79
+crop_variety,CROP_VARIETY_chickpea-kobo-iccv-01308,Kobo (ICCV-01308)
+crop_variety,CROP_VARIETY_yam-koffe,Koffe
+crop_variety,CROP_VARIETY_papaya-koka-hm1-kk-103-l446,Koka-HM1(KK 103-L446)
+crop_variety,CROP_VARIETY_chickpea-koka-iccv-04305-kabuli-type,KOKA (ICCV-04305) Kabuli type
+crop_variety,CROP_VARIETY_ethiopian-mustard-kokate-1-pgrc-e-1-2-208507,Kokate-1 (PGRC/E/1/2/208507)
+crop_variety,CROP_VARIETY_durum-wheat-kokate-dz-2016-1-bzr-10205-oak,Kokate (DZ-2016-1BZR-10205-OAK
+crop_variety,CROP_VARIETY_rice-kokit-irat-209,Kokit (IRAT 209)
+crop_variety,CROP_VARIETY_pearl-millet-kola-1-icmv221,KOLA-1 (ICMV221)
+crop_variety,CROP_VARIETY_triticale-kombolcha,Kombolcha
+crop_variety,CROP_VARIETY_tomato-komto-cln2123-e,Komto (CLN2123E)
+crop_variety,CROP_VARIETY_tef-kora-dz-cr-438-ril-133-b,Kora (DZ-Cr-438(RIL.133B))
+crop_variety,CROP_VARIETY_bread-wheat-korem-1,Korem 1
+crop_variety,CROP_VARIETY_ethioseed-79,Korerima - Benchi maji-1 (Acc#0211/00)
+crop_variety,CROP_VARIETY_ethioseed-78,Korerima - Kefa-1 (Acc#010/00)
+crop_variety,CROP_VARIETY_soybean-korme-ags-129-2,Korme (AGS-129-2)
+crop_variety,CROP_VARIETY_maize-kortu-p2809-w,Kortu (P2809W)
+crop_variety,CROP_VARIETY_coffee-koti-85257,Koti (85257)
+crop_variety,CROP_VARIETY_tef-koye-dz-01-1285,Koye (DZ-01-1285)
+crop_variety,CROP_VARIETY_lettuce-kristine-nz-f1,Kristine NZ F1
+crop_variety,CROP_VARIETY_tobaco-krk26-r,KRK26R
+crop_variety,CROP_VARIETY_tomato-kubwa-e15-a-6007,Kubwa (E15A: 6007)
+crop_variety,CROP_VARIETY_haricot-bean-kufanzik-mx-8754-9-m,Kufanzik (MX-8754-9M)
+crop_variety,CROP_VARIETY_safflower-kuhar-acc-229086,Kuhar ACC 229086
+crop_variety,CROP_VARIETY_maize-kuleni,Kuleni
+crop_variety,CROP_VARIETY_tef-kulle-dz-cr-542-ril106,Kulle (DZ-Cr-542 RIL106)
+crop_variety,CROP_VARIETY_potato-kulumsa-kp-90143-5,Kulumsa (KP-90143.5)
+crop_variety,CROP_VARIETY_haricot-bean-kumala-dab-437-speckled-bean,Kumala (DAB-437) Speckled bean
+crop_variety,CROP_VARIETY_linseed-kuma-r734-dx-b96-111,Kuma (R734DxB96/111)
+crop_variety,CROP_VARIETY_pepper-kume-223662,Kume (223662)
+crop_variety,CROP_VARIETY_finger-millet-kumsa-bkfm0063-1,Kumsa [BKFM0063(1)]
+crop_variety,CROP_VARIETY_garlic-kundi,Kundi
+crop_variety,CROP_VARIETY_garlic-kuriftu-acc-no-g-59-2-94,Kuriftu (Acc no G-59-2/94)
+crop_variety,CROP_VARIETY_faba-bean-kuse-2-27-33,Kuse (2-27-33)
+crop_variety,CROP_VARIETY_chickpea-kutaye-iccv-92033,Kutaye (ICCV-92033)
+crop_variety,CROP_VARIETY_field-pea-kuullee-eh08027-2-shiro-type,Kuullee (EH08027-2) Shiro type
+crop_variety,CROP_VARIETY_noug-kuyu,Kuyu
+crop_variety,CROP_VARIETY_banana-lady-finger,Lady Finger
+crop_variety,CROP_VARIETY_water-melon-lahat-f1,Lahat F1
+crop_variety,CROP_VARIETY_tef-lakech-dz-cr-387-ril273,Lakech (DZ-Cr-387 RIL273)
+crop_variety,CROP_VARIETY_tomato-lakku-cln-657-bc-f2-274-0-15,Lakku (CLN-657-BC-F2-274-0-15)
+crop_variety,CROP_VARIETY_bread-wheat-laku-etbw8572,Laku (ETBW8572
+crop_variety,CROP_VARIETY_sorghum-lalo-brc-245,Lalo (BRC 245)
+crop_variety,CROP_VARIETY_yam-lalo-brc-7-l,Lalo (BRC-7L)
+crop_variety,CROP_VARIETY_faba-bean-lalo-selale-kasim-89-4,Lalo (Selale Kasim 89-4)
+crop_variety,CROP_VARIETY_onion-lambada-tgs-3004,Lambada (TGS-3004)
+crop_variety,CROP_VARIETY_emmer-wheat-lammesso-acc-224885-2,Lammesso (ACC 224885-2)
+crop_variety,CROP_VARIETY_field-pea-lammiif-eh08010-3,Lammiif (EH08010-3)
+crop_variety,CROP_VARIETY_cabbage-landini-f1,Landini F1
+crop_variety,CROP_VARIETY_durum-wheat-laste-tob-2,Laste (Tob-2)
+crop_variety,CROP_VARIETY_field-pea-latu-eh02-036-2,Latu (EH02-036-2)
+crop_variety,CROP_VARIETY_potato-laura,Laura
+crop_variety,CROP_VARIETY_haricot-bean-lehode-da-nazcr-02-12,LEHODE (DA-NAZCR-02-12)
+crop_variety,CROP_VARIETY_maize-leku-dk777,Leku (DK777)
+crop_variety,CROP_VARIETY_durum-wheat-lelisso-dz-1605,Lelisso (DZ 1605)
+crop_variety,CROP_VARIETY_ethioseed-924,lemmon-Allen Eureka
+crop_variety,CROP_VARIETY_ethioseed-925,lemon-Lemon Eureka
+crop_variety,CROP_VARIETY_ethioseed-926,lemon-Limoneira Lisbon
+crop_variety,CROP_VARIETY_bread-wheat-lemu-etbw-6861,Lemu (ETBW 6861)
+crop_variety,CROP_VARIETY_ethioseed-896,lentil- Ada
+crop_variety,CROP_VARIETY_ethioseed-895,lentil- asanno
+crop_variety,CROP_VARIETY_ethioseed-131,Lentil - Baredu (FLIP-2011-17L)
+crop_variety,CROP_VARIETY_ethioseed-33,Lentil - Debine (ዴቢኔ) ((DZ-2012Ln-0051
+crop_variety,CROP_VARIETY_ethioseed-351,Lentil - Dembi (El – …
+crop_variety,CROP_VARIETY_ethioseed-34,Lentil - Furi (DZ-2012-Ln-0218/08S-41102-013)
+crop_variety,CROP_VARIETY_ethioseed-279,Lentil - Jiru (R-186 X …
+crop_variety,CROP_VARIETY_lettuce-levistro-rz-f1,Levistro RZ F1
+crop_variety,CROP_VARIETY_bread-wheat-liben-etbw-5653,Liben (ETBW 5653)
+crop_variety,CROP_VARIETY_sesame-lidan-acc-00044-2,Lidan (ACC-00044(2))
+crop_variety,CROP_VARIETY_black-cumin-likie,Likie
+crop_variety,CROP_VARIETY_ethioseed-46,Lima bean - LWK B45 …
+crop_variety,CROP_VARIETY_ethioseed-47,Lima bean - Wako (B45CH01214EH)
+crop_variety,CROP_VARIETY_coffee-limu-1-l55-01,Limu 1 (L55/01
+crop_variety,CROP_VARIETY_maize-limu-p3812-w,Limu(P3812W)
+crop_variety,CROP_VARIETY_ethioseed-680,Linseed - Berene (PGRC/E 01 …
+crop_variety,CROP_VARIETY_ethioseed-675,Linseed - CI - 1652
+crop_variety,CROP_VARIETY_ethioseed-676,Linseed - Cl-1525
+crop_variety,CROP_VARIETY_ethioseed-359,Linseed - Furtu (CI-1525 X …
+crop_variety,CROP_VARIETY_ethioseed-380,Linseed - Kuma/ ኩማ (R734D …
+crop_variety,CROP_VARIETY_ethioseed-893,linseed- tolle
+crop_variety,CROP_VARIETY_ethioseed-141,Linseed - Welin (ወሊን)
+crop_variety,CROP_VARIETY_ethioseed-289,Linseed - Yadanno (H31 X …
+crop_variety,CROP_VARIETY_peppermint-liyu,Liyu
+crop_variety,CROP_VARIETY_haricot-bean-loko-afr-716,Loko (AFR-716)
+crop_variety,CROP_VARIETY_fine-bush-lomami,Lomami
+crop_variety,CROP_VARIETY_lemon-verbena-lominat-1,Lominat - 1
+crop_variety,CROP_VARIETY_lemon-grass-lomisar-1,Lomisar-1
+crop_variety,CROP_VARIETY_groundnut-lote-01-icgv-86330,Lote-01 (ICGV-86330)
+crop_variety,CROP_VARIETY_groundnut-lotte,Lotte
+crop_variety,CROP_VARIETY_ethioseed-301,Low land rice - Fogera2 …
+crop_variety,CROP_VARIETY_broccoli-lucky-f1,Lucky F1
+crop_variety,CROP_VARIETY_sorghum-macia,MACIA
+crop_variety,CROP_VARIETY_amaranthus-madiira-ii,Madiira-II
+crop_variety,CROP_VARIETY_sweet-potato-ma-e-tis-70357-5,Ma'e (TIS-70357-5)
+crop_variety,CROP_VARIETY_tef-magna-dz-01-196,Magna (DZ-01-196)
+crop_variety,CROP_VARIETY_rice-maitsebri-1,Maitsebri-1
+crop_variety,CROP_VARIETY_rice-maitsebri-2,Maitsebri-2
+crop_variety,CROP_VARIETY_rice-maitsebri-3-arccu16-bar-9-9-24,Maitsebri-3 (ARCCU16Bar-9-9-24
+crop_variety,CROP_VARIETY_ethioseed-570,Maize - Aba raya (Sc …
+crop_variety,CROP_VARIETY_ethioseed-196,Maize - Afran Qalloo (HrU …
+crop_variety,CROP_VARIETY_ethioseed-553,Maize - Beles SC 713 …
+crop_variety,CROP_VARIETY_ethioseed-554,Maize - Bereda SC 715 …
+crop_variety,CROP_VARIETY_ethioseed-107,Maize- BH520 W1 (Nada)
+crop_variety,CROP_VARIETY_ethioseed-3,Maize-BH520 W1 (Nada)
+crop_variety,CROP_VARIETY_ethioseed-546,Maize - BH-541 (NSCM-41-188/32/ X …
+crop_variety,CROP_VARIETY_ethioseed-556,Maize - BH -543 (SC-22 …
+crop_variety,CROP_VARIETY_ethioseed-321,Maize - BH546
+crop_variety,CROP_VARIETY_ethioseed-322,Maize - BH547
+crop_variety,CROP_VARIETY_ethioseed-580,Maize - BH661 (CML395 x …
+crop_variety,CROP_VARIETY_ethioseed-549,Maize - BH-670 (A-7033xF7215x144-7-
+crop_variety,CROP_VARIETY_ethioseed-548,Maize - BH-QP-542 (CML-144XCML-159 X …
+crop_variety,CROP_VARIETY_ethioseed-258,Maize - BHQP548 (CML144/CML159/CML176 X …
+crop_variety,CROP_VARIETY_ethioseed-897,Maize BKL004: Female parent of …
+crop_variety,CROP_VARIETY_ethioseed-368,Maize - CML-161 X CML-165
+crop_variety,CROP_VARIETY_ethioseed-108,Maize - CP.201 (IQT5024 X …
+crop_variety,CROP_VARIETY_ethioseed-109,Maize - CP.838 (SKQPP422 X …
+crop_variety,CROP_VARIETY_ethioseed-201,Maize - DK777 / Leku
+crop_variety,CROP_VARIETY_ethioseed-558,Maize - Hora (Ambo 2 …
+crop_variety,CROP_VARIETY_ethioseed-538,Maize - Limu/Anger (P3812W )
+crop_variety,CROP_VARIETY_ethioseed-323,Maize - Melkasa1Q
+crop_variety,CROP_VARIETY_ethioseed-402,Maize -Melkasa-1Q
+crop_variety,CROP_VARIETY_ethioseed-571,Maize - Melkasa-4 (ECA-EE-36)
+crop_variety,CROP_VARIETY_ethioseed-586,Maize - Melkasa- 5 (SADVIB#)
+crop_variety,CROP_VARIETY_ethioseed-583,Maize - Melkasa-6Q (Pool 15 …
+crop_variety,CROP_VARIETY_ethioseed-584,Maize - Melkasa-7 (Pop 147 …
+crop_variety,CROP_VARIETY_ethioseed-587,Maize - MH 130 (CML440/CML445/ …
+crop_variety,CROP_VARIETY_ethioseed-324,Maize - Mh140
+crop_variety,CROP_VARIETY_ethioseed-403,Maize - Mh140 (Melkasa Hybrid …
+crop_variety,CROP_VARIETY_ethioseed-2,Maize-MH141
+crop_variety,CROP_VARIETY_ethioseed-535,Maize - MHQ 138(CML 144/CML159)
+crop_variety,CROP_VARIETY_ethioseed-848,maize-P3815W (Loko)
+crop_variety,CROP_VARIETY_ethioseed-257,Maize - SBRH1 Hybrid (CML-334/MBRC5BCF108-2-3-1-B-5-2-B-B/CML312)
+crop_variety,CROP_VARIETY_ethioseed-256,Maize - SPRH1 Hybrid (CUBA/GUADC1 …
+crop_variety,CROP_VARIETY_ethioseed-582,Maize -Wenchi (AMH 850)
+crop_variety,CROP_VARIETY_onion-malbee,Malbee
+crop_variety,CROP_VARIETY_durum-wheat-malefia-cd-191-076-ar-3-ap-oa,Malefia (CD 191-076 AR-3 AP-OA
+crop_variety,CROP_VARIETY_cotton-malkasadi,Malkasadi
+crop_variety,CROP_VARIETY_ethioseed-875,malt barley abdane
+crop_variety,CROP_VARIETY_ethioseed-817,malt barley- Bekoji-1
+crop_variety,CROP_VARIETY_ethioseed-212,Malt Barley - Explorer
+crop_variety,CROP_VARIETY_ethioseed-818,Malt barley- Fanaka
+crop_variety,CROP_VARIETY_ethioseed-242,Malt barley -Fatima
+crop_variety,CROP_VARIETY_ethioseed-120,Malt Barley - Henrike (Pedigree: …
+crop_variety,CROP_VARIETY_ethioseed-153,Malt barley - Iftuu (Mn …
+crop_variety,CROP_VARIETY_ethioseed-874,malt barley- kiflu-B (miskal 21)
+crop_variety,CROP_VARIETY_ethioseed-24,Malt Barley - MBF5P#26 (ራስ)
+crop_variety,CROP_VARIETY_ethioseed-247,Malt Barley - MOATA
+crop_variety,CROP_VARIETY_ethioseed-244,Malt Barley - Raya 1
+crop_variety,CROP_VARIETY_ethioseed-23,Malt Barley - Suba (Pedigree: …
+crop_variety,CROP_VARIETY_ethioseed-121,Malt Barley - Waro (LIBRA …
+crop_variety,CROP_VARIETY_bread-wheat-mandoyu-worrakatta-pastor,Mandoyu (Worrakatta/Pastor)
+crop_variety,CROP_VARIETY_durum-wheat-mangudo-icajihan-22,Mangudo (ICAJIHAN 22)
+crop_variety,CROP_VARIETY_potato-mara-charre-cip-38970-3,Mara Charre (CIP-38970.3)
+crop_variety,CROP_VARIETY_sorghum-marara-acc-212642,Marara (Acc.212642)
+crop_variety,CROP_VARIETY_chickpea-maritu-acc41053,Maritu (ACC41053)
+crop_variety,CROP_VARIETY_chickpea-mariye,Mariye
+crop_variety,CROP_VARIETY_field-pea-markos,Markos
+crop_variety,CROP_VARIETY_chickpea-mastewal-iccv-92006,Mastewal (ICCV-92006)
+crop_variety,CROP_VARIETY_onion-mata-hari-f1-tgs-9834,Mata Hari F1 (TGS-9834)
+crop_variety,CROP_VARIETY_banana-matoke,Matoke
+crop_variety,CROP_VARIETY_faba-bean-matti-eh03071-1-2006,Matti (EH03071-1-2006)
+crop_variety,CROP_VARIETY_barley-mbf5-p-26-ras,MBF5P#26 (RAS)
+crop_variety,CROP_VARIETY_finger-millet-meba-gbk011119-a,Meba (GBK011119A)
+crop_variety,CROP_VARIETY_finger-millet-mecha-pgrc-e-acc229371,Mecha (PGRC/E ACC229371)
+crop_variety,CROP_VARIETY_tef-mechare-acc-205953,Mechare (Acc.205953)
+crop_variety,CROP_VARIETY_date-palm-medjool,Medjool
+crop_variety,CROP_VARIETY_durum-wheat-megenagna-dz-2023,Megenagna (DZ- 2023)
+crop_variety,CROP_VARIETY_field-pea-megeri-helina,Megeri (Helina)
+crop_variety,CROP_VARIETY_sesame-mehado-80,Mehado-80
+crop_variety,CROP_VARIETY_bread-wheat-mekele-03-m17-sawsn-79,Mekele-03 (M17SAWSN-79)
+crop_variety,CROP_VARIETY_bread-wheat-mekelle-01-huw-468,Mekelle-01 (HUW-468)
+crop_variety,CROP_VARIETY_bread-wheat-mekelle-02-hi-1418,Mekelle-02 (HI-1418)
+crop_variety,CROP_VARIETY_papaya-meki-hl1-mk-121-l516,Meki-HL1 (MK 121-L516)
+crop_variety,CROP_VARIETY_sorghum-meko1-m36121,Meko1 (M36121)
+crop_variety,CROP_VARIETY_chickpea-melba-iccv-07108,Melba (ICCV-07108)
+crop_variety,CROP_VARIETY_haricot-bean-melka-awash-98-pan182,Melka Awash-98 (PAN182)
+crop_variety,CROP_VARIETY_pepper-melka-awaze-pbc-600,Melka Awaze (PBC 600)
+crop_variety,CROP_VARIETY_pepper-melka-dera-pbc-586,Melka dera (PBC 586)
+crop_variety,CROP_VARIETY_pepper-melka-dima-papri-king,Melka Dima (Papri King)
+crop_variety,CROP_VARIETY_haricot-bean-melkadima-rab-484,Melkadima (RAB-484)
+crop_variety,CROP_VARIETY_pepper-melka-eshet-papri-queen,Melka Eshet (Papri Queen)
+crop_variety,CROP_VARIETY_onion-melkam-pusa-red,Melkam (Pusa Red)
+crop_variety,CROP_VARIETY_sorghum-melkam-wsv387,Melkam (WSV387)
+crop_variety,CROP_VARIETY_pepper-melka-oli-pbc-142-a,Melka Oli (PBC 142A)
+crop_variety,CROP_VARIETY_tomato-melka-salsa-serio,Melka Salsa (Serio)
+crop_variety,CROP_VARIETY_tomato-melka-shola-red-pear,Melka Shola (Red pear)
+crop_variety,CROP_VARIETY_pepper-melka-shote-pbc-223,Melka Shote (PBC 223)
+crop_variety,CROP_VARIETY_maize-melkassa-1,Melkassa-1
+crop_variety,CROP_VARIETY_maize-melkassa-1-q,Melkassa 1Q
+crop_variety,CROP_VARIETY_maize-melkassa-2-zm-521,Melkassa 2 (ZM 521)
+crop_variety,CROP_VARIETY_maize-melkassa-3-sadve,Melkassa 3 (SADVE)
+crop_variety,CROP_VARIETY_maize-melkassa-4-eca-ee-36,Melkassa 4 (ECA-EE-36)
+crop_variety,CROP_VARIETY_maize-melkassa-5-sadvib,Melkassa 5 (SADVIB#)
+crop_variety,CROP_VARIETY_maize-melkassa-6-q-pool-15-c7-qpm,Melkassa 6Q (Pool 15 C7 QPM)
+crop_variety,CROP_VARIETY_maize-melkassa-7-pop-147-c1,Melkassa 7 (Pop 147 C1)
+crop_variety,CROP_VARIETY_pepper-melka-zala-pbc-972,Melka Zala (PBC 972)
+crop_variety,CROP_VARIETY_haricot-bean-melke-areka-97-originally-c,Melke/ Areka 97 (Originally 'c
+crop_variety,CROP_VARIETY_cassava-melko-108,Melko-108
+crop_variety,CROP_VARIETY_soybean-melko-bonsa-1,Melko Bonsa-1
+crop_variety,CROP_VARIETY_tef-melko-dz-cr-82,Melko (DZ-CR-82)
+crop_variety,CROP_VARIETY_coffee-melko-ibsitu,Melko-Ibsitu
+crop_variety,CROP_VARIETY_tef-mena-dz-cr-428,Mena (DZ Cr- 428)
+crop_variety,CROP_VARIETY_potato-menagesha,Menagesha
+crop_variety,CROP_VARIETY_coffee-menesibu-w78-84,Menesibu (W78/84)
+crop_variety,CROP_VARIETY_tef-mengesha-dz-cr-44,Mengesha (DZ-CR-44)
+crop_variety,CROP_VARIETY_sorghum-mentebteb-debir,Mentebteb (Debir)
+crop_variety,CROP_VARIETY_water-melon-menuetto-f1,Menuetto F1
+crop_variety,CROP_VARIETY_coffee-me-oftu-f-35,Me'oftu (F-35)
+crop_variety,CROP_VARIETY_coffee-mercha-1-h-823-98,Mercha-1 (H-823/98)
+crop_variety,CROP_VARIETY_coffee-merdacheriko-8136,Merdacheriko (8136)
+crop_variety,CROP_VARIETY_finger-millet-mereb-1,Mereb-1
+crop_variety,CROP_VARIETY_tomato-mersa-carman,Mersa (Carman)
+crop_variety,CROP_VARIETY_sorghum-mesay-meko-x-gobye2,Mesay (Meko x Gobye2)
+crop_variety,CROP_VARIETY_enset-mesena-eskuris,Mesena (ESKURIS)
+crop_variety,CROP_VARIETY_barley-meserach-kulumsa-1-88,Meserach (Kulumsa 1/88)
+crop_variety,CROP_VARIETY_faba-bean-messay,Messay
+crop_variety,CROP_VARIETY_tomato-metadel-caraibo,Metadel (Caraibo)
+crop_variety,CROP_VARIETY_finger-millet-metekili-acc-005pw-2012,Metekili (Acc.005pw-2012)
+crop_variety,CROP_VARIETY_field-pea-meti-ni-21,Meti (NI-21)
+crop_variety,CROP_VARIETY_durum-wheat-mettaya-dz-2212,Mettaya (DZ 2212)
+crop_variety,CROP_VARIETY_pepper-mexitizo-rz-f1,MEXITIZO RZ F1
+crop_variety,CROP_VARIETY_maize-mh-130-cml440-cml445-zimline,MH 130 (CML440/CML445/ Zimline
+crop_variety,CROP_VARIETY_maize-mh140-melkassa-hybrid-140-cm,Mh140 (Melkassa Hybrid 140)(CM
+crop_variety,CROP_VARIETY_maize-mh141-we7210,MH141 (WE7210)
+crop_variety,CROP_VARIETY_snap-bean-mi-eessoo-tarrot,Mi eessoo(Tarrot)
+crop_variety,CROP_VARIETY_field-pea-mieso-acc32003-2-shiro-type,Mieso (ACC32003-2) Shiro type
+crop_variety,CROP_VARIETY_bread-wheat-miju-etbw7082,MIJU(ETBW7082)
+crop_variety,CROP_VARIETY_groundnut-milkaye,Milkaye
+crop_variety,CROP_VARIETY_haricot-bean-milkesa-dab-523,Milkesa (DAB-523)
+crop_variety,CROP_VARIETY_potato-milki-cip-394640-539,Milki (CIP-394640.539
+crop_variety,CROP_VARIETY_field-pea-milky,Milky
+crop_variety,CROP_VARIETY_triticale-minet-usgen-19,Minet (USGEN 19)
+crop_variety,CROP_VARIETY_ethioseed-825,Minjar
+crop_variety,CROP_VARIETY_shallot-minjar-dzsht-164-1-b,Minjar (DZSHT-164-1B)
+crop_variety,CROP_VARIETY_chickpea-minjar-iccv-03107,Minjar (ICCV-03107)
+crop_variety,CROP_VARIETY_haricot-bean-mioftu-dab-410-red-speckled,Mioftu (DAB-410) Red speckled
+crop_variety,CROP_VARIETY_sorghum-misikir-pgrc-e-69441-xp-9401,MISIKIR (pgrc/e#69441XP-9401)
+crop_variety,CROP_VARIETY_chickpea-mitik-iccv-93954,Mitik (ICCV-93954)
+crop_variety,CROP_VARIETY_tomato-miya-floralou,Miya (Floralou)
+crop_variety,CROP_VARIETY_barley-moata-legacy-4-tocte-gob-huma,MOATA (Legacy/4/Tocte/GOB/Huma
+crop_variety,CROP_VARIETY_coffee-mocha-h-739-98,Mocha (H-739/98)
+crop_variety,CROP_VARIETY_field-pea-mohanderfer,Mohanderfer
+crop_variety,CROP_VARIETY_tomato-momtanz,Momtanz
+crop_variety,CROP_VARIETY_lettuce-mondai-nz-f1,Mondai NZ F1
+crop_variety,CROP_VARIETY_potato-mondial,MONDIAL
+crop_variety,CROP_VARIETY_cauliflower-moneera-rz-f1,Moneera RZ F1
+crop_variety,CROP_VARIETY_tomato-monica,Monica
+crop_variety,CROP_VARIETY_chickpea-monino-acos-duibie,Monino (ACOS Duibie)
+crop_variety,CROP_VARIETY_haricot-bean-montcalm-acos-red,Montcalm/Acos Red
+crop_variety,CROP_VARIETY_haricot-bean-morka-ecab-0056,Morka (ECAB-0056)
+crop_variety,CROP_VARIETY_maize-morka-ucbs1-c2,Morka (UCBS1C2)
+crop_variety,CROP_VARIETY_tomato-morogoro-f1,MOROGORO F1
+crop_variety,CROP_VARIETY_faba-bean-mosisaa-eh99047-1,Mosisaa (EH99047-1)
+crop_variety,CROP_VARIETY_durum-wheat-mosobo-dz-2178,Mosobo (DZ 2178)
+crop_variety,CROP_VARIETY_faba-bean-moti-eh95078-6,Moti (EH95078-6)
+crop_variety,CROP_VARIETY_potato-moti-kp-90147-41,Moti (KP-90147-41)
+crop_variety,CROP_VARIETY_triticale-moti-tcl-76,Moti (TCL 76)
+crop_variety,CROP_VARIETY_faba-bean-moybon-eh011088-3,Moybon (EH011088-3
+crop_variety,CROP_VARIETY_haricot-bean-mr14152-43-2-p,MR14152-43-2P
+crop_variety,CROP_VARIETY_rapeseed-ms-yd-x-zem-1-bcr-5-holeta-1,MS-YD X Zem-1-BCR-5 (Holeta-1)
+crop_variety,CROP_VARIETY_ethiopian-mustard-muger-pgrc-e-20021,Muger (PGRC/E 20021)
+crop_variety,CROP_VARIETY_faba-bean-mugulat-sell-98-lat-11135,Mugulat (Sell.98Lat.11135)
+crop_variety,CROP_VARIETY_durum-wheat-mukiye-stj3-bcr-lks4-3-ter-3,Mukiye (STJ3/BCR/LKS4/3/TER-3)
+crop_variety,CROP_VARIETY_barley-mulu-3371-03,Mulu (3371-03)
+crop_variety,CROP_VARIETY_ethioseed-826,mungbean- Arkebe
+crop_variety,CROP_VARIETY_ethioseed-827,mungbean- Borda
+crop_variety,CROP_VARIETY_ethioseed-867,mung bean-Mieso 1 (VC-6492-59A)
+crop_variety,CROP_VARIETY_ethioseed-791,Mungbean Rasa
+crop_variety,CROP_VARIETY_wine-grape-muscat-of-alexander,Muscat of Alexander
+crop_variety,CROP_VARIETY_ethioseed-70,Musk melon - Caribbean king …
+crop_variety,CROP_VARIETY_sorghum-muyra1-est-1005,Muyra1 (EST 1005)
+crop_variety,CROP_VARIETY_sorghum-muyra2-est-567,Muyra2 (EST 567)
+crop_variety,CROP_VARIETY_cuccumber-mydas-rz-f1,Mydas RZ F1
+crop_variety,CROP_VARIETY_chickpea-naatolii-iccx-910112-6,Naatolii (ICCX-910112-6)
+crop_variety,CROP_VARIETY_avocado-nabal,Nabal
+crop_variety,CROP_VARIETY_onion-nafis-franciscana,Nafis (Franciscana)
+crop_variety,CROP_VARIETY_garlic-namdo,Namdo
+crop_variety,CROP_VARIETY_tomato-nasadette-nun-04302,Nasadette (NUN 04302)
+crop_variety,CROP_VARIETY_onion-nasik-red,Nasik Red
+crop_variety,CROP_VARIETY_haricot-bean-nasir-dicta-105,Nasir (Dicta-105)
+crop_variety,CROP_VARIETY_lettuce-nation-nz-f1,Nation NZ F1
+crop_variety,CROP_VARIETY_haricot-bean-nazareth-2-ta04-ji,Nazareth-2 (TA04JI)
+crop_variety,CROP_VARIETY_groundnut-nc-343,NC 343
+crop_variety,CROP_VARIETY_groundnut-nc-4-x,NC 4X
+crop_variety,CROP_VARIETY_faba-bean-nc-58,NC-58
+crop_variety,CROP_VARIETY_field-pea-nc95-haik,NC95 Haik
+crop_variety,CROP_VARIETY_cotton-nebah-stam-59-a,Nebah (Stam-59A)
+crop_variety,CROP_VARIETY_finger-millet-necho-pgrc-e-203572,Necho (PGRC/E 203572)
+crop_variety,CROP_VARIETY_shallot-negele-dzsht-50,Negele (DZSHT-50)
+crop_variety,CROP_VARIETY_barley-negele-lmon-ibyt-mra-12-11,Negele (LMON IBYT-MRA 12-11)
+crop_variety,CROP_VARIETY_tef-negus-dz-cr-429-ril125,Negus (DZ-Cr-429 RIL125)
+crop_variety,CROP_VARIETY_bread-wheat-nejmah-14-lucy,NEJMAH-14 (Lucy)
+crop_variety,CROP_VARIETY_sunflower-neoma-hybrid,Neoma (Hybrid)
+crop_variety,CROP_VARIETY_onion-neptune,Neptune
+crop_variety,CROP_VARIETY_rice-nerica-1,Nerica-1
+crop_variety,CROP_VARIETY_rice-nerica-12,NERICA-12
+crop_variety,CROP_VARIETY_rice-nerica-14-upland-type,Nerica 14 (upland type)
+crop_variety,CROP_VARIETY_rice-nerica-15,Nerica 15
+crop_variety,CROP_VARIETY_rice-nerica-2,Nerica-2
+crop_variety,CROP_VARIETY_rice-nerica-3-wab-450-1-b-p-28-hb,Nerica-3 (WAB-450-1B-P-28-HB)
+crop_variety,CROP_VARIETY_rice-nerica-4-wab-450-ib-p-9-1,Nerica-4 (WAB-450-IB-P-9/1)
+crop_variety,CROP_VARIETY_rice-nerica-6,Nerica 6
+crop_variety,CROP_VARIETY_bread-wheat-netsanet,Netsanet
+crop_variety,CROP_VARIETY_banana-nijiru,Nijiru
+crop_variety,CROP_VARIETY_sunflower-nk-delfi-hybrid,NK Delfi (Hybrid)
+crop_variety,CROP_VARIETY_sunflower-nln-11037,NLN 11037
+crop_variety,CROP_VARIETY_sweet-corn-noa-f1,NOA F1
+crop_variety,CROP_VARIETY_snap-pea-norbu,NORBU
+crop_variety,CROP_VARIETY_ethioseed-672,Noug - Este-1
+crop_variety,CROP_VARIETY_soybean-nova,NOVA
+crop_variety,CROP_VARIETY_cauliflower-novaria,Novaria
+crop_variety,CROP_VARIETY_sunflower-ns-h-111-hybrid,NS-H-111 (Hybrid)
+crop_variety,CROP_VARIETY_sunflower-ns-h-45-hybrid,NS-H-45 (Hybrid)
+crop_variety,CROP_VARIETY_sorghum-ntj2,NTJ2
+crop_variety,CROP_VARIETY_haricot-bean-nua-517-keye-bure-metene-large-mottled,NUA 517 (Keye Bure Metene) Large mottled
+crop_variety,CROP_VARIETY_faba-bean-numan,Numan
+crop_variety,CROP_VARIETY_mung-bean-nvl-1,NVL-1
+crop_variety,CROP_VARIETY_soybean-nyala,Nyala
+crop_variety,CROP_VARIETY_ethioseed-84,Oats - DUMANT 2007 Portage …
+crop_variety,CROP_VARIETY_bread-wheat-obora-utique96-flag-1,Obora (UTIQUE96/FLAG-1)
+crop_variety,CROP_VARIETY_durum-wheat-obsa-altar-84-alto-1-ajaya,Obsa (Altar 84 Alto-1/Ajaya)
+crop_variety,CROP_VARIETY_sesame-obsa-ew004,Obsa (EW004)
+crop_variety,CROP_VARIETY_faba-bean-obse-eh95073-1,OBSE (EH95073-1)
+crop_variety,CROP_VARIETY_durum-wheat-oda-dz-2227,Oda (DZ 2227)
+crop_variety,CROP_VARIETY_pepper-oda-gibe-c-annuum,Oda Gibe (C. annuum)
+crop_variety,CROP_VARIETY_pepper-oda-haro,Oda Haro
+crop_variety,CROP_VARIETY_ethioseed-854,Odasha (IBONH141P#38
+crop_variety,CROP_VARIETY_coffee-odicha-974,Odicha (974)
+crop_variety,CROP_VARIETY_bread-wheat-ogolcho-etbw-5520,Ogolcho (ETBW 5520)
+crop_variety,CROP_VARIETY_sunflower-oissa-nsh-25,Oissa (NSH-25)
+crop_variety,CROP_VARIETY_ethioseed-73,Okra - Belese (M-27C)
+crop_variety,CROP_VARIETY_haricot-bean-omo-95-rwr719,Omo-95 (RWR719)
+crop_variety,CROP_VARIETY_ethioseed-808,Onion
+crop_variety,CROP_VARIETY_cabbage-optiko-f1,Optiko F1
+crop_variety,CROP_VARIETY_pepper-oshima-f1-c-annuum,Oshima F1 (C. annuum)
+crop_variety,CROP_VARIETY_cabbage-oxylus-f1,Oxylus F1
+crop_variety,CROP_VARIETY_maize-p2848-w-tola,P2848W(TOLA)
+crop_variety,CROP_VARIETY_sorghum-pac-537,PAC 537
+crop_variety,CROP_VARIETY_maize-pac-781,PAC 781
+crop_variety,CROP_VARIETY_finger-millet-padet-kne-409,Padet (KNE#409)
+crop_variety,CROP_VARIETY_soybean-pawe-01-parc-2013-2,Pawe 01 (PARC-2013-2)
+crop_variety,CROP_VARIETY_soybean-pawe-02-parc-2013-3,Pawe 02 (PARC-2013-3)
+crop_variety,CROP_VARIETY_soybean-pawe-03-tgx-1987-62-f,Pawe 03 (TGX-1987-62F)
+crop_variety,CROP_VARIETY_rice-pawe-1-m-55,Pawe-1 (M 55)
+crop_variety,CROP_VARIETY_rice-pawe-2,Pawe-2
+crop_variety,CROP_VARIETY_soybean-pawe-78,Pawe-78
+crop_variety,CROP_VARIETY_sunflower-pawi-2-p63-ll06,Pawi 2 (P63LL06)
+crop_variety,CROP_VARIETY_lettuce-pedrola,Pedrola
+crop_variety,CROP_VARIETY_ethioseed-82,Pegion pea - Afrassa (ICEAP0117/9)
+crop_variety,CROP_VARIETY_ethioseed-868,Pigeon pea
+crop_variety,CROP_VARIETY_ethioseed-905,Pigeon pea-Arjo (Medium set)
+crop_variety,CROP_VARIETY_ethioseed-48,Pigeon pea - ICEAP 00554 …
+crop_variety,CROP_VARIETY_avocado-pinkerton,Pinkerton
+crop_variety,CROP_VARIETY_snap-bean-plati,Plati
+crop_variety,CROP_VARIETY_tomato-po364,PO364
+crop_variety,CROP_VARIETY_water-melon-polimore,Polimore
+crop_variety,CROP_VARIETY_banana-poyo,Poyo
+crop_variety,CROP_VARIETY_black-cumin-qeneni,Qeneni
+crop_variety,CROP_VARIETY_okra-qenqes-spineless,Qenqes (Spineless)
+crop_variety,CROP_VARIETY_garlic-qoricho-w-027,Qoricho (W-027)
+crop_variety,CROP_VARIETY_durum-wheat-quami-cd-75533-a,Quami (CD 75533-A)
+crop_variety,CROP_VARIETY_snap-pea-quartz,QUARTZ
+crop_variety,CROP_VARIETY_cassava-qulle-104-72-nigeria-red,Qulle (104/72 Nigeria red)
+crop_variety,CROP_VARIETY_tef-quncho-dz-cr-387-ril-355,Quncho (DZ-CR-387(RIL.355)
+crop_variety,CROP_VARIETY_maize-raare-1-ev-1,Raare-1 (EV-1)
+crop_variety,CROP_VARIETY_tomato-rainbow,Rainbow
+crop_variety,CROP_VARIETY_tomato-randah,Randah
+crop_variety,CROP_VARIETY_ethioseed-869,Rapeseed-ACC 20131 (Melkaa)
+crop_variety,CROP_VARIETY_ethioseed-683,Rapeseed and Ethiopian mustard - …
+crop_variety,CROP_VARIETY_ethioseed-292,Rapeseed and Ethiopian mustard - …
+crop_variety,CROP_VARIETY_ethioseed-291,Rapeseed and Ethiopian mustard - …
+crop_variety,CROP_VARIETY_ethioseed-681,Rapeseed and Ethiopian mustard - …
+crop_variety,CROP_VARIETY_ethioseed-682,Rapeseed and Ethiopian mustard - …
+crop_variety,CROP_VARIETY_mung-bean-rasa-n-26,Rasa (N-26)
+crop_variety,CROP_VARIETY_barley-raya-1-mu-mb-1440-l94,Raya 1 (MU-MB 1440/L94)
+crop_variety,CROP_VARIETY_dekoko-raya-1-tk-006-08-a1,Raya 1 (TK-006/08 A1)
+crop_variety,CROP_VARIETY_dekoko-raya-2-ta-015-08-sr,Raya 2 (TA-015/08 Sr)
+crop_variety,CROP_VARIETY_sorghum-raya-pgrc-ex222878-xkat369-1,RAYA (PGRC/EX222878XKAT369-1)
+crop_variety,CROP_VARIETY_haricot-bean-raz-42-nekeze-ayfere-small-white-bean,RAZ-42 (Nekeze ayfere) Small white bean
+crop_variety,CROP_VARIETY_ethioseed-839,read wheat-Bokku (ETBW 9548)
+crop_variety,CROP_VARIETY_cotton-reba-b-50,Reba B.50
+crop_variety,CROP_VARIETY_onion-red-ball-f1,Red Ball F1
+crop_variety,CROP_VARIETY_onion-red-coach,Red Coach
+crop_variety,CROP_VARIETY_pepper-red-jet-rz-f1,Red Jet RZ F1
+crop_variety,CROP_VARIETY_onion-red-king,Red King
+crop_variety,CROP_VARIETY_onion-red-nice,Red Nice
+crop_variety,CROP_VARIETY_onion-red-passion-f1,Red passion F1
+crop_variety,CROP_VARIETY_potato-red-scarlett,RED SCARLETT
+crop_variety,CROP_VARIETY_sorghum-red-swazi,RED SWAZI
+crop_variety,CROP_VARIETY_onion-red-wave,Red Wave
+crop_variety,CROP_VARIETY_onion-regent,Regent
+crop_variety,CROP_VARIETY_haricot-bean-remeda-afr702-1,Remeda (AFR702-1)
+crop_variety,CROP_VARIETY_barley-rgt-planet,RGT Planet
+crop_variety,CROP_VARIETY_water-melon-ria-swmh121,Ria (SWMH121)
+crop_variety,CROP_VARIETY_ethioseed-188,Rice - Abay (ARCC16Bar-21-5-12-3-1-2-1)
+crop_variety,CROP_VARIETY_ethioseed-397,Rice - ADET (WAB450-1-B-P-462-HB)
+crop_variety,CROP_VARIETY_ethioseed-105,Rice - Azmera (ART16-5-9-22-2-1-1-B-1-2)
+crop_variety,CROP_VARIETY_ethioseed-315,Rice - Chewaqa (YIN LU20)
+crop_variety,CROP_VARIETY_ethioseed-299,Rice- Fogera 1
+crop_variety,CROP_VARIETY_ethioseed-314,Rice - Hiber (IRGA370-38-1-1F-B1-1)
+crop_variety,CROP_VARIETY_ethioseed-534,Rice - Hidasse (WAB 515-B-16A1-2)
+crop_variety,CROP_VARIETY_ethioseed-234,Rice -Maitsebri-3 (ARCCU16Bar-9-9-24-4-B-1)
+crop_variety,CROP_VARIETY_ethioseed-398,Rice - Maytsebri-1 (NERICA 13)
+crop_variety,CROP_VARIETY_ethioseed-313,Rice - NERICA-12 (WAB880-1-38-20-17-P1-HB)
+crop_variety,CROP_VARIETY_ethioseed-809,Rice Nerika-4
+crop_variety,CROP_VARIETY_ethioseed-89,Rice -Pawe-2 (PARC DAT-V-3-2013
+crop_variety,CROP_VARIETY_ethioseed-100,Rice-Selam (Yungeng 31)
+crop_variety,CROP_VARIETY_durum-wheat-rigeat-acc-208304,Rigeat (ACC#208304)
+crop_variety,CROP_VARIETY_onion-rio-bravo-f1-tgs-2255-yellow,Rio Bravo F1 (TGS-2255) Yellow
+crop_variety,CROP_VARIETY_onion-robaf-agrifound-dark-red,Robaf (Agrifound Dark Red)
+crop_variety,CROP_VARIETY_groundnut-roba-icg-7794,Roba (ICG-7794)
+crop_variety,CROP_VARIETY_durum-wheat-robe-dz-1640,Robe (DZ 1640)
+crop_variety,CROP_VARIETY_barley-robera-acc218956,Robera (ACC218956)
+crop_variety,CROP_VARIETY_faba-bean-robicho-05-eh000099-1,Robicho--05 (EH000099-1)
+crop_variety,CROP_VARIETY_banana-robusta,Robusta
+crop_variety,CROP_VARIETY_cabbage-romus-red-head-cabbage,Romus (Red head cabbage)
+crop_variety,CROP_VARIETY_coffee-rori-75227-1681,Rori(75227*1681)
+crop_variety,CROP_VARIETY_onion-rosy-sov-111,Rosy (SOV 111)
+crop_variety,CROP_VARIETY_cabbage-rotonda-f1,Rotonda F1
+crop_variety,CROP_VARIETY_lettuce-rousso-rz-f1,Rousso RZ F1
+crop_variety,CROP_VARIETY_potato-rumba,Rumba
+crop_variety,CROP_VARIETY_onion-russet-f1,Russet F1
+crop_variety,CROP_VARIETY_common-bean-rwv1272,RWV1272
+crop_variety,CROP_VARIETY_sesame-s,S
+crop_variety,CROP_VARIETY_ethiopian-mustard-s-67,S-67
+crop_variety,CROP_VARIETY_barley-sabini,Sabini
+crop_variety,CROP_VARIETY_sorghum-sadii,Sadii
+crop_variety,CROP_VARIETY_pepper-sahem,Sahem
+crop_variety,CROP_VARIETY_pepper-saidah,Saidah
+crop_variety,CROP_VARIETY_carrot-samson,Samson
+crop_variety,CROP_VARIETY_bread-wheat-sanate-14-f-har-1685,Sanate (14F/HAR 1685)
+crop_variety,CROP_VARIETY_onion-santire-f1,Santire F1
+crop_variety,CROP_VARIETY_haricot-bean-sari-1-caw-02-04-11-4-1,SARI-1 (CAW-02-04-11-4-1)
+crop_variety,CROP_VARIETY_sesame-sarkamo,Sarkamo
+crop_variety,CROP_VARIETY_maize-sbrh1-hybrid,SBRH1 Hybrid
+crop_variety,CROP_VARIETY_ethioseed-802,SC22 (Female parent for BH540 …
+crop_variety,CROP_VARIETY_maize-sc-403,SC 403
+crop_variety,CROP_VARIETY_maize-sc719,SC719
+crop_variety,CROP_VARIETY_pepper-sch-925-f1,SCH-925 F1
+crop_variety,CROP_VARIETY_haricot-bean-scn-11-awash-tikure-small-black-bean,SCN-11 (Awash Tikure) Small black bean
+crop_variety,CROP_VARIETY_haricot-bean-scr15-keyyo,SCR15 (Keyyo)
+crop_variety,CROP_VARIETY_soybean-scs-1,SCS-1
+crop_variety,CROP_VARIETY_soybean-sc-signal,SC-SIGNAL
+crop_variety,CROP_VARIETY_soybean-sc-statues,SC-STATUES
+crop_variety,CROP_VARIETY_ziziphus-kurkura-seb,SEB
+crop_variety,CROP_VARIETY_groundnut-seenaaf-icg-9097,Seenaaf (ICG-9097)
+crop_variety,CROP_VARIETY_field-pea-sefinesh,Sefinesh
+crop_variety,CROP_VARIETY_pakchoi-sefisa-1-avlb-1203,Sefisa-1 (AVLB-1203)
+crop_variety,CROP_VARIETY_pakchoi-sefisa-2-a-1,Sefisa-2 (A-1)
+crop_variety,CROP_VARIETY_bread-wheat-sekota-1-etbw-4886,Sekota-1(ETBW 4886)
+crop_variety,CROP_VARIETY_stevia-sekwar,Sekwar
+crop_variety,CROP_VARIETY_faba-bean-selale-selale-kasim-91-13,Selale (Selale Kasim 91-13)
+crop_variety,CROP_VARIETY_rice-selam,Selam
+crop_variety,CROP_VARIETY_durum-wheat-selam-dz-1666-2,Selam (DZ 1666-2)
+crop_variety,CROP_VARIETY_coffee-sende-w92-98,Sende (W92/98)
+crop_variety,CROP_VARIETY_field-pea-senk-gfp-233,Senk (GFP 233)
+crop_variety,CROP_VARIETY_haricot-bean-ser119,SER119
+crop_variety,CROP_VARIETY_haricot-bean-ser125,SER125
+crop_variety,CROP_VARIETY_pepper-serano,Serano
+crop_variety,CROP_VARIETY_sorghum-serdo,Serdo
+crop_variety,CROP_VARIETY_pepper-serenade,Serenade
+crop_variety,CROP_VARIETY_pepper-serenade-explorer-c-annuum,Serenade explorer (C. annuum)
+crop_variety,CROP_VARIETY_ethioseed-386,Sesame - BaHaZeyit-(W-119/WSM/(Acc-EW-023(1))
+crop_variety,CROP_VARIETY_ethioseed-49,Sesame - Hachalu (EW006 x …
+crop_variety,CROP_VARIETY_ethioseed-145,Sesame - Hagalo ( EW002 …
+crop_variety,CROP_VARIETY_ethioseed-812,Sesame - Humera-1
+crop_variety,CROP_VARIETY_ethioseed-906,Sesame -Marzeneb (Accession 159)
+crop_variety,CROP_VARIETY_ethioseed-907,sesame-Sifan (Accession HSc-016#13)
+crop_variety,CROP_VARIETY_ethioseed-908,sesame-Sifan (Accession HSc-016#13)
+crop_variety,CROP_VARIETY_ethioseed-143,Sesame - Yale ( EW002 …
+crop_variety,CROP_VARIETY_barley-setegn-3369-17,Setegn (3369-17)
+crop_variety,CROP_VARIETY_sesame-setit-1-col-sel-p-1,Setit-1 (Col sel p#1)
+crop_variety,CROP_VARIETY_sesame-setit-2-j-03,Setit-2 (J-03)
+crop_variety,CROP_VARIETY_sesame-setit-3-hu-arc-4,Setit-3 (HuARC-4)
+crop_variety,CROP_VARIETY_rice-shaga-scrid017-1-4-4-4-1,Shaga (Scrid017-1-4-4-4-1)
+crop_variety,CROP_VARIETY_bread-wheat-shaki-etbw-9089,Shaki (ETBW 9089)
+crop_variety,CROP_VARIETY_maize-shala-p2859-w,Shala (P2859W)
+crop_variety,CROP_VARIETY_faba-bean-shallo-eh011-22-1,Shallo (EH011-22-1)
+crop_variety,CROP_VARIETY_noug-shambu-1-pgrc-e-228423,Shambu-1 (PGRC/E 228423)
+crop_variety,CROP_VARIETY_tomato-shanty,Shanty
+crop_variety,CROP_VARIETY_tomato-shanty-92,Shanty 92
+crop_variety,CROP_VARIETY_tomato-shanty-pm-f1,Shanty PM F1
+crop_variety,CROP_VARIETY_buck-wheat-shashe-japan,Shashe (Japan)
+crop_variety,CROP_VARIETY_chickpea-shasho-iccv-93512,Shasho (ICCV-93512)
+crop_variety,CROP_VARIETY_ethiopian-mustard-shaya-s-67-x-zem-1-xs-67-c6,Shaya (S-67 x Zem-1/XS-67C6)
+crop_variety,CROP_VARIETY_rice-shebelle-ir-688059-76-3-3-3-2,Shebelle (IR 688059-76-3-3-3-2
+crop_variety,CROP_VARIETY_barley-shedho-3381-01,Shedho (3381-01)
+crop_variety,CROP_VARIETY_barley-shege,Shege
+crop_variety,CROP_VARIETY_barley-shire-3297-06,Shire (3297-06)
+crop_variety,CROP_VARIETY_geranium-shito,Shito
+crop_variety,CROP_VARIETY_faba-bean-shoa-eh01078-403,Shoa (EH01078-403)
+crop_variety,CROP_VARIETY_maize-shone-phb30-g19,Shone (Phb30G19)
+crop_variety,CROP_VARIETY_potato-shonkolla-kp-90134-5,Shonkolla (KP-90134.5)
+crop_variety,CROP_VARIETY_bread-wheat-shorima-etbw-5483,Shorima (ETBW 5483)
+crop_variety,CROP_VARIETY_groundnut-shulamit,Shulamit
+crop_variety,CROP_VARIETY_haricot-bean-sikiya-scr26,Sikiya (SCR26)
+crop_variety,CROP_VARIETY_black-cumin-silingo,Silingo
+crop_variety,CROP_VARIETY_cotton-sille-13-irrigated,Sille-13 (Irrigated)
+crop_variety,CROP_VARIETY_cotton-sille-i-stoneville-1324,Sille-I (Stoneville 1324)
+crop_variety,CROP_VARIETY_tef-simada-dz-cr-385-ril-295,Simada (DZ-CR-385 RIL.295)
+crop_variety,CROP_VARIETY_sorghum-sima-kalu,SIMA (Kalu)
+crop_variety,CROP_VARIETY_emmer-wheat-sinana-01-acc-216074-1,Sinana-01 (ACC 216074-1)
+crop_variety,CROP_VARIETY_barley-singitan-ibon-mra,Singitan (IBON-MRA)
+crop_variety,CROP_VARIETY_bread-wheat-sinja-dure-madda-walabu-2005,Sinja (Dure/Madda Walabu 2005
+crop_variety,CROP_VARIETY_tomato-sire-cln2400-b,Sire (CLN2400B)
+crop_variety,CROP_VARIETY_tomato-sirinka-1-cardinal,Sirinka-1 (Cardinal)
+crop_variety,CROP_VARIETY_onion-sirius,Sirius
+crop_variety,CROP_VARIETY_cotton-sisikuk-02-ccri-12,Sisikuk-02/CCRI 12
+crop_variety,CROP_VARIETY_onion-sivan,Sivan
+crop_variety,CROP_VARIETY_okra-slender-soh-701,Slender (SOH-701)
+crop_variety,CROP_VARIETY_pineapple-smooth-cayenne,Smooth Cayenne
+crop_variety,CROP_VARIETY_triticale-snan-95t62-apl9-m,Snan (95t62-APL9-M)
+crop_variety,CROP_VARIETY_kenaf-sojat-dangur-g-2,Sojat-Dangur (G-2)
+crop_variety,CROP_VARIETY_yellow-courgette-soleil,Soleil
+crop_variety,CROP_VARIETY_black-cumin-sooressaa,Sooressaa
+crop_variety,CROP_VARIETY_ethioseed-779,Sorghum
+crop_variety,CROP_VARIETY_ethioseed-235,Sorghum - 9058 (ESH-5)
+crop_variety,CROP_VARIETY_ethioseed-207,Sorghum - Alene (WSV-387 x …
+crop_variety,CROP_VARIETY_ethioseed-596,Sorghum - Baji (85 MW …
+crop_variety,CROP_VARIETY_ethioseed-144,Sorghum -Beletew (ICSR24005)
+crop_variety,CROP_VARIETY_ethioseed-609,Sorghum - Dano (BRC-378)
+crop_variety,CROP_VARIETY_ethioseed-114,Sorghum - Elemo (Acc.237261)
+crop_variety,CROP_VARIETY_sorghum-sorghum-emahoy-pw01-092,Sorghum EMAHOY (Pw01-092)
+crop_variety,CROP_VARIETY_ethioseed-404,Sorghum - ESH-3 (Ethiopian Sorghum …
+crop_variety,CROP_VARIETY_ethioseed-307,Sorghum - ESH-4
+crop_variety,CROP_VARIETY_ethioseed-116,Sorghum - Fadis 01 (M-36121 …
+crop_variety,CROP_VARIETY_ethioseed-88,Sorghum forage - Guta (IS38331)
+crop_variety,CROP_VARIETY_ethioseed-618,Sorghum - GEDO (Striga resistant)
+crop_variety,CROP_VARIETY_ethioseed-335,Sorghum - Gemedi (ACC-BCC-5)
+crop_variety,CROP_VARIETY_ethioseed-617,Sorghum - GEREMEW (87 BK …
+crop_variety,CROP_VARIETY_ethioseed-611,Sorghum - GIRANA-1 (Early maturing)
+crop_variety,CROP_VARIETY_ethioseed-607,Sorghum - Hormat -- (ICSV …
+crop_variety,CROP_VARIETY_ethioseed-615,Sorghum - MACIA (Malting type)
+crop_variety,CROP_VARIETY_ethioseed-135,Sorghum - Marara [ETSL 101371 …
+crop_variety,CROP_VARIETY_ethioseed-597,Sorghum - MEKO-1 (M – …
+crop_variety,CROP_VARIETY_ethioseed-612,Sorghum - MISKIR (PGRC/E#69441XP-9401) (Early …
+crop_variety,CROP_VARIETY_ethioseed-616,Sorghum - RED SWAZI (Malting …
+crop_variety,CROP_VARIETY_ethioseed-146,Sorghum - Sadii (SLRC-046)
+crop_variety,CROP_VARIETY_ethioseed-593,Sorghum - Seredo
+crop_variety,CROP_VARIETY_ethioseed-604,Sorghum - Teshale (3443-2-0P)
+crop_variety,CROP_VARIETY_ethioseed-603,Sorghum - Yeju (ICSV 111 …
+crop_variety,CROP_VARIETY_ethioseed-205,Sorghum - ቦንሳ (07MW6085) (97BK6129/85MW4138)
+crop_variety,CROP_VARIETY_ethioseed-206,Sorghum - አርጊቲ (2005M15064) (WSV387 …
+crop_variety,CROP_VARIETY_ethioseed-316,Sorghum - አደሌ (ACC#70583/Hararghecoll #4)
+crop_variety,CROP_VARIETY_ethioseed-261,Sorghum - ዲባባ (ETS 639/SRN-39)
+crop_variety,CROP_VARIETY_ethioseed-319,Sorghum - ጅሩ (Jiru) (yellow)/ETS-2752)
+crop_variety,CROP_VARIETY_ethioseed-110,Sorghum - ጥላሁን (Tilahun) 14MWLSDT7114 …
+crop_variety,CROP_VARIETY_bread-wheat-sorra-vo-robeycmss-96-yo2555,Sorra (Vo robeycmss 96 YO2555-
+crop_variety,CROP_VARIETY_ethioseed-140,Soyabean - Andinet (Pedigree: TGX-1989-75F)
+crop_variety,CROP_VARIETY_ethioseed-884,soyabean- belesa -95( PR-149-6
+crop_variety,CROP_VARIETY_ethioseed-378,Soyabean - BOSHE (IAC-13-1)
+crop_variety,CROP_VARIETY_ethioseed-887,soyabean- cheri IPB -81-EP7
+crop_variety,CROP_VARIETY_ethioseed-671,Soyabean - Clark 63K
+crop_variety,CROP_VARIETY_ethioseed-670,Soyabean - Coker 240
+crop_variety,CROP_VARIETY_ethioseed-669,Soyabean - Davis
+crop_variety,CROP_VARIETY_ethioseed-379,Soyabean - Dhidhessa (PR-149-81-EP-7-2
+crop_variety,CROP_VARIETY_ethioseed-888,soyabean- ETHIO- YUGOSLAVIA
+crop_variety,CROP_VARIETY_ethioseed-284,Soyabean - Gazale
+crop_variety,CROP_VARIETY_ethioseed-40,Soyabean - Guda (PR142-15-SB)
+crop_variety,CROP_VARIETY_ethioseed-885,soyabean- katta(PR-145-2)
+crop_variety,CROP_VARIETY_ethioseed-886,soyabean- korme (AGS-129-2)
+crop_variety,CROP_VARIETY_ethioseed-427,Soyabean - Nyala
+crop_variety,CROP_VARIETY_ethioseed-285,Soyabean - Pawe 01 (PARC-2013-2)
+crop_variety,CROP_VARIETY_ethioseed-41,Soyabean - SCS-1
+crop_variety,CROP_VARIETY_ethioseed-898,Soybean Afgat
+crop_variety,CROP_VARIETY_ethioseed-865,soybean-Bechera(Late set)
+crop_variety,CROP_VARIETY_ethioseed-166,Soybean - Billo (PM-12-37)
+crop_variety,CROP_VARIETY_ethioseed-851,Soybean EthioYugozlavia
+crop_variety,CROP_VARIETY_ethioseed-165,Soybean -Gute (PM-12-3)
+crop_variety,CROP_VARIETY_ethioseed-904,soybean-Maya
+crop_variety,CROP_VARIETY_ethioseed-167,Soybean- Melko Bonsa -1 (JM-CLK/CRFD-15-SD)
+crop_variety,CROP_VARIETY_ethioseed-160,Soybean - Pawe-78 (Tgx-1990-21F)
+crop_variety,CROP_VARIETY_ethioseed-161,Soybean - Tana Beles (Tgx-1990-59F)
+crop_variety,CROP_VARIETY_ethioseed-866,soybeen
+crop_variety,CROP_VARIETY_pepper-spicy-sch-922-f1,SPICY (SCH-922 F1)
+crop_variety,CROP_VARIETY_maize-sprh1-hybrid,SPRH1 Hybrid
+crop_variety,CROP_VARIETY_pepper-starlet-rz-f1-c-annuum,STARLET RZ F1 (C. annuum)
+crop_variety,CROP_VARIETY_cotton-stg-14,STG-14
+crop_variety,CROP_VARIETY_tomato-sth-805-syno-hybrid,STH-805(SYNO)(Hybrid)
+crop_variety,CROP_VARIETY_tomato-sth-808-jewel-hybrid,STH-808 (JEWEL) Hybrid
+crop_variety,CROP_VARIETY_barley-suba,Suba
+crop_variety,CROP_VARIETY_ethioseed-431,Sunflower - Ayehu(አየሁ)
+crop_variety,CROP_VARIETY_ethioseed-183,Sunflower - Uke - PAN7057
+crop_variety,CROP_VARIETY_rice-suparica-1-wab-450,Suparica-1 (WAB 450)
+crop_variety,CROP_VARIETY_onion-super-yali-opv,Super Yali (OPV)
+crop_variety,CROP_VARIETY_pepper-supreme-sch-942-f1,SUPREME (SCH-942 F1)
+crop_variety,CROP_VARIETY_onion-sweet-caroline,Sweet Caroline
+crop_variety,CROP_VARIETY_ethioseed-58,Sweet/Hot pepper - Demon F1
+crop_variety,CROP_VARIETY_ethioseed-62,Sweet/Hot pepper - Jajo Acc#28
+crop_variety,CROP_VARIETY_ethioseed-60,Sweet/Hot Pepper - Oda Gibe …
+crop_variety,CROP_VARIETY_ethioseed-63,Sweet/Hot pepper - SERENADE EXPLORER
+crop_variety,CROP_VARIETY_ethioseed-59,Sweet/Hot pepper - Tongla F1
+crop_variety,CROP_VARIETY_ethioseed-915,Sweet potato (Ipomoea batatas)-NASPOT-12 (Orange …
+crop_variety,CROP_VARIETY_rapeseed-swifter,Swifter
+crop_variety,CROP_VARIETY_sesame-t-85,T.85
+crop_variety,CROP_VARIETY_haricot-bean-tabor-a-788,Tabor (A-788)
+crop_variety,CROP_VARIETY_cabbage-tacoma-rz-f1,TACOMA RZ F1
+crop_variety,CROP_VARIETY_finger-millet-tadesse-kne-1098,Tadesse (KNE#1098)
+crop_variety,CROP_VARIETY_pineapple-tafachhe-md2,Tafachhe (MD2)
+crop_variety,CROP_VARIETY_haricot-bean-tafach-sab632,Tafach (SAB632)
+crop_variety,CROP_VARIETY_sugarcane-tafach-shenkora,Tafach Shenkora
+crop_variety,CROP_VARIETY_white-cumin-takusa-1-gonder-027-2001,Takusa-1 (Gonder 027/2001)
+crop_variety,CROP_VARIETY_tef-takusa-dz-cr-459-ril-104,Takusa (DZ-Cr-459 RIL-104)
+crop_variety,CROP_VARIETY_rice-tana,TANA
+crop_variety,CROP_VARIETY_soybean-tana-beles,Tana Beles
+crop_variety,CROP_VARIETY_cabbage-tana-f1,Tana F1
+crop_variety,CROP_VARIETY_ethioseed-916,Taro (Colocasia esculenta)-Mulu-04 (053)
+crop_variety,CROP_VARIETY_sesame-tate-bsc-003,Tate (BSC-003)
+crop_variety,CROP_VARIETY_durum-wheat-tate-cd94523,Tate (CD94523)
+crop_variety,CROP_VARIETY_cotton-tate-cu-okra,Tate (Cu-Okra)
+crop_variety,CROP_VARIETY_black-pepper-tato-sril-3-80,TATO (Sril.3/80)
+crop_variety,CROP_VARIETY_haricot-bean-tatu-etaw-01-l-7-6-k,Tatu (ETAW-01-L-7-6K)
+crop_variety,CROP_VARIETY_ethioseed-241,Tef - Abola (7 (Quncho …
+crop_variety,CROP_VARIETY_ethioseed-438,Tef - Ajora
+crop_variety,CROP_VARIETY_ethioseed-446,Tef - Amarach
+crop_variety,CROP_VARIETY_ethioseed-169,Tef - Areka-1 (Dz-01-974 X …
+crop_variety,CROP_VARIETY_ethioseed-837,Tef-Ataye (አጣየ) (DZ-CR-459(RIL-16)
+crop_variety,CROP_VARIETY_ethioseed-785,Tef - Bekur በኩር
+crop_variety,CROP_VARIETY_ethioseed-835,tef -Beriso (BK-01-1817)
+crop_variety,CROP_VARIETY_ethioseed-784,Tef - Biradama
+crop_variety,CROP_VARIETY_ethioseed-4,Tef - Bishoftu (ቢሾፍቱ ) …
+crop_variety,CROP_VARIETY_ethioseed-12,Tef - (Boni (ቦኒ)
+crop_variety,CROP_VARIETY_ethioseed-524,Tef - Boset [ DZ-Cr-409 …
+crop_variety,CROP_VARIETY_ethioseed-287,Tef - Dagem [DZ-Cr-438 (RIL …
+crop_variety,CROP_VARIETY_ethioseed-442,Tef - Dega-Tef
+crop_variety,CROP_VARIETY_ethioseed-444,Tef - Dima
+crop_variety,CROP_VARIETY_ethioseed-410,Tef - DZ-01-787
+crop_variety,CROP_VARIETY_ethioseed-744,Tef - DZ-01-99
+crop_variety,CROP_VARIETY_ethioseed-413,Tef - DZ-Cr-44
+crop_variety,CROP_VARIETY_ethioseed-414,Tef - DZ-Cr-82
+crop_variety,CROP_VARIETY_ethioseed-96,Tef - Ebba (Kay muri …
+crop_variety,CROP_VARIETY_ethioseed-450,Tef - Estub
+crop_variety,CROP_VARIETY_ethioseed-170,Tef - Felagot (DZ-Cr-442 (RILNo.77C))
+crop_variety,CROP_VARIETY_ethioseed-449,Tef - Gemechis (DZ-Cr-387)
+crop_variety,CROP_VARIETY_ethioseed-439,Tef - Genete
+crop_variety,CROP_VARIETY_ethioseed-422,Tef - Gerado
+crop_variety,CROP_VARIETY_ethioseed-441,Tef - Gimbichu
+crop_variety,CROP_VARIETY_ethioseed-437,Tef - Gola
+crop_variety,CROP_VARIETY_ethioseed-445,Tef - Guduru
+crop_variety,CROP_VARIETY_ethioseed-836,Tef-hanga ( BK-01- 53-17)
+crop_variety,CROP_VARIETY_ethioseed-168,Tef - Hiber-1 (DZ-01-974* P1222988)
+crop_variety,CROP_VARIETY_ethioseed-420,Tef - Holeta Key (DZ-01-2053)
+crop_variety,CROP_VARIETY_ethioseed-11,Tef-Jarso (RIL No.76B)
+crop_variety,CROP_VARIETY_ethioseed-94,Tef - Jitu (Acc. DZ-01-256)
+crop_variety,CROP_VARIETY_ethioseed-391,Tef - Kora [DZ-Cr-438
+crop_variety,CROP_VARIETY_ethioseed-436,Tef - Koye
+crop_variety,CROP_VARIETY_ethioseed-447,Tef - Kuncho
+crop_variety,CROP_VARIETY_ethioseed-453,Tef - Lakech
+crop_variety,CROP_VARIETY_ethioseed-448,Tef - Mechare
+crop_variety,CROP_VARIETY_ethioseed-95,Tef - Mena (DZ-01-354 X …
+crop_variety,CROP_VARIETY_ethioseed-452,Tef - Simada
+crop_variety,CROP_VARIETY_ethioseed-10,Tef-Takusa (DZ-01-974 X GA-10-3(RILL-104)
+crop_variety,CROP_VARIETY_ethioseed-93,Tef - Washera (353*Key muri) …
+crop_variety,CROP_VARIETY_ethioseed-392,Tef - Worekitu (214746A)
+crop_variety,CROP_VARIETY_ethioseed-443,Tef - Yilmana
+crop_variety,CROP_VARIETY_ethioseed-440,Tef - Zobel
+crop_variety,CROP_VARIETY_field-pea-tegegnech,Tegegnech
+crop_variety,CROP_VARIETY_chickpea-teji-flip-97-266-c,Teji (FLIP-97-266C)
+crop_variety,CROP_VARIETY_chickpea-teketay-iccv-00104,Teketay (ICCV-00104)
+crop_variety,CROP_VARIETY_finger-millet-tekeze-1-smarc-co-iil-60,Tekeze 1 (SMARC coIIL 60)
+crop_variety,CROP_VARIETY_turmeric-tepi-1-bonga-51-71,Tepi -1 (Bonga 51/71)
+crop_variety,CROP_VARIETY_coffee-tepi-hc5,Tepi HC5
+crop_variety,CROP_VARIETY_faba-bean-tesfa-75-ta-2626-1-2-1,Tesfa (75 TA 2626-1-2-1)
+crop_variety,CROP_VARIETY_maize-tesfa-acv6,Tesfa (ACV6)
+crop_variety,CROP_VARIETY_tef-tesfa-dz-cr-457-ril-181,Tesfa (DZ-Cr-457(RIL.181))
+crop_variety,CROP_VARIETY_lettuce-tesfa-maya,Tesfa/ Maya
+crop_variety,CROP_VARIETY_ethiopian-mustard-tesfa-s67-x-holetta-1-7-2-14,Tesfa (S67 x Holetta- 1/7/2/14
+crop_variety,CROP_VARIETY_durum-wheat-tesfaye-43-idsnmeh-2011-82,Tesfaye (43IDSNMeh 2011-82)
+crop_variety,CROP_VARIETY_tomato-tesha,Tesha
+crop_variety,CROP_VARIETY_sorghum-teshale-3443-2-op,Teshale (3443-2-OP)
+crop_variety,CROP_VARIETY_field-pea-teshale-eh99005-7,Teshale (EH99005-7)
+crop_variety,CROP_VARIETY_lentil-teshale-flip-96-46-l,Teshale (FLIP 96-46L)
+crop_variety,CROP_VARIETY_finger-millet-tessema-acc-229469,Tessema (ACC#229469)
+crop_variety,CROP_VARIETY_cotton-teysie-cucurova-1518,Teysie (Cucurova) 1518
+crop_variety,CROP_VARIETY_cabbage-thomas-f1,Thomas F1
+crop_variety,CROP_VARIETY_wine-grape-thompson,Thompson
+crop_variety,CROP_VARIETY_haricot-bean-tibe-812-brc-28,Tibe (812-BRC-28)
+crop_variety,CROP_VARIETY_rice-tigabe-irem-194,Tigabe (IREM 194)
+crop_variety,CROP_VARIETY_sorghum-tilahun,Tilahun
+crop_variety,CROP_VARIETY_barley-tilla-embsn-14-98,Tilla (EMBSN 14/98)
+crop_variety,CROP_VARIETY_haricot-bean-tinike-rx-r-10,Tinike (RxR-10)
+crop_variety,CROP_VARIETY_tomato-tinto-nun-5038,Tinto (NUN 5038)
+crop_variety,CROP_VARIETY_maize-toga-ese-203-hybrid,Toga (ESE 203 hybrid)
+crop_variety,CROP_VARIETY_sweet-potato-tola-tis-844-40,Tola (TIS-844-40)
+crop_variety,CROP_VARIETY_potato-tolcha,Tolcha
+crop_variety,CROP_VARIETY_linseed-tolle-c12698-x-pgrc-e-13611-b,Tolle (C12698 x PGRC/E 13611/B
+crop_variety,CROP_VARIETY_durum-wheat-toltu-4-b-r9096-21001-980-sn-p,TOLTU (4/B/R9096#21001(980SN P
+crop_variety,CROP_VARIETY_ethioseed-807,Tomato
+crop_variety,CROP_VARIETY_ethioseed-918,Tomato -Jorgie-1 (Wonhong No.3) Cherry …
+crop_variety,CROP_VARIETY_ethioseed-919,tomato-Jorgie-2 (Wonhong No.5) Cherry tomato
+crop_variety,CROP_VARIETY_mango-tommy-atkins,Tommy Atkins
+crop_variety,CROP_VARIETY_pepper-tongla-f1-c-frutescence,Tongla F1 (C. frutescence)
+crop_variety,CROP_VARIETY_tomato-topspin-f1,Topspin F1
+crop_variety,CROP_VARIETY_faba-bean-tosha-eh00021-1,Tosha (EH00021-1)
+crop_variety,CROP_VARIETY_barley-traveler,Traveler
+crop_variety,CROP_VARIETY_barley-trit-215235-2,Trit (215235-2)
+crop_variety,CROP_VARIETY_ethioseed-103,Triticale - Kombolcha (Acc. 2012 …
+crop_variety,CROP_VARIETY_ethioseed-312,Triticale - Moti (TCL-61)
+crop_variety,CROP_VARIETY_peach-tropic-beauty,Tropic beauty
+crop_variety,CROP_VARIETY_shallot-tropics,Tropics
+crop_variety,CROP_VARIETY_garlic-tsedey-92-g-493,Tsedey 92 (G-493)
+crop_variety,CROP_VARIETY_tef-tsedey-dz-cr-37,Tsedey (DZ-CR-37)
+crop_variety,CROP_VARIETY_bread-wheat-tsehay-har3837,Tsehay (HAR3837)
+crop_variety,CROP_VARIETY_triticale-tt14-logaw-sh-ibo,TT14 (LOGAW ShIBO)
+crop_variety,CROP_VARIETY_triticale-tt2-dilfekar,TT2 (DILFEKAR)
+crop_variety,CROP_VARIETY_ethiopian-mustard-tule-pgrc-e-21163,Tule (PGRC/E 21163)
+crop_variety,CROP_VARIETY_field-pea-tullu-dimtu,Tullu-dimtu
+crop_variety,CROP_VARIETY_coriander-tulu-207515-medium-maturity,Tulu (207515) Medium maturity
+crop_variety,CROP_VARIETY_field-pea-tulu-pgrc-e32-21-181,Tulu (PGRC/E32-21-181)
+crop_variety,CROP_VARIETY_faba-bean-tumsa-eh99051-3,Tumsa (EH99051-3)
+crop_variety,CROP_VARIETY_safflower-turkana,Turkana
+crop_variety,CROP_VARIETY_fenugreek-turu,Turu
+crop_variety,CROP_VARIETY_durum-wheat-ude-cd-95294-2-y,Ude (CD 95294-2Y)
+crop_variety,CROP_VARIETY_wine-grape-ugni-blane,Ugni Blane
+crop_variety,CROP_VARIETY_sunflower-uke,Uke
+crop_variety,CROP_VARIETY_black-cumin-urgesa,Urgesa
+crop_variety,CROP_VARIETY_finger-millet-urji-acc-242617,Urji (ACC 242617)
+crop_variety,CROP_VARIETY_field-pea-urji-acc-32615-1,Urji (ACC 32615-1)
+crop_variety,CROP_VARIETY_durum-wheat-utuba,Utuba
+crop_variety,CROP_VARIETY_cotton-vbch-1527,VBCH 1527
+crop_variety,CROP_VARIETY_cotton-vbchb-1203,VBCHB 1203
+crop_variety,CROP_VARIETY_tomato-venise-f1,Venise F1
+crop_variety,CROP_VARIETY_broccoli-vicario-rz,Vicario RZ
+crop_variety,CROP_VARIETY_cabbage-victoria-f1,Victoria F1
+crop_variety,CROP_VARIETY_pepper-vigro-f1,Vigro F1
+crop_variety,CROP_VARIETY_sunflower-vincenzo,Vincenzo
+crop_variety,CROP_VARIETY_onion-violet-de-galmi-nafid,Violet De Galmi (Nafid)
+crop_variety,CROP_VARIETY_fine-bush-volta,Volta
+crop_variety,CROP_VARIETY_rice-vrh-606,VRH 606
+crop_variety,CROP_VARIETY_rice-vrh-640,VRH 640
+crop_variety,CROP_VARIETY_rice-vrh-654,VRH 654
+crop_variety,CROP_VARIETY_sunflower-vsfh-1006-hybrid,VSFH-1006 (Hybrid)
+crop_variety,CROP_VARIETY_sunflower-vsfh-2074-hybrid,VSFH-2074 (Hybrid)
+crop_variety,CROP_VARIETY_haricot-bean-wabero-icn-bunsi-x-sx-b405-405,Wabero (ICN Bunsi x SxB405/405
+crop_variety,CROP_VARIETY_potato-wabi,Wabi
+crop_variety,CROP_VARIETY_haricot-bean-waju-etaw-01-l-1-7-a,Waju (ETAW-01-L-1-7A)
+crop_variety,CROP_VARIETY_lima-bean-butter-bean-wako,Wako
+crop_variety,CROP_VARIETY_barley-walashe,Walashe
+crop_variety,CROP_VARIETY_sesame-waliin-bg-004-1,Waliin (BG-004-1)
+crop_variety,CROP_VARIETY_barley-walker,Walker
+crop_variety,CROP_VARIETY_faba-bean-walki-eh96049-2,Walki (EH96049-2)
+crop_variety,CROP_VARIETY_coriander-walta-1,Walta-1
+crop_variety,CROP_VARIETY_finger-millet-wama-kne-392,Wama (KNE#392)
+crop_variety,CROP_VARIETY_bread-wheat-wane-etbw-6130,Wane (ETBW 6130)
+crop_variety,CROP_VARIETY_rice-wanzaye-scrid006-3-2-3-2,Wanzaye (Scrid006-3-2-3-2)
+crop_variety,CROP_VARIETY_cotton-warc-ls1,WARC-LS1
+crop_variety,CROP_VARIETY_cotton-warc-ls2,WARC-LS2
+crop_variety,CROP_VARIETY_tef-warehsa-dz-cr-429-ril-29,Warehsa (DZ-Cr-429 RIl 29)
+crop_variety,CROP_VARIETY_barley-waro,Waro
+crop_variety,CROP_VARIETY_grass-pea-wasie-ilat-ls-ls-b2,Wasie (Ilat-Ls-Ls-B2)
+crop_variety,CROP_VARIETY_ethioseed-921,watermelon-Tamerlan F1
+crop_variety,CROP_VARIETY_okra-wayka,Wayka
+crop_variety,CROP_VARIETY_faba-bean-wayu-wayu-89-5,Wayu (Wayu 89-5)
+crop_variety,CROP_VARIETY_maize-webi-amh760-q,Webi (AMH760Q)
+crop_variety,CROP_VARIETY_potato-wechecha,Wechecha
+crop_variety,CROP_VARIETY_haricot-bean-wedo-mam-41,Wedo (MAM-41)
+crop_variety,CROP_VARIETY_soybean-wegayen-tgx-1998-29-f,Wegayen (TGX-1998-29F)
+crop_variety,CROP_VARIETY_durum-wheat-wehabit-acc-8208,Wehabit (ACC#8208)
+crop_variety,CROP_VARIETY_linseed-welen,Welen
+crop_variety,CROP_VARIETY_tef-wellenkomi-dz-01-787,Wellenkomi (DZ-01-787)
+crop_variety,CROP_VARIETY_soybean-wello-tgx-1895-33-f,Wello (TGX-1895-33F)
+crop_variety,CROP_VARIETY_fenugreek-wereilu-201606-2,Wereilu (201606/2)
+crop_variety,CROP_VARIETY_cotton-werer-12,Werer-12
+crop_variety,CROP_VARIETY_cotton-werer-13-irrigated,Werer-13 (Irrigated)
+crop_variety,CROP_VARIETY_cotton-werer-1-84,Werer 1-84
+crop_variety,CROP_VARIETY_cotton-werer-50-arba-x-cucurova-1518,Werer-50 (Arba X Cucurova 1518
+crop_variety,CROP_VARIETY_groundnut-werer-961-icgv-87108,Werer-961 (ICGV-87108)
+crop_variety,CROP_VARIETY_groundnut-werer-962-icgv-86928,Werer-962 (ICGV-86928)
+crop_variety,CROP_VARIETY_groundnut-werer-963-icgv-86644,Werer-963 (ICGV-86644)
+crop_variety,CROP_VARIETY_groundnut-werer-964-icgv-86635,Werer-964 (ICGV-86635)
+crop_variety,CROP_VARIETY_durum-wheat-werer-mamouri-i,Werer (Mamouri I)
+crop_variety,CROP_VARIETY_field-pea-weyib-eh03014-1,Weyib (EH03014-1)
+crop_variety,CROP_VARIETY_field-pea-weyitu-eh90-006-2,Weyitu (EH90-006-2)
+crop_variety,CROP_VARIETY_cotton-weyto-07-guru-f5-1-2,Weyto-07 (Guru F5#1-2)
+crop_variety,CROP_VARIETY_hibiscus-wg-hibiscus-jamaica,WG-HIBISCUS-Jamaica
+crop_variety,CROP_VARIETY_hibiscus-wg-hibiscus-sudan,WG-HIBISCUS-SUDAN
+crop_variety,CROP_VARIETY_lavender-wg-lavender-i,WG-Lavender-I
+crop_variety,CROP_VARIETY_lavender-wg-lavender-ii,WG-Lavender-II
+crop_variety,CROP_VARIETY_lemon-grass-wg-lomisar-java,WG-Lomisar-Java
+crop_variety,CROP_VARIETY_lemon-grass-wg-lomisar-ua,WG-Lomisar-UA
+crop_variety,CROP_VARIETY_majoram-oregano-wg-oregano,WG-Oregano
+crop_variety,CROP_VARIETY_rosemary-wg-rosemary-1-rosem-hopa-tesf,WG-Rosemary-1 (Rosem-Hopa/Tesf
+crop_variety,CROP_VARIETY_rosemary-wg-rosemary-2-rosem-glossy,WG-Rosemary-2 (Rosem-Glossy)
+crop_variety,CROP_VARIETY_rosemary-wg-rosemary-3-rosem-popular,WG-Rosemary-3 (Rosem-Popular)
+crop_variety,CROP_VARIETY_sage-wg-sage-i,WG-SAGE-I
+crop_variety,CROP_VARIETY_lemon-scented-eucalyptus-wg-shito-bahirzaf-i,WG-Shito Bahirzaf-I
+crop_variety,CROP_VARIETY_spearmint-wgsm-03,WGSM-03
+crop_variety,CROP_VARIETY_spearmint-wg-spm-fran,WG-SPM-FRAN
+crop_variety,CROP_VARIETY_spanish-mint-wg-spm-span,WG-SPM-Span
+crop_variety,CROP_VARIETY_basil-wg-sweet-basil-ii,WG-Sweet basil-II
+crop_variety,CROP_VARIETY_basil-wg-sweet-basil-v,WG-Sweet basil-V
+crop_variety,CROP_VARIETY_palmarosa-wg-tejsar-i-c005,WG-Tejsar-I(C005)
+crop_variety,CROP_VARIETY_palmarosa-wg-tejsar-ii-c001,WG-Tejsar-II (C001)
+crop_variety,CROP_VARIETY_rose-wg-tsigereda,WG-Tsigereda
+crop_variety,CROP_VARIETY_ethioseed-789,Wheat - Begna
+crop_variety,CROP_VARIETY_ethioseed-787,Wheat - BIFTU
+crop_variety,CROP_VARIETY_ethioseed-788,Wheat - Emegwa እመጓ
+crop_variety,CROP_VARIETY_ethioseed-786,Wheat - MIJU (ETBW7082)
+crop_variety,CROP_VARIETY_soybean-williams,Williams
+crop_variety,CROP_VARIETY_banana-williams-1,Williams-1
+crop_variety,CROP_VARIETY_maize-wolel,Wolel
+crop_variety,CROP_VARIETY_barley-wolelay-sx-h-08-f4-t-10,Wolelay (SxH-08-F4-T-10)
+crop_variety,CROP_VARIETY_field-pea-wolmera,Wolmera
+crop_variety,CROP_VARIETY_yam-wonago-red,Wonago red
+crop_variety,CROP_VARIETY_sweet-annie-wondo,Wondo
+crop_variety,CROP_VARIETY_japanese-mint-wondo-1,Wondo-1
+crop_variety,CROP_VARIETY_sugarcane-wonji-rd-1,Wonji RD-1
+crop_variety,CROP_VARIETY_tef-worekiyu-214746-a,Worekiyu (214746A)
+crop_variety,CROP_VARIETY_chickpea-worku-dz-10-16-2,Worku (DZ-10-16.2)
+crop_variety,CROP_VARIETY_pyrethrum-workyie-clone-ku-73,Workyie (Clone Ku-73)
+crop_variety,CROP_VARIETY_tomato-woyno-fireball,Woyno (Fireball)
+crop_variety,CROP_VARIETY_coffee-wushwush-2-05-7414,Wushwush 2-05 (7414)
+crop_variety,CROP_VARIETY_sunflower-x6859,X6859
+crop_variety,CROP_VARIETY_coffee-yachi-1-05-7576,Yachi-1-05 (7576)
+crop_variety,CROP_VARIETY_linseed-yadeno-h31x-belay-96-208,Yadeno (H31xBelay-96/208)
+crop_variety,CROP_VARIETY_sesame-yale,Yale
+crop_variety,CROP_VARIETY_ginger-yali-miz-180-73,Yali (Miz. 180/73)
+crop_variety,CROP_VARIETY_ethioseed-51,Yam - Koffe (AW/56/76)
+crop_variety,CROP_VARIETY_enset-yanbule-digomerza,Yanbule (Digomerza)
+crop_variety,CROP_VARIETY_cotton-yd-195,YD-195
+crop_variety,CROP_VARIETY_cotton-yd-206,YD-206
+crop_variety,CROP_VARIETY_cotton-yd-211,YD-211
+crop_variety,CROP_VARIETY_cotton-yd-223,YD-223
+crop_variety,CROP_VARIETY_cotton-yd-670,YD-670
+crop_variety,CROP_VARIETY_sugarcane-ye-beskula-shenkora,Ye Beskula Shenkora
+crop_variety,CROP_VARIETY_barley-yedogit-bi-95-in-198,Yedogit (BI 95 IN 198)
+crop_variety,CROP_VARIETY_sorghum-yeju-icsv-111-inc,Yeju (ICSV 111 Inc)
+crop_variety,CROP_VARIETY_vanilla-yeki-i-van-1-1993,Yeki I (Van 1/1993)
+crop_variety,CROP_VARIETY_chickpea-yelbey-iccv-14808,Yelbey (ICCV-14808)
+crop_variety,CROP_VARIETY_ethioseed-928,Yellow Dodola
+crop_variety,CROP_VARIETY_ethiopian-mustard-yellow-dodolla,Yellow dodolla
+crop_variety,CROP_VARIETY_fig-yellow-type,Yellow type
+crop_variety,CROP_VARIETY_quinoa-yenewa-titicaca,Yenewa (Titicaca)
+crop_variety,CROP_VARIETY_shallot-yeras-vethalam,Yeras (Vethalam)
+crop_variety,CROP_VARIETY_durum-wheat-yerer-cd-94026-4-y,Yerer (CD 94026-4Y)
+crop_variety,CROP_VARIETY_field-pea-yewaginesh-eh03-002,Yewaginesh (EH03-002)
+crop_variety,CROP_VARIETY_tef-yilmana-dz-01-1868,Yilmana (DZ-01-1868)
+crop_variety,CROP_VARIETY_maize-zama,Zama
+crop_variety,CROP_VARIETY_potato-zemen-al-105,Zemen (AL-105)
+crop_variety,CROP_VARIETY_potato-zengena-cip-380479-6,Zengena (CIP-380479.6)
+crop_variety,CROP_VARIETY_triticale-zenkatie-tcl-59,Zenkatie (TCL 59)
+crop_variety,CROP_VARIETY_enset-zerietta-ashura,Zerietta (Ashura)
+crop_variety,CROP_VARIETY_camelina-zeytee-1,Zeytee-1
+crop_variety,CROP_VARIETY_camelina-zeytee-2,Zeytee-2
+crop_variety,CROP_VARIETY_barley-zina-acc-1st-gsbsn,Zina(Acc#1stGSBSN)
+crop_variety,CROP_VARIETY_tef-ziquala-dz-cr-358,Ziquala (DZ-CR-358)
+crop_variety,CROP_VARIETY_snow-pea-zirkon,ZIRKON
+crop_variety,CROP_VARIETY_haricot-bean-zo-asho-dab-96,Zo Asho (DAB 96)
+crop_variety,CROP_VARIETY_tef-zobel-dz-01-1821,Zobel (DZ-01-1821)
+crop_variety,CROP_VARIETY_summer-squash-zucchini-1,Zucchini-1
+seed_variety,SEED_VARIETY_ethioseed-803,124-b(109) (Male parent for Basic …
+seed_variety,SEED_VARIETY_ethioseed-776,142-1-e (Maize parental line)
+seed_variety,SEED_VARIETY_ethioseed-794,142-1-e (Male parent for BH …
+seed_variety,SEED_VARIETY_ethioseed-796,144-7-b (Male parent for BH670)
+seed_variety,SEED_VARIETY_ethioseed-793,A7033/ F-7215 (Female for BH …
+seed_variety,SEED_VARIETY_ethioseed-795,A7033/ F7215 (Female parent for …
+seed_variety,SEED_VARIETY_ethioseed-822,Ada
+seed_variety,SEED_VARIETY_ethioseed-42,Adzuki - bean Japan (Keyo)
+seed_variety,SEED_VARIETY_ethioseed-85,Alfalfa - Supersonic
+seed_variety,SEED_VARIETY_ethioseed-922,Avocado-AL1
+seed_variety,SEED_VARIETY_ethioseed-923,Avocado-Choquette
+seed_variety,SEED_VARIETY_ethioseed-821,Awash-2
+seed_variety,SEED_VARIETY_ethioseed-813,Banana-Dinkua-1
+seed_variety,SEED_VARIETY_ethioseed-814,Banana-Lady Finger
+seed_variety,SEED_VARIETY_ethioseed-815,BH-545
+seed_variety,SEED_VARIETY_ethioseed-800,BKL001 (Male parent for BH546)
+seed_variety,SEED_VARIETY_ethioseed-804,BKL002 (Female parent for BH547 …
+seed_variety,SEED_VARIETY_ethioseed-801,BKL003 (Male parent for BH547)
+seed_variety,SEED_VARIETY_ethioseed-87,Brachiaria brizantha cv.Xaraes - Xaraes …
+seed_variety,SEED_VARIETY_ethioseed-13,Bread Wheat-ABAY (ETBW 9396)
+seed_variety,SEED_VARIETY_ethioseed-716,Bread Wheat-Abola (HAR-1522)
+seed_variety,SEED_VARIETY_ethioseed-305,Bread Wheat - ADEL-6 (SAMAR-13/Pastor-1)
+seed_variety,SEED_VARIETY_ethioseed-86,Bread Wheat - Adet-1 (BAJ …
+seed_variety,SEED_VARIETY_ethioseed-81,Bread wheat - Adola 1 …
+seed_variety,SEED_VARIETY_ethioseed-471,Bread Wheat - Alidoro
+seed_variety,SEED_VARIETY_ethioseed-176,Bread Wheat - Amibara – …
+seed_variety,SEED_VARIETY_ethioseed-248,Bread Wheat - Amibera (DOUKKALA-4 …
+seed_variety,SEED_VARIETY_ethioseed-98,Bread Wheat - Ardi (GLADIUS/2*BAVIS) …
+seed_variety,SEED_VARIETY_ethioseed-844,bread wheat-Asgori (EBW192350)
+seed_variety,SEED_VARIETY_ethioseed-101,Bread Wheat - Balcha (ETB …
+seed_variety,SEED_VARIETY_ethioseed-395,Bread Wheat - BIQA (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-460,Bread Wheat - Bobicho
+seed_variety,SEED_VARIETY_ethioseed-732,Bread Wheat-Bobicho (HAR-2419)
+seed_variety,SEED_VARIETY_ethioseed-475,Bread Wheat - Bolo
+seed_variety,SEED_VARIETY_ethioseed-192,Bread Wheat - Bondena (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-6,Bread Wheat - Boru
+seed_variety,SEED_VARIETY_ethioseed-251,Bread Wheat - Bulluq (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-246,Bread Wheat - Dambal (AGUILAL/3/PYN/BAU/MILAN)
+seed_variety,SEED_VARIETY_ethioseed-838,bread wheat-Damota
+seed_variety,SEED_VARIETY_ethioseed-479,Bread Wheat - Danda’a (Danphe#1)
+seed_variety,SEED_VARIETY_ethioseed-710,Bread Wheat-Dashen
+seed_variety,SEED_VARIETY_ethioseed-198,Bread Wheat - Deka (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-195,Bread Wheat - Deka (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-459,Bread Wheat - Densa
+seed_variety,SEED_VARIETY_ethioseed-731,Bread Wheat-Densa (HAR-2562)
+seed_variety,SEED_VARIETY_ethioseed-705,Bread Wheat - Dereselgne
+seed_variety,SEED_VARIETY_ethioseed-462,Bread Wheat - Digalu
+seed_variety,SEED_VARIETY_ethioseed-734,Bread Wheat-Digalu (SHA 7/ KAUZ …
+seed_variety,SEED_VARIETY_ethioseed-472,Bread Wheat - Dinknesh
+seed_variety,SEED_VARIETY_ethioseed-729,Bread Wheat-Doddota (HAR-2508)
+seed_variety,SEED_VARIETY_ethioseed-458,Bread Wheat - Dodota
+seed_variety,SEED_VARIETY_ethioseed-840,bread wheat-Dugda
+seed_variety,SEED_VARIETY_ethioseed-456,Bread Wheat - Dure
+seed_variety,SEED_VARIETY_ethioseed-727,Bread Wheat-Dure (HAR-1008)
+seed_variety,SEED_VARIETY_ethioseed-5,Bread Wheat - Dursa
+seed_variety,SEED_VARIETY_ethioseed-841,bread wheat-EL-SHALOM ( ETBW9006)
+seed_variety,SEED_VARIETY_ethioseed-708,Bread Wheat-ET-13 A2
+seed_variety,SEED_VARIETY_ethioseed-175,Bread Wheat - Fentale – …
+seed_variety,SEED_VARIETY_ethioseed-249,Bread Wheat - Fentale (MOONTIJ-3 …
+seed_variety,SEED_VARIETY_ethioseed-309,Bread Wheat - FRTI-1(Mekel 4)
+seed_variety,SEED_VARIETY_ethioseed-99,Bread Wheat - Ga’ambo-2 (HEILO/MILAN/MUNIA/3/KIRITATI/2*TRCH) …
+seed_variety,SEED_VARIETY_ethioseed-102,Bread Wheat - Galan (ETBW8003 …
+seed_variety,SEED_VARIETY_ethioseed-714,Bread Wheat-Galema (HAR-604)
+seed_variety,SEED_VARIETY_ethioseed-477,Bread Wheat - Galil
+seed_variety,SEED_VARIETY_ethioseed-480,Bread Wheat - Gambo = …
+seed_variety,SEED_VARIETY_ethioseed-473,Bread Wheat - Gasay
+seed_variety,SEED_VARIETY_ethioseed-455,Bread Wheat - Guna
+seed_variety,SEED_VARIETY_ethioseed-726,Bread Wheat-Guna (HAR-2029)
+seed_variety,SEED_VARIETY_ethioseed-77,Bread Wheat -Hachalu (ETB 8260)
+seed_variety,SEED_VARIETY_ethioseed-187,Bread wheat - Hadis (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-845,bread wheat-Harato (Acc.ETBW9413)
+seed_variety,SEED_VARIETY_ethioseed-723,Bread Wheat-Hawi (HAR-2501)
+seed_variety,SEED_VARIETY_ethioseed-200,Bread Wheat - Hibist (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-528,Bread Wheat - Hidase (ETBW5795)
+seed_variety,SEED_VARIETY_ethioseed-484,Bread Wheat - Hoggana (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-396,Bread Wheat - HONQOLO (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-526,Bread Wheat - Hulluka (ETBW5496)
+seed_variety,SEED_VARIETY_ethioseed-476,Bread Wheat - Inseno-1
+seed_variety,SEED_VARIETY_ethioseed-173,Bread Wheat - JAALANNE (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-174,Bread Wheat - JAJABO (ETB …
+seed_variety,SEED_VARIETY_ethioseed-525,Bread Wheat - Jefferson
+seed_variety,SEED_VARIETY_ethioseed-467,Bread Wheat - Jiru
+seed_variety,SEED_VARIETY_ethioseed-739,Bread Wheat-Jiru (HAR-2896)
+seed_variety,SEED_VARIETY_ethioseed-706,Bread Wheat -K 6290 bulk
+seed_variety,SEED_VARIETY_ethioseed-707,Bread Wheat - K6295-4A
+seed_variety,SEED_VARIETY_ethioseed-478,Bread Wheat - Kakaba (Picaflor …
+seed_variety,SEED_VARIETY_ethioseed-719,Bread Wheat-Katar (HAR-1899)
+seed_variety,SEED_VARIETY_ethioseed-457,Bread Wheat - KBG-01
+seed_variety,SEED_VARIETY_ethioseed-728,Bread Wheat-KBG-01 (FH-1-7A or Line …
+seed_variety,SEED_VARIETY_ethioseed-243,Bread Wheat - Kingbird
+seed_variety,SEED_VARIETY_ethioseed-97,Bread Wheat - Korem 1 …
+seed_variety,SEED_VARIETY_ethioseed-712,Bread Wheat-Kubsa (HAR 1685)
+seed_variety,SEED_VARIETY_ethioseed-842,bread wheat-Kulito (ETBW9131)
+seed_variety,SEED_VARIETY_ethioseed-843,bread wheat-Kulumsa (EBW192346)
+seed_variety,SEED_VARIETY_ethioseed-15,Bread Wheat-Laku (ETBW8572)
+seed_variety,SEED_VARIETY_ethioseed-293,Bread Wheat - LEMU (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-252,Bread Wheat - Liben (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-724,Bread Wheat-Madda Walabu (HAR-1480)
+seed_variety,SEED_VARIETY_ethioseed-393,Bread Wheat - Mandoyu (Worrakatta/Pastor)
+seed_variety,SEED_VARIETY_ethioseed-715,Bread Wheat-Megala (HAR-1595)
+seed_variety,SEED_VARIETY_ethioseed-482,Bread Wheat - MeKelle-01/HUW-468/
+seed_variety,SEED_VARIETY_ethioseed-481,Bread Wheat - MeKelle-02/HI-1418/
+seed_variety,SEED_VARIETY_ethioseed-529,Bread Wheat - Mekelle- 03 …
+seed_variety,SEED_VARIETY_ethioseed-470,Bread Wheat - Menze
+seed_variety,SEED_VARIETY_ethioseed-465,Bread Wheat - Meraro
+seed_variety,SEED_VARIETY_ethioseed-737,Bread Wheat-Meraro (11-6-24)
+seed_variety,SEED_VARIETY_ethioseed-468,Bread Wheat - Millenium
+seed_variety,SEED_VARIETY_ethioseed-740,Bread Wheat-Millennium (ETBW-4921)
+seed_variety,SEED_VARIETY_ethioseed-711,Bread Wheat - Mitike (HAR …
+seed_variety,SEED_VARIETY_ethioseed-304,Bread Wheat -NEJMAH-14
+seed_variety,SEED_VARIETY_ethioseed-83,Bread Wheat - Netsanet (ነፃነት) …
+seed_variety,SEED_VARIETY_ethioseed-245,Bread wheat - Obora (UTIQUE96/FLAG-1)
+seed_variety,SEED_VARIETY_ethioseed-527,Bread Wheat - Ogolcho (ETBW5520)
+seed_variety,SEED_VARIETY_ethioseed-488,Bread Wheat - Ogolcho (ETBW5520)
+seed_variety,SEED_VARIETY_ethioseed-709,Bread Wheat-Pavon 76
+seed_variety,SEED_VARIETY_ethioseed-474,Bread Wheat - Qulqullu
+seed_variety,SEED_VARIETY_ethioseed-394,Bread Wheat - Sanate (14F/HAR …
+seed_variety,SEED_VARIETY_ethioseed-846,bread wheat-Sekela (Maringa)
+seed_variety,SEED_VARIETY_ethioseed-306,Bread Wheat - Sekota-1 (ETBW4886)
+seed_variety,SEED_VARIETY_ethioseed-463,Bread Wheat - Senkegna
+seed_variety,SEED_VARIETY_ethioseed-735,Bread Wheat-Senkegna (HAR 3646)
+seed_variety,SEED_VARIETY_ethioseed-14,Bread Wheat-SHAKI (ETBW 9089)
+seed_variety,SEED_VARIETY_ethioseed-720,Bread Wheat-Shina (HAR-1868)
+seed_variety,SEED_VARIETY_ethioseed-485,Bread Wheat - Shorima (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-721,Bread Wheat-Simba (HAR-2536)
+seed_variety,SEED_VARIETY_ethioseed-203,Bread Wheat- Sinja (Dure/Madda Walabu …
+seed_variety,SEED_VARIETY_ethioseed-730,Bread Wheat-Sirbo (HAR-2192)
+seed_variety,SEED_VARIETY_ethioseed-725,Bread Wheat-Sofumar (HAR-1889)
+seed_variety,SEED_VARIETY_ethioseed-308,Bread Wheat - Sorra (Vorobeycmss96Y02555-040y-020m)
+seed_variety,SEED_VARIETY_ethioseed-469,Bread Wheat - Sulla
+seed_variety,SEED_VARIETY_ethioseed-464,Bread Wheat - Tay
+seed_variety,SEED_VARIETY_ethioseed-736,Bread Wheat-TAY (ET-12 D4/HAR 604 …
+seed_variety,SEED_VARIETY_ethioseed-461,Bread Wheat - Tossa
+seed_variety,SEED_VARIETY_ethioseed-733,Bread Wheat-Tossa (HAR 3123)
+seed_variety,SEED_VARIETY_ethioseed-483,Bread Wheat - Tsehay/HAR3837/
+seed_variety,SEED_VARIETY_ethioseed-718,Bread Wheat-Tura (HAR-1775)
+seed_variety,SEED_VARIETY_ethioseed-717,Bread Wheat-Tuse (HAR-1407)
+seed_variety,SEED_VARIETY_ethioseed-713,Bread Wheat-Wabe (HAR-710) 1995 KARC/EIAR
+seed_variety,SEED_VARIETY_ethioseed-290,Bread Wheat - WANE (ETBW …
+seed_variety,SEED_VARIETY_ethioseed-466,Bread Wheat - Warkaye
+seed_variety,SEED_VARIETY_ethioseed-738,Bread Wheat-Warkaye (HAR-3820)
+seed_variety,SEED_VARIETY_ethioseed-722,Bread Wheat-Wetera (HAR-1920)
+seed_variety,SEED_VARIETY_ethioseed-71,Broccoli - Vicario RZ
+seed_variety,SEED_VARIETY_ethioseed-752,Buck wheat - Shashe (Japan)
+seed_variety,SEED_VARIETY_ethioseed-66,Cabbage - CABBICE
+seed_variety,SEED_VARIETY_ethioseed-65,Cabbage - CHAKA
+seed_variety,SEED_VARIETY_ethioseed-64,Cabbage - Cheers F1
+seed_variety,SEED_VARIETY_ethioseed-92,Cacao - Cacao (Theobroma cacao)
+seed_variety,SEED_VARIETY_ethioseed-920,Carrot-Brillyance F1
+seed_variety,SEED_VARIETY_ethioseed-50,Cassava - Chemere (IITA 1050127)
+seed_variety,SEED_VARIETY_ethioseed-917,Cassava (Manihot esculenta)-Hawassa 5 (1708)
+seed_variety,SEED_VARIETY_ethioseed-72,Cauliflower - Chambord RZ
+seed_variety,SEED_VARIETY_ethioseed-892,chich pea mastewal
+seed_variety,SEED_VARIETY_ethioseed-659,Chickpea - Akaki (DZ-10-9-2)
+seed_variety,SEED_VARIETY_ethioseed-653,Chickpea - Arerti (FLIP 89-84C)
+seed_variety,SEED_VARIETY_ethioseed-32,Chickpea - Asnake (DZ-2012-CK-0272/ FLIP09-156C)
+seed_variety,SEED_VARIETY_ethioseed-348,Chickpea - Dalota (ICCV-00104)
+seed_variety,SEED_VARIETY_ethioseed-370,Chickpea - (Dhera) DZ-2012 CK-009/FLIP …
+seed_variety,SEED_VARIETY_ethioseed-364,Chickpea - Dimtu ( DZ-2012 …
+seed_variety,SEED_VARIETY_ethioseed-655,Chickpea - DZ –10-11
+seed_variety,SEED_VARIETY_ethioseed-656,Chickpea - DZ –10-4
+seed_variety,SEED_VARIETY_ethioseed-155,Chickpea - Eshete (DZ-2012 CK-0254/ICCV-10515/)
+seed_variety,SEED_VARIETY_ethioseed-129,Chickpea - Geletu (ICCX-090013-F2-P276-BP)
+seed_variety,SEED_VARIETY_ethioseed-31,Chickpea - (Girar) ግራር ICCMABCA …
+seed_variety,SEED_VARIETY_ethioseed-810,Chickpea- Habiru
+seed_variety,SEED_VARIETY_ethioseed-860,chick pea-hewa (X11TH-78-7)
+seed_variety,SEED_VARIETY_ethioseed-367,Chickpea - (Hora) DZ-2012 CK-001/FLIP …
+seed_variety,SEED_VARIETY_ethioseed-128,Chickpea - ICCV-07108 (Melba) (ሜልባ)
+seed_variety,SEED_VARIETY_ethioseed-127,Chickpea - ICCV-93954 (Mitik)
+seed_variety,SEED_VARIETY_ethioseed-581,Chickpea - Kobo (ICCV-01308)
+seed_variety,SEED_VARIETY_ethioseed-130,Chickpea - KOKA (ICCV-04305)
+seed_variety,SEED_VARIETY_ethioseed-260,Chickpea - (Maritu) ማሪቱ Acc.41053
+seed_variety,SEED_VARIETY_ethioseed-657,Chickpea - Mariye
+seed_variety,SEED_VARIETY_ethioseed-811,Chickpea - Naatoli
+seed_variety,SEED_VARIETY_ethioseed-654,Chickpea - Shasho (ICCV-93512)
+seed_variety,SEED_VARIETY_ethioseed-894,chick pea - teji
+seed_variety,SEED_VARIETY_ethioseed-349,Chickpea - Teketay (ICCX-940002-F5-242P-1-1-1)
+seed_variety,SEED_VARIETY_ethioseed-658,Chickpea - Worku (DZ-10-16.2)
+seed_variety,SEED_VARIETY_ethioseed-799,CML202 (Male parent for BH543 …
+seed_variety,SEED_VARIETY_ethioseed-797,CML395/CML202 (Female parent for BH661)
+seed_variety,SEED_VARIETY_ethioseed-798,CML395 (Female parent for Basic …
+seed_variety,SEED_VARIETY_ethioseed-777,CML 395 X CML 202 …
+seed_variety,SEED_VARIETY_ethioseed-766,Common bean - AR04GY- Canning …
+seed_variety,SEED_VARIETY_ethioseed-768,Common bean - Atndaba /A-262/- …
+seed_variety,SEED_VARIETY_ethioseed-770,Common bean - Ayenew- Food …
+seed_variety,SEED_VARIETY_ethioseed-772,Common bean - Beshbesh/Melk 97 …
+seed_variety,SEED_VARIETY_ethioseed-773,Common bean - Gobe Rasha-1(ICA-15541) …
+seed_variety,SEED_VARIETY_ethioseed-769,Common bean - Gofta- Food …
+seed_variety,SEED_VARIETY_ethioseed-418,common bean/ Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-132,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-159,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-35,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-39,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-353,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-38,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-665,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-354,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-355,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-36,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-281,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-282,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-668,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-667,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-666,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-37,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-425,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-139,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-138,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-137,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-136,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-134,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-133,Common bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-426,Common bean/ Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-761,Common bean/ Haricot bean -- …
+seed_variety,SEED_VARIETY_ethioseed-223,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-222,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-224,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-225,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-226,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-228,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-229,Common Bean /Haricot bean - …
+seed_variety,SEED_VARIETY_ethioseed-763,Common bean/Haricot bean - Awash …
+seed_variety,SEED_VARIETY_ethioseed-227,Common Bean/Haricot bean - Awash …
+seed_variety,SEED_VARIETY_ethioseed-759,Common bean/Haricot bean--Babile (ECAB 0247)
+seed_variety,SEED_VARIETY_ethioseed-703,Common bean/Haricot bean -DAB-372 (Belete)
+seed_variety,SEED_VARIETY_ethioseed-702,Common bean/Haricot bean - DAB-413 …
+seed_variety,SEED_VARIETY_ethioseed-268,Common bean/Haricot bean - DOYO …
+seed_variety,SEED_VARIETY_ethioseed-742,Common bean/Haricot bean - Fedis …
+seed_variety,SEED_VARIETY_ethioseed-588,Common bean/Haricot Bean -Fedis (ECAB0060)
+seed_variety,SEED_VARIETY_ethioseed-265,Common bean/Haricot bean - Gobu …
+seed_variety,SEED_VARIETY_ethioseed-704,Common bean/Haricot bean- (Hundaf) (ሁንዳፍ) …
+seed_variety,SEED_VARIETY_ethioseed-760,Common bean/Haricot bean -- Hundane …
+seed_variety,SEED_VARIETY_ethioseed-758,Common bean/Haricot bean - (Keyyo) …
+seed_variety,SEED_VARIETY_ethioseed-762,Common bean/Haricot/ bean - Mexican …
+seed_variety,SEED_VARIETY_ethioseed-424,Common bean/Haricot bean - Remeda …
+seed_variety,SEED_VARIETY_ethioseed-423,Common bean /Haricot bean -SER …
+seed_variety,SEED_VARIETY_ethioseed-263,Common bean/Haricot bean - Wabero …
+seed_variety,SEED_VARIETY_ethioseed-743,Common bean - Hirna (ECAB …
+seed_variety,SEED_VARIETY_ethioseed-701,Common bean - Hora (ሆራ) …
+seed_variety,SEED_VARIETY_ethioseed-699,Common bean - Jabdu (Ram-20)
+seed_variety,SEED_VARIETY_ethioseed-764,Common bean - Melka Awash-98 …
+seed_variety,SEED_VARIETY_ethioseed-771,Common bean - Melke/Areka 97 …
+seed_variety,SEED_VARIETY_ethioseed-700,Common bean -Milkesa (ሚልኬሳ) DAB-523
+seed_variety,SEED_VARIETY_ethioseed-765,Common bean - Nazareth-2 (TA04JI) …
+seed_variety,SEED_VARIETY_ethioseed-767,Common bean - Red Wolaita- …
+seed_variety,SEED_VARIETY_ethioseed-862,common/haricot/bean-Key-Burre
+seed_variety,SEED_VARIETY_ethioseed-863,common/haricot/bean-Key-Woliata
+seed_variety,SEED_VARIETY_ethioseed-864,common/haricot/bean-Labu
+seed_variety,SEED_VARIETY_ethioseed-74,Coriander - Derara (Acc. 240574-1)
+seed_variety,SEED_VARIETY_ethioseed-927,cotton-Jantekel (Amibara I)
+seed_variety,SEED_VARIETY_ethioseed-374,Cowpea - 82D-889
+seed_variety,SEED_VARIETY_ethioseed-861,cow pea-Hundaol (ILRI#25368)
+seed_variety,SEED_VARIETY_ethioseed-157,Cowpea - Jergade (NLLP_CPC-145-21)
+seed_variety,SEED_VARIETY_ethioseed-158,Cowpea - Kechene (NLLP_CPC-103B)
+seed_variety,SEED_VARIETY_ethioseed-585,Cowpea - Keti (IT99K-1122)
+seed_variety,SEED_VARIETY_ethioseed-76,Cumin - Likie (242840)
+seed_variety,SEED_VARIETY_ethioseed-75,Cumin - Urgesa (Acc. 205167-2)
+seed_variety,SEED_VARIETY_ethioseed-824,Dandesu
+seed_variety,SEED_VARIETY_ethioseed-276,Dekoko - RAYA-1 (TK-006/08 Al)
+seed_variety,SEED_VARIETY_ethioseed-278,Dekoko - RAYA-2 (TA-015/08 Sr)
+seed_variety,SEED_VARIETY_ethioseed-834,Derso (Alemaya FLIP-88-411-02-AK-14)
+seed_variety,SEED_VARIETY_ethioseed-178,Durem Wheat - Alemtena (43IDSNMeh …
+seed_variety,SEED_VARIETY_ethioseed-495,Durem Wheat - Arsi-Robe (TOB …
+seed_variety,SEED_VARIETY_ethioseed-494,Durem Wheat - Asasa (DZ …
+seed_variety,SEED_VARIETY_ethioseed-512,Durem Wheat - Bakalcha (980SN …
+seed_variety,SEED_VARIETY_ethioseed-497,Durem Wheat - Bichena (DZ …
+seed_variety,SEED_VARIETY_ethioseed-500,Durem Wheat - Boohai
+seed_variety,SEED_VARIETY_ethioseed-177,Durem Wheat - Bullaallaa (Durum …
+seed_variety,SEED_VARIETY_ethioseed-513,Durem Wheat - EJERSA LABUD/NIGERIS …
+seed_variety,SEED_VARIETY_ethioseed-16,Durem Wheat - ETCROSS-21 (DW171226)
+seed_variety,SEED_VARIETY_ethioseed-515,Durem Wheat - FLAKIT (EN-25)
+seed_variety,SEED_VARIETY_ethioseed-499,Durem Wheat - Foka
+seed_variety,SEED_VARIETY_ethioseed-492,Durem Wheat - Ginchi (DZ-1050)
+seed_variety,SEED_VARIETY_ethioseed-508,Durem Wheat - Ilani (DZ …
+seed_variety,SEED_VARIETY_ethioseed-498,Durem Wheat - Kilinto (DZ …
+seed_variety,SEED_VARIETY_ethioseed-511,Durem Wheat - Kokate -- …
+seed_variety,SEED_VARIETY_ethioseed-503,Durem Wheat - Laste (Tob …
+seed_variety,SEED_VARIETY_ethioseed-502,Durem Wheat - Lelisso (DZ-1605)
+seed_variety,SEED_VARIETY_ethioseed-510,Durem Wheat - Malefia- (CD …
+seed_variety,SEED_VARIETY_ethioseed-507,Durem Wheat - Megenagna (DZ …
+seed_variety,SEED_VARIETY_ethioseed-505,Durem Wheat - Mettaya (DZ …
+seed_variety,SEED_VARIETY_ethioseed-506,Durem Wheat - Mosobo (DZ …
+seed_variety,SEED_VARIETY_ethioseed-514,Durem Wheat - OBSA (ALTAR …
+seed_variety,SEED_VARIETY_ethioseed-509,Durem Wheat - Oda (DZ …
+seed_variety,SEED_VARIETY_ethioseed-496,Durem Wheat - Quami (CD-75533-A)
+seed_variety,SEED_VARIETY_ethioseed-181,Durem Wheat - Rigeat (Acc≠208304)
+seed_variety,SEED_VARIETY_ethioseed-493,Durem Wheat - Robe (DZ-1640)
+seed_variety,SEED_VARIETY_ethioseed-504,Durem Wheat - Selam (DZ …
+seed_variety,SEED_VARIETY_ethioseed-179,Durem Wheat - Tesfaye (43IDSNMeh …
+seed_variety,SEED_VARIETY_ethioseed-491,Durem Wheat - Ude
+seed_variety,SEED_VARIETY_ethioseed-254,Durem Wheat - Utuba (IDON-MD-2009-off/53/2009)
+seed_variety,SEED_VARIETY_ethioseed-180,Durem Wheat - Wehabit (Acc≠8208)
+seed_variety,SEED_VARIETY_ethioseed-501,Durem Wheat - Yerer (CD …
+seed_variety,SEED_VARIETY_ethioseed-532,Durum Wheat - Dire
+seed_variety,SEED_VARIETY_ethioseed-217,Durum Wheat - Don Matteo
+seed_variety,SEED_VARIETY_ethioseed-214,Durum wheat -Fetan
+seed_variety,SEED_VARIETY_ethioseed-871,durum wheat- hitosa ( CHEN/ALTAR-84)
+seed_variety,SEED_VARIETY_ethioseed-531,Durum Wheat - Mangudo (ICAJIHAN …
+seed_variety,SEED_VARIETY_ethioseed-530,Durum Wheat - Mukiye (STJ3/BCR …
+seed_variety,SEED_VARIETY_ethioseed-847,durum wheat-Seiftu (DW-183142)
+seed_variety,SEED_VARIETY_ethioseed-870,durum wheat- tate (CD94523)
+seed_variety,SEED_VARIETY_ethioseed-783,(DZ-Cr-542(RIL106)
+seed_variety,SEED_VARIETY_ethioseed-782,(DZ-Cr-551(RIL173 (ደዘ-ክሮስ-551)
+seed_variety,SEED_VARIETY_ethioseed-184,Emmer wheat/Aja - Haydaroo (Sintrial1/DZ2212/Sinana-01)
+seed_variety,SEED_VARIETY_ethioseed-751,Emmer wheat/Aja - Lammesso (ACC-224885-2)
+seed_variety,SEED_VARIETY_ethioseed-750,Emmer wheat/Aja - Sinana-01 (Acc. …
+seed_variety,SEED_VARIETY_ethioseed-288,Erimo (Adzuki bean)
+seed_variety,SEED_VARIETY_ethioseed-274,Ethiopian mustard - Derash
+seed_variety,SEED_VARIETY_ethioseed-271,Ethiopian mustard - Tesfa
+seed_variety,SEED_VARIETY_ethioseed-775,Faba bean
+seed_variety,SEED_VARIETY_ethioseed-215,Faba Bean - Alloshe (አሎሼ) …
+seed_variety,SEED_VARIETY_ethioseed-272,Faba Bean - ASHEBEKA (አሸበቃ) …
+seed_variety,SEED_VARIETY_ethioseed-574,Faba bean - Bule-04(EH00102-5)
+seed_variety,SEED_VARIETY_ethioseed-631,Faba bean - Bulga 70
+seed_variety,SEED_VARIETY_ethioseed-154,Faba bean - Chalew (EH060088-1)
+seed_variety,SEED_VARIETY_ethioseed-627,Faba bean - CS-20-DK
+seed_variety,SEED_VARIETY_ethioseed-880,faba bean - dagm (Grarjarso …
+seed_variety,SEED_VARIETY_ethioseed-879,Faba bean- degaga (R-878-3)
+seed_variety,SEED_VARIETY_ethioseed-409,Faba bean - DIDE'A ዲደዓ …
+seed_variety,SEED_VARIETY_ethioseed-881,Faba bean dosha (COLL 155/00-3)
+seed_variety,SEED_VARIETY_ethioseed-343,Faba bean - EH00099-1
+seed_variety,SEED_VARIETY_ethioseed-859,Fababean-EH011089-3 (Cherinet)
+seed_variety,SEED_VARIETY_ethioseed-341,Faba Bean - EK01001-5-1
+seed_variety,SEED_VARIETY_ethioseed-369,Faba bean - Gachena (ETH91001-13-2)
+seed_variety,SEED_VARIETY_ethioseed-878,Faba bean - gebelcho (ET96009-1)
+seed_variety,SEED_VARIETY_ethioseed-411,Faba bean - GORA (EK …
+seed_variety,SEED_VARIETY_ethioseed-819,faba bean- Hachalu
+seed_variety,SEED_VARIETY_ethioseed-273,Faba Bean - HASHENGE (ILB …
+seed_variety,SEED_VARIETY_ethioseed-630,Faba bean - Kassa
+seed_variety,SEED_VARIETY_ethioseed-629,Faba bean - KUSE /2-27-33/
+seed_variety,SEED_VARIETY_ethioseed-632,Faba bean - Messay
+seed_variety,SEED_VARIETY_ethioseed-340,Faba Bean - Mosisaa (: …
+seed_variety,SEED_VARIETY_ethioseed-124,Faba bean - Moybon (ሞይቦን) …
+seed_variety,SEED_VARIETY_ethioseed-213,Faba Bean - Mugulat (Sell.98Lat.11135)
+seed_variety,SEED_VARIETY_ethioseed-628,Faba bean - NC-58
+seed_variety,SEED_VARIETY_ethioseed-362,Faba bean - Numan (ኑማን) …
+seed_variety,SEED_VARIETY_ethioseed-634,Faba bean -Shallo (EH011-22-1)
+seed_variety,SEED_VARIETY_ethioseed-25,Faba bean - Shoa/ሸዋ (EH01078-4-3)
+seed_variety,SEED_VARIETY_ethioseed-633,Faba bean - Tesfa (75 …
+seed_variety,SEED_VARIETY_ethioseed-125,Faba bean - Tosha (ቶሻ) …
+seed_variety,SEED_VARIETY_ethioseed-820,faba bean-Tumsa
+seed_variety,SEED_VARIETY_ethioseed-371,Faba bean - Walki (EH96049-2) …
+seed_variety,SEED_VARIETY_ethioseed-45,Fenugreek - Arganne (Acc. 202209sno3-5)
+seed_variety,SEED_VARIETY_ethioseed-230,Fenugreek - Bishoftu (FG-10)
+seed_variety,SEED_VARIETY_ethioseed-377,Fenugreek - Burqaa (201617Sno3-7)
+seed_variety,SEED_VARIETY_ethioseed-43,Fenugreek - Chafe (Acc#FG202120)
+seed_variety,SEED_VARIETY_ethioseed-376,Fenugreek - Jamma (202169/3)
+seed_variety,SEED_VARIETY_ethioseed-44,Fenugreek - Turu (Acc#FG53063)
+seed_variety,SEED_VARIETY_ethioseed-375,Fenugreek - Wereilu (201606/2)
+seed_variety,SEED_VARIETY_ethioseed-648,Field pea - Adet 1
+seed_variety,SEED_VARIETY_ethioseed-645,Field pea - Adi
+seed_variety,SEED_VARIETY_ethioseed-575,Field pea - BILALLO (EH …
+seed_variety,SEED_VARIETY_ethioseed-882,field pea- burkitu( EH99004-2)
+seed_variety,SEED_VARIETY_ethioseed-275,Field pea - BURSA (ቡርሣ) …
+seed_variety,SEED_VARIETY_ethioseed-641,Field pea - Dadimos
+seed_variety,SEED_VARIETY_ethioseed-883,field pea- dume (EH96026-1-4)
+seed_variety,SEED_VARIETY_ethioseed-635,Field pea - FP DZ
+seed_variety,SEED_VARIETY_ethioseed-637,Field pea - G22763-2c
+seed_variety,SEED_VARIETY_ethioseed-576,Field pea - Haranna (Cool …
+seed_variety,SEED_VARIETY_ethioseed-644,Field pea - Hassabe
+seed_variety,SEED_VARIETY_ethioseed-28,Field pea - Hasset (ሀሴት) …
+seed_variety,SEED_VARIETY_ethioseed-646,Field pea - Holetta
+seed_variety,SEED_VARIETY_ethioseed-220,Field Pea - Hortu (ሆርቱ) …
+seed_variety,SEED_VARIETY_ethioseed-649,Field pea - Hursa (KFP-103/B/)
+seed_variety,SEED_VARIETY_ethioseed-344,Field pea - ICN Bunsi …
+seed_variety,SEED_VARIETY_ethioseed-126,Field pea - Jeldu (ጀልዱ) …
+seed_variety,SEED_VARIETY_ethioseed-218,Field Pea - Jiidhaa (EH08033-2)
+seed_variety,SEED_VARIETY_ethioseed-27,Field pea - Jirraafi (EH05011-2) …
+seed_variety,SEED_VARIETY_ethioseed-372,Field Pea - JMeti (NI-21)
+seed_variety,SEED_VARIETY_ethioseed-216,Field Pea - Lammiif (EH08010-3)
+seed_variety,SEED_VARIETY_ethioseed-642,Field pea - Markos
+seed_variety,SEED_VARIETY_ethioseed-29,Field pea - Mieso (ሜኤሶ) …
+seed_variety,SEED_VARIETY_ethioseed-643,Field pea - Milky
+seed_variety,SEED_VARIETY_ethioseed-636,Field pea - Mohanderfer
+seed_variety,SEED_VARIETY_ethioseed-638,Field pea - Nc-95 Haik
+seed_variety,SEED_VARIETY_ethioseed-647,Field pea - Sefinesh
+seed_variety,SEED_VARIETY_ethioseed-639,Field pea - Tegegnech
+seed_variety,SEED_VARIETY_ethioseed-577,Field pea - Teshale (EH99005-7 …
+seed_variety,SEED_VARIETY_ethioseed-651,Field pea - Tullu-dimtu
+seed_variety,SEED_VARIETY_ethioseed-640,Field pea - Tulu (PGRC/E32 …
+seed_variety,SEED_VARIETY_ethioseed-221,Field Pea - Weyib (ዌይብ) …
+seed_variety,SEED_VARIETY_ethioseed-652,Field pea - Weyitu (EH …
+seed_variety,SEED_VARIETY_ethioseed-650,Field pea - Wolmera
+seed_variety,SEED_VARIETY_ethioseed-219,Field Pea - Yewaginesh (የዋግነሽ) …
+seed_variety,SEED_VARIETY_ethioseed-30,Fiel pea - Etetu (እቴቱ) …
+seed_variety,SEED_VARIETY_ethioseed-26,Fiel pea - Kuullee (EH08027-2) …
+seed_variety,SEED_VARIETY_ethioseed-208,Figer Millet - Bako-09 (Acc.214995)
+seed_variety,SEED_VARIETY_ethioseed-269,Finger Millet - Addis-01 (Acc.203544)
+seed_variety,SEED_VARIETY_ethioseed-849,finger millet-Adet-06
+seed_variety,SEED_VARIETY_ethioseed-332,Finger Millet - Diga-1 (ACC. …
+seed_variety,SEED_VARIETY_ethioseed-238,Finger Millet - Diga-2 (Acc.BKFM0010)
+seed_variety,SEED_VARIETY_ethioseed-407,Finger Millet - Gudetu (Acc.215990)
+seed_variety,SEED_VARIETY_ethioseed-850,finger millet-Haro (FMC-33)
+seed_variety,SEED_VARIETY_ethioseed-19,Finger Millet - Ikhulule
+seed_variety,SEED_VARIETY_ethioseed-118,Finger Millet - Jabi (ጃቢ) …
+seed_variety,SEED_VARIETY_ethioseed-267,Finger Millet - Kako-1(LR005)
+seed_variety,SEED_VARIETY_ethioseed-117,Finger Millet - : Kumsa …
+seed_variety,SEED_VARIETY_ethioseed-408,Finger Millet - Mecha(ሜጫ)
+seed_variety,SEED_VARIETY_ethioseed-336,Finger Millet - Mereb-1 (KNE#622)
+seed_variety,SEED_VARIETY_ethioseed-149,Finger Millet - Metekili (Acc. …
+seed_variety,SEED_VARIETY_ethioseed-237,Finger millet - Tekeze-1(SMARC collL.60)
+seed_variety,SEED_VARIETY_ethioseed-406,Finger Millet - Tessema (ተሰማ)
+seed_variety,SEED_VARIETY_ethioseed-333,Finger Millet - Urji (Acc. …
+seed_variety,SEED_VARIETY_ethioseed-328,Finger millet - መባ (GBK- …
+seed_variety,SEED_VARIETY_ethioseed-331,Finger Millet - አክሱም (ACC …
+seed_variety,SEED_VARIETY_ethioseed-901,food barely-‘Gesse’
+seed_variety,SEED_VARIETY_ethioseed-900,food barely -Odasha (IBONH141P#38)
+seed_variety,SEED_VARIETY_ethioseed-902,food barley
+seed_variety,SEED_VARIETY_ethioseed-621,Food Barley - Abay/(3357-10)
+seed_variety,SEED_VARIETY_ethioseed-346,Food Barley - ADENA (SXH-08-F4-S-143)
+seed_variety,SEED_VARIETY_ethioseed-240,Food Barley - Adoshe (QUINA/MJA/SCARRLETT)
+seed_variety,SEED_VARIETY_ethioseed-560,Food barley - Aquila
+seed_variety,SEED_VARIETY_ethioseed-561,Food barley - Cross # …
+seed_variety,SEED_VARIETY_ethioseed-209,Food Barley - DEBARK-1 (Acc …
+seed_variety,SEED_VARIETY_ethioseed-623,Food Barley - Dimtu (3369-19)
+seed_variety,SEED_VARIETY_ethioseed-562,Food barley - EH 1493/F6.32H.3
+seed_variety,SEED_VARIETY_ethioseed-564,"Food barley - Fetina (SXH, …"
+seed_variety,SEED_VARIETY_ethioseed-903,food barley-GNT1808 (Fetenech)
+seed_variety,SEED_VARIETY_ethioseed-563,Food barley - Gobe
+seed_variety,SEED_VARIETY_ethioseed-559,Food barley - Golden eye
+seed_variety,SEED_VARIETY_ethioseed-239,Food barley - Hagere (Feres …
+seed_variety,SEED_VARIETY_ethioseed-780,Food barley HB 1307
+seed_variety,SEED_VARIETY_ethioseed-210,Food Barley - HB1965
+seed_variety,SEED_VARIETY_ethioseed-211,Food Barley - HB1966
+seed_variety,SEED_VARIETY_ethioseed-619,Food Barley - HB-42
+seed_variety,SEED_VARIETY_ethioseed-565,"Food barley - Hriti(SXH, S106)"
+seed_variety,SEED_VARIETY_ethioseed-339,Food Barley - Illala-01(ERETH07-51)
+seed_variety,SEED_VARIETY_ethioseed-342,Food Barley - Illala-02 (ERETH07-80)
+seed_variety,SEED_VARIETY_ethioseed-21,Food Barley - Jalqabne (BARC/JED/003/14) …
+seed_variety,SEED_VARIETY_ethioseed-622,Food Barley - Meserach (Kulumsa …
+seed_variety,SEED_VARIETY_ethioseed-152,Food barley - Negele (LMON …
+seed_variety,SEED_VARIETY_ethioseed-345,Food Barley - Robera (ACC.218956)
+seed_variety,SEED_VARIETY_ethioseed-857,food barley-Sena/ Semi- Hulled
+seed_variety,SEED_VARIETY_ethioseed-620,Food Barley - Shege
+seed_variety,SEED_VARIETY_ethioseed-20,Food Barley - Walashe
+seed_variety,SEED_VARIETY_ethioseed-557,Food barley - Walker
+seed_variety,SEED_VARIETY_ethioseed-347,Food Barley - Wolelay (SXH-08-F4-T-10)
+seed_variety,SEED_VARIETY_ethioseed-899,food barly-'GABISA' (ICBO4-0080-0AP-6AP-0AP- 0AP-0TR-0AREC)
+seed_variety,SEED_VARIETY_ethioseed-855,food barly-Gishen (Acc204669-1)
+seed_variety,SEED_VARIETY_ethioseed-858,food oat-Richo
+seed_variety,SEED_VARIETY_ethioseed-122,Food Oats - 'Hulegeb' (Goslin)
+seed_variety,SEED_VARIETY_ethioseed-123,Food Oats - Tena' (Souris: …
+seed_variety,SEED_VARIETY_ethioseed-90,Forage Soyabean - (Milkii) TGX1990-114FN
+seed_variety,SEED_VARIETY_ethioseed-853,GABISA' (ICBO4-0080-0AP-6AP-0AP- 0AP-0TR-0AREC)
+seed_variety,SEED_VARIETY_ethioseed-55,Garlic - Kundi (NG-0048/04)
+seed_variety,SEED_VARIETY_ethioseed-828,Gishama
+seed_variety,SEED_VARIETY_ethioseed-831,Gishama (PR-143-(26))
+seed_variety,SEED_VARIETY_ethioseed-856,GNT1808 (Fetenech
+seed_variety,SEED_VARIETY_ethioseed-805,Ground nut
+seed_variety,SEED_VARIETY_ethioseed-387,Groundnut - Babile-1 (ICGV-98412)
+seed_variety,SEED_VARIETY_ethioseed-388,Groundnut - Babile-2 (ICGV-98404)
+seed_variety,SEED_VARIETY_ethioseed-389,Groundnut - Babile-3 (ICGV-94100)
+seed_variety,SEED_VARIETY_ethioseed-698,Groundnut - Betisedi (ICG-273)
+seed_variety,SEED_VARIETY_ethioseed-390,Groundnut - DAMKT-2016 (ICGV-96346)
+seed_variety,SEED_VARIETY_ethioseed-283,Groundnut - Habesha (ICG-7822)
+seed_variety,SEED_VARIETY_ethioseed-909,groundnut-Hirko (Accession # 23525)
+seed_variety,SEED_VARIETY_ethioseed-148,Groundnut - ICG67 X BIGSEED
+seed_variety,SEED_VARIETY_ethioseed-147,"Groundnut - ""ICGV-95469"""
+seed_variety,SEED_VARIETY_ethioseed-151,Groundnut - Milkaye (PI-158850
+seed_variety,SEED_VARIETY_ethioseed-696,Groundnut - NC 343
+seed_variety,SEED_VARIETY_ethioseed-695,Groundnut - NC 4X
+seed_variety,SEED_VARIETY_ethioseed-697,Groundnut - Roba (ICG-7794)
+seed_variety,SEED_VARIETY_ethioseed-280,Groundnut - Seenaaf (ICG-9097)
+seed_variety,SEED_VARIETY_ethioseed-694,Groundnut - Shulamit
+seed_variety,SEED_VARIETY_ethioseed-806,Groundnut variety Werer 962
+seed_variety,SEED_VARIETY_ethioseed-150,Groundnut - ድርብ /Direb (ICGV-97164 …
+seed_variety,SEED_VARIETY_ethioseed-891,haricot bean- Anger (EMP-376)
+seed_variety,SEED_VARIETY_ethioseed-890,haricot bean- melka awash -98
+seed_variety,SEED_VARIETY_ethioseed-889,haricot bean- Nasir
+seed_variety,SEED_VARIETY_ethioseed-852,Haro (FMC-33) Landrace
+seed_variety,SEED_VARIETY_ethioseed-823,Hawassa Dume
+seed_variety,SEED_VARIETY_ethioseed-912,irish potato-Birhan (CIP312921.576)
+seed_variety,SEED_VARIETY_ethioseed-911,irish potato-Caruso
+seed_variety,SEED_VARIETY_ethioseed-913,irish potato-Dagnew (CIP312929.532)
+seed_variety,SEED_VARIETY_ethioseed-910,Irish potato- (Solanum tuberosum)Hermes
+seed_variety,SEED_VARIETY_ethioseed-914,-irish potato-Worku (AD501645.9)
+seed_variety,SEED_VARIETY_ethioseed-816,Jefferson
+seed_variety,SEED_VARIETY_ethioseed-79,Korerima - Benchi maji-1 (Acc#0211/00)
+seed_variety,SEED_VARIETY_ethioseed-78,Korerima - Kefa-1 (Acc#010/00)
+seed_variety,SEED_VARIETY_ethioseed-924,lemmon-Allen Eureka
+seed_variety,SEED_VARIETY_ethioseed-925,lemon-Lemon Eureka
+seed_variety,SEED_VARIETY_ethioseed-926,lemon-Limoneira Lisbon
+seed_variety,SEED_VARIETY_ethioseed-896,lentil- Ada
+seed_variety,SEED_VARIETY_ethioseed-662,Lentil - ADA (Flip- 86-14L)
+seed_variety,SEED_VARIETY_ethioseed-664,Lentil - Alemaya 98(Flip 89-63L)
+seed_variety,SEED_VARIETY_ethioseed-895,lentil- asanno
+seed_variety,SEED_VARIETY_ethioseed-131,Lentil - Baredu (FLIP-2011-17L)
+seed_variety,SEED_VARIETY_ethioseed-661,Lentil - Chalew (NEL 358)
+seed_variety,SEED_VARIETY_ethioseed-660,Lentil - Checole (ENAL-2704)
+seed_variety,SEED_VARIETY_ethioseed-33,Lentil - Debine (ዴቢኔ) ((DZ-2012Ln-0051
+seed_variety,SEED_VARIETY_ethioseed-351,Lentil - Dembi (El – …
+seed_variety,SEED_VARIETY_ethioseed-34,Lentil - Furi (DZ-2012-Ln-0218/08S-41102-013)
+seed_variety,SEED_VARIETY_ethioseed-663,Lentil - Gudo (Flip 84-78L)
+seed_variety,SEED_VARIETY_ethioseed-279,Lentil - Jiru (R-186 X …
+seed_variety,SEED_VARIETY_ethioseed-67,Lettuce - Dornas RZ
+seed_variety,SEED_VARIETY_ethioseed-46,Lima bean - LWK B45 …
+seed_variety,SEED_VARIETY_ethioseed-47,Lima bean - Wako (B45CH01214EH)
+seed_variety,SEED_VARIETY_ethioseed-430,Linseed - Bekoji-14
+seed_variety,SEED_VARIETY_ethioseed-678,Linseed - Belay-96 (IAR/Li)
+seed_variety,SEED_VARIETY_ethioseed-680,Linseed - Berene (PGRC/E 01 …
+seed_variety,SEED_VARIETY_ethioseed-357,Linseed - BILTSTAR
+seed_variety,SEED_VARIETY_ethioseed-677,Linseed - Chilalo
+seed_variety,SEED_VARIETY_ethioseed-675,Linseed - CI - 1652
+seed_variety,SEED_VARIETY_ethioseed-676,Linseed - Cl-1525
+seed_variety,SEED_VARIETY_ethioseed-359,Linseed - Furtu (CI-1525 X …
+seed_variety,SEED_VARIETY_ethioseed-679,Linseed - Geregera (R7-20D)
+seed_variety,SEED_VARIETY_ethioseed-142,Linseed - Horesoba (ሆረሶባ)
+seed_variety,SEED_VARIETY_ethioseed-380,Linseed - Kuma/ ኩማ (R734D …
+seed_variety,SEED_VARIETY_ethioseed-893,linseed- tolle
+seed_variety,SEED_VARIETY_ethioseed-141,Linseed - Welin (ወሊን)
+seed_variety,SEED_VARIETY_ethioseed-289,Linseed - Yadanno (H31 X …
+seed_variety,SEED_VARIETY_ethioseed-301,Low land rice - Fogera2 …
+seed_variety,SEED_VARIETY_ethioseed-516,Maize - A-511
+seed_variety,SEED_VARIETY_ethioseed-570,Maize - Aba raya (Sc …
+seed_variety,SEED_VARIETY_ethioseed-196,Maize - Afran Qalloo (HrU …
+seed_variety,SEED_VARIETY_ethioseed-517,Maize - Alemaya Composite
+seed_variety,SEED_VARIETY_ethioseed-302,Maize - AMH-852Q
+seed_variety,SEED_VARIETY_ethioseed-303,Maize - AMH853
+seed_variety,SEED_VARIETY_ethioseed-790,Maize - AMH854: (Ambo)
+seed_variety,SEED_VARIETY_ethioseed-569,Maize - Arganne (AMH-800)
+seed_variety,SEED_VARIETY_ethioseed-197,Maize - Baate (HrU 22)
+seed_variety,SEED_VARIETY_ethioseed-568,Maize - Bako-1 SC-22XFH-625-263 XCML …
+seed_variety,SEED_VARIETY_ethioseed-553,Maize - Beles SC 713 …
+seed_variety,SEED_VARIETY_ethioseed-554,Maize - Bereda SC 715 …
+seed_variety,SEED_VARIETY_ethioseed-520,Maize - BH 140
+seed_variety,SEED_VARIETY_ethioseed-107,Maize- BH520 W1 (Nada)
+seed_variety,SEED_VARIETY_ethioseed-3,Maize-BH520 W1 (Nada)
+seed_variety,SEED_VARIETY_ethioseed-523,Maize - BH540
+seed_variety,SEED_VARIETY_ethioseed-546,Maize - BH-541 (NSCM-41-188/32/ X …
+seed_variety,SEED_VARIETY_ethioseed-556,Maize - BH -543 (SC-22 …
+seed_variety,SEED_VARIETY_ethioseed-321,Maize - BH546
+seed_variety,SEED_VARIETY_ethioseed-322,Maize - BH547
+seed_variety,SEED_VARIETY_ethioseed-194,Maize - BH549 (BKL4/ BKL003)
+seed_variety,SEED_VARIETY_ethioseed-521,Maize - BH 660
+seed_variety,SEED_VARIETY_ethioseed-580,Maize - BH661 (CML395 x …
+seed_variety,SEED_VARIETY_ethioseed-549,Maize - BH-670 (A-7033xF7215x144-7-
+seed_variety,SEED_VARIETY_ethioseed-548,Maize - BH-QP-542 (CML-144XCML-159 X …
+seed_variety,SEED_VARIETY_ethioseed-258,Maize - BHQP548 (CML144/CML159/CML176 X …
+seed_variety,SEED_VARIETY_ethioseed-897,Maize BKL004: Female parent of …
+seed_variety,SEED_VARIETY_ethioseed-111,Maize- BOS20W1 Sweet corn (White)
+seed_variety,SEED_VARIETY_ethioseed-113,Maize- BOS20Y1 Sweet corn (Yellow)
+seed_variety,SEED_VARIETY_ethioseed-368,Maize - CML-161 X CML-165
+seed_variety,SEED_VARIETY_ethioseed-108,Maize - CP.201 (IQT5024 X …
+seed_variety,SEED_VARIETY_ethioseed-109,Maize - CP.838 (SKQPP422 X …
+seed_variety,SEED_VARIETY_ethioseed-204,Maize - CPS 10
+seed_variety,SEED_VARIETY_ethioseed-326,Maize - CPS.10
+seed_variety,SEED_VARIETY_ethioseed-202,Maize - CPS 6
+seed_variety,SEED_VARIETY_ethioseed-325,Maize - CPS.6
+seed_variety,SEED_VARIETY_ethioseed-255,Maize - Damote (P3506W)
+seed_variety,SEED_VARIETY_ethioseed-199,Maize - DK008
+seed_variety,SEED_VARIETY_ethioseed-106,Maize - DK7500
+seed_variety,SEED_VARIETY_ethioseed-201,Maize - DK777 / Leku
+seed_variety,SEED_VARIETY_ethioseed-542,Maize - Fetene (ACV3)
+seed_variety,SEED_VARIETY_ethioseed-329,Maize - Galaxy
+seed_variety,SEED_VARIETY_ethioseed-536,Maize - Giba –Awash Fendisha
+seed_variety,SEED_VARIETY_ethioseed-579,Maize - GIBE 2
+seed_variety,SEED_VARIETY_ethioseed-259,Maize - Gibe3 Open Pollinated …
+seed_variety,SEED_VARIETY_ethioseed-545,Maize - Gibe Comp-1 (MMRC-51)
+seed_variety,SEED_VARIETY_ethioseed-547,Maize - Gusaw (Gambella Composite)
+seed_variety,SEED_VARIETY_ethioseed-519,Maize - Guto
+seed_variety,SEED_VARIETY_ethioseed-540,Maize - Hawassa-1 (ESE-237)
+seed_variety,SEED_VARIETY_ethioseed-558,Maize - Hora (Ambo 2 …
+seed_variety,SEED_VARIETY_ethioseed-522,Maize - Jabi (PHB 3253)
+seed_variety,SEED_VARIETY_ethioseed-566,Maize - Jibat (AMH851)
+seed_variety,SEED_VARIETY_ethioseed-518,Maize - Katumani
+seed_variety,SEED_VARIETY_ethioseed-193,Maize - Kortu (P2809W)
+seed_variety,SEED_VARIETY_ethioseed-541,Maize - Kuleni
+seed_variety,SEED_VARIETY_ethioseed-538,Maize - Limu/Anger (P3812W )
+seed_variety,SEED_VARIETY_ethioseed-323,Maize - Melkasa1Q
+seed_variety,SEED_VARIETY_ethioseed-402,Maize -Melkasa-1Q
+seed_variety,SEED_VARIETY_ethioseed-571,Maize - Melkasa-4 (ECA-EE-36)
+seed_variety,SEED_VARIETY_ethioseed-586,Maize - Melkasa- 5 (SADVIB#)
+seed_variety,SEED_VARIETY_ethioseed-583,Maize - Melkasa-6Q (Pool 15 …
+seed_variety,SEED_VARIETY_ethioseed-584,Maize - Melkasa-7 (Pop 147 …
+seed_variety,SEED_VARIETY_ethioseed-551,Maize - Melkassa –2 (ZM-521)
+seed_variety,SEED_VARIETY_ethioseed-550,Maize - Melkassa-3 (SADVE)
+seed_variety,SEED_VARIETY_ethioseed-587,Maize - MH 130 (CML440/CML445/ …
+seed_variety,SEED_VARIETY_ethioseed-324,Maize - Mh140
+seed_variety,SEED_VARIETY_ethioseed-403,Maize - Mh140 (Melkasa Hybrid …
+seed_variety,SEED_VARIETY_ethioseed-2,Maize-MH141
+seed_variety,SEED_VARIETY_ethioseed-535,Maize - MHQ 138(CML 144/CML159)
+seed_variety,SEED_VARIETY_ethioseed-366,"Maize - Morka (UCBS1,C2)"
+seed_variety,SEED_VARIETY_ethioseed-848,maize-P3815W (Loko)
+seed_variety,SEED_VARIETY_ethioseed-327,Maize - PAC 781
+seed_variety,SEED_VARIETY_ethioseed-544,Maize - Raare-1(EV-1)
+seed_variety,SEED_VARIETY_ethioseed-257,Maize - SBRH1 Hybrid (CML-334/MBRC5BCF108-2-3-1-B-5-2-B-B/CML312)
+seed_variety,SEED_VARIETY_ethioseed-539,Maize - SC-403
+seed_variety,SEED_VARIETY_ethioseed-399,Maize - SC 719
+seed_variety,SEED_VARIETY_ethioseed-578,Maize - Shala (P2859W)
+seed_variety,SEED_VARIETY_ethioseed-572,Maize - Shone (Phb30G19)
+seed_variety,SEED_VARIETY_ethioseed-256,Maize - SPRH1 Hybrid (CUBA/GUADC1 …
+seed_variety,SEED_VARIETY_ethioseed-543,Maize - Tesfa (ACV6)
+seed_variety,SEED_VARIETY_ethioseed-552,Maize - Toga (ESE-203 hybrid)
+seed_variety,SEED_VARIETY_ethioseed-537,Maize - Webi (AMH760Q)
+seed_variety,SEED_VARIETY_ethioseed-582,Maize -Wenchi (AMH 850)
+seed_variety,SEED_VARIETY_ethioseed-567,Maize - ZAMA
+seed_variety,SEED_VARIETY_ethioseed-875,malt barley abdane
+seed_variety,SEED_VARIETY_ethioseed-624,Malt Barley - Beka
+seed_variety,SEED_VARIETY_ethioseed-817,malt barley- Bekoji-1
+seed_variety,SEED_VARIETY_ethioseed-212,Malt Barley - Explorer
+seed_variety,SEED_VARIETY_ethioseed-818,Malt barley- Fanaka
+seed_variety,SEED_VARIETY_ethioseed-242,Malt barley -Fatima
+seed_variety,SEED_VARIETY_ethioseed-338,Malt Barley - Grace
+seed_variety,SEED_VARIETY_ethioseed-626,Malt Barley - HB-120
+seed_variety,SEED_VARIETY_ethioseed-832,Malt barley- HB1963
+seed_variety,SEED_VARIETY_ethioseed-350,Malt Barley - HB1963
+seed_variety,SEED_VARIETY_ethioseed-833,Malt barley- HB1964
+seed_variety,SEED_VARIETY_ethioseed-352,Malt Barley - HB1964
+seed_variety,SEED_VARIETY_ethioseed-872,Malt barley- HB 52
+seed_variety,SEED_VARIETY_ethioseed-120,Malt Barley - Henrike (Pedigree: …
+seed_variety,SEED_VARIETY_ethioseed-625,Malt Barley - Holker
+seed_variety,SEED_VARIETY_ethioseed-573,Malt Barley - IBON 174/03
+seed_variety,SEED_VARIETY_ethioseed-153,Malt barley - Iftuu (Mn …
+seed_variety,SEED_VARIETY_ethioseed-874,malt barley- kiflu-B (miskal 21)
+seed_variety,SEED_VARIETY_ethioseed-24,Malt Barley - MBF5P#26 (ራስ)
+seed_variety,SEED_VARIETY_ethioseed-247,Malt Barley - MOATA
+seed_variety,SEED_VARIETY_ethioseed-244,Malt Barley - Raya 1
+seed_variety,SEED_VARIETY_ethioseed-119,Malt Barley - RGT Planet …
+seed_variety,SEED_VARIETY_ethioseed-873,malt barley- sabini
+seed_variety,SEED_VARIETY_ethioseed-356,Malt Barley - Singitan (IBON-MRA)
+seed_variety,SEED_VARIETY_ethioseed-23,Malt Barley - Suba (Pedigree: …
+seed_variety,SEED_VARIETY_ethioseed-337,Malt Barley -Traveler
+seed_variety,SEED_VARIETY_ethioseed-121,Malt Barley - Waro (LIBRA …
+seed_variety,SEED_VARIETY_ethioseed-825,Minjar
+seed_variety,SEED_VARIETY_ethioseed-826,mungbean- Arkebe
+seed_variety,SEED_VARIETY_ethioseed-429,Mung bean - Arkebe (SML-668)
+seed_variety,SEED_VARIETY_ethioseed-827,mungbean- Borda
+seed_variety,SEED_VARIETY_ethioseed-867,mung bean-Mieso 1 (VC-6492-59A)
+seed_variety,SEED_VARIETY_ethioseed-428,Mung Bean - NVL-1
+seed_variety,SEED_VARIETY_ethioseed-791,Mungbean Rasa
+seed_variety,SEED_VARIETY_ethioseed-70,Musk melon - Caribbean king …
+seed_variety,SEED_VARIETY_ethioseed-672,Noug - Este-1
+seed_variety,SEED_VARIETY_ethioseed-673,Noug - Fogera
+seed_variety,SEED_VARIETY_ethioseed-674,Noug - Kuyu
+seed_variety,SEED_VARIETY_ethioseed-84,Oats - DUMANT 2007 Portage …
+seed_variety,SEED_VARIETY_ethioseed-854,Odasha (IBONH141P#38
+seed_variety,SEED_VARIETY_ethioseed-73,Okra - Belese (M-27C)
+seed_variety,SEED_VARIETY_ethioseed-808,Onion
+seed_variety,SEED_VARIETY_ethioseed-56,Onion - Red Ball F1
+seed_variety,SEED_VARIETY_ethioseed-57,Onion - Red Nice
+seed_variety,SEED_VARIETY_ethioseed-82,Pegion pea - Afrassa (ICEAP0117/9)
+seed_variety,SEED_VARIETY_ethioseed-868,Pigeon pea
+seed_variety,SEED_VARIETY_ethioseed-905,Pigeon pea-Arjo (Medium set)
+seed_variety,SEED_VARIETY_ethioseed-48,Pigeon pea - ICEAP 00554 …
+seed_variety,SEED_VARIETY_ethioseed-358,Quinoa - Yenewa የኔዋ (Titicaca)
+seed_variety,SEED_VARIETY_ethioseed-869,Rapeseed-ACC 20131 (Melkaa)
+seed_variety,SEED_VARIETY_ethioseed-681,Rapeseed and Ethiopian mustard - …
+seed_variety,SEED_VARIETY_ethioseed-292,Rapeseed and Ethiopian mustard - …
+seed_variety,SEED_VARIETY_ethioseed-682,Rapeseed and Ethiopian mustard - …
+seed_variety,SEED_VARIETY_ethioseed-683,Rapeseed and Ethiopian mustard - …
+seed_variety,SEED_VARIETY_ethioseed-291,Rapeseed and Ethiopian mustard - …
+seed_variety,SEED_VARIETY_ethioseed-381,Rape seed - Swifter
+seed_variety,SEED_VARIETY_ethioseed-839,read wheat-Bokku (ETBW 9548)
+seed_variety,SEED_VARIETY_ethioseed-188,Rice - Abay (ARCC16Bar-21-5-12-3-1-2-1)
+seed_variety,SEED_VARIETY_ethioseed-397,Rice - ADET (WAB450-1-B-P-462-HB)
+seed_variety,SEED_VARIETY_ethioseed-105,Rice - Azmera (ART16-5-9-22-2-1-1-B-1-2)
+seed_variety,SEED_VARIETY_ethioseed-315,Rice - Chewaqa (YIN LU20)
+seed_variety,SEED_VARIETY_ethioseed-189,Rice - Erib (WAB880-1-32-1-2-P1-HB)
+seed_variety,SEED_VARIETY_ethioseed-299,Rice- Fogera 1
+seed_variety,SEED_VARIETY_ethioseed-754,Rice - GODE-1 (BG-90-2)
+seed_variety,SEED_VARIETY_ethioseed-314,Rice - Hiber (IRGA370-38-1-1F-B1-1)
+seed_variety,SEED_VARIETY_ethioseed-534,Rice - Hidasse (WAB 515-B-16A1-2)
+seed_variety,SEED_VARIETY_ethioseed-753,Rice - HODEN (MTU-1001)
+seed_variety,SEED_VARIETY_ethioseed-757,Rice - Kallafo-1/FOFIFA-3737/)
+seed_variety,SEED_VARIETY_ethioseed-300,Rice - Maitsebri-2
+seed_variety,SEED_VARIETY_ethioseed-234,Rice -Maitsebri-3 (ARCCU16Bar-9-9-24-4-B-1)
+seed_variety,SEED_VARIETY_ethioseed-398,Rice - Maytsebri-1 (NERICA 13)
+seed_variety,SEED_VARIETY_ethioseed-313,Rice - NERICA-12 (WAB880-1-38-20-17-P1-HB)
+seed_variety,SEED_VARIETY_ethioseed-756,Rice - NERICA-14 (upland type)
+seed_variety,SEED_VARIETY_ethioseed-809,Rice Nerika-4
+seed_variety,SEED_VARIETY_ethioseed-89,Rice -Pawe-2 (PARC DAT-V-3-2013
+seed_variety,SEED_VARIETY_ethioseed-100,Rice-Selam (Yungeng 31)
+seed_variety,SEED_VARIETY_ethioseed-190,Rice - Shaga (Scrid017-1-4-4-4-1)
+seed_variety,SEED_VARIETY_ethioseed-755,Rice - SHEBELLE (IR 688059-76-3-3-3-2)
+seed_variety,SEED_VARIETY_ethioseed-317,Rice - VRH 606
+seed_variety,SEED_VARIETY_ethioseed-318,Rice - VRH 640
+seed_variety,SEED_VARIETY_ethioseed-320,Rice - VRH 654
+seed_variety,SEED_VARIETY_ethioseed-191,Rice - Wanzaye (Scrid006-3-2-3-2)
+seed_variety,SEED_VARIETY_ethioseed-80,Rose - WG-Tsigereda
+seed_variety,SEED_VARIETY_ethioseed-298,Safflower - Kuhar Acc 229086
+seed_variety,SEED_VARIETY_ethioseed-802,SC22 (Female parent for BH540 …
+seed_variety,SEED_VARIETY_ethioseed-830,SER 119
+seed_variety,SEED_VARIETY_ethioseed-829,SER 125
+seed_variety,SEED_VARIETY_ethioseed-690,Sesame - Abasena
+seed_variety,SEED_VARIETY_ethioseed-361,Sesame - Acc.00047
+seed_variety,SEED_VARIETY_ethioseed-233,Sesame - Acc.051-02-sel-1-(2))
+seed_variety,SEED_VARIETY_ethioseed-692,Sesame - Adi
+seed_variety,SEED_VARIETY_ethioseed-693,Sesame - Argane
+seed_variety,SEED_VARIETY_ethioseed-385,Sesame - BaHaNecho-(W-109/WSS/(Acc-EW-012(5))
+seed_variety,SEED_VARIETY_ethioseed-386,Sesame - BaHaZeyit-(W-119/WSM/(Acc-EW-023(1))
+seed_variety,SEED_VARIETY_ethioseed-382,Sesame - Benishangul-1 (WW-001(6))
+seed_variety,SEED_VARIETY_ethioseed-360,Sesame - Chalasa - EW023(2)
+seed_variety,SEED_VARIETY_ethioseed-294,Sesame - Dangur (E.W.013. (8))
+seed_variety,SEED_VARIETY_ethioseed-686,Sesame - E
+seed_variety,SEED_VARIETY_ethioseed-277,Sesame -Gida Ayana (Ass-acc-29)
+seed_variety,SEED_VARIETY_ethioseed-383,Sesame - Gonder-1 (Acc.ba002)
+seed_variety,SEED_VARIETY_ethioseed-49,Sesame - Hachalu (EW006 x …
+seed_variety,SEED_VARIETY_ethioseed-145,Sesame - Hagalo ( EW002 …
+seed_variety,SEED_VARIETY_ethioseed-812,Sesame - Humera-1
+seed_variety,SEED_VARIETY_ethioseed-684,Sesame - Kelafo 74
+seed_variety,SEED_VARIETY_ethioseed-906,Sesame -Marzeneb (Accession 159)
+seed_variety,SEED_VARIETY_ethioseed-688,Sesame - Mehado.80
+seed_variety,SEED_VARIETY_ethioseed-687,Sesame - S
+seed_variety,SEED_VARIETY_ethioseed-691,Sesame - Sarkamo
+seed_variety,SEED_VARIETY_ethioseed-384,Sesame - Setit-2 (J-03)
+seed_variety,SEED_VARIETY_ethioseed-232,Sesame - Setit-3 (HuARC-4)
+seed_variety,SEED_VARIETY_ethioseed-908,sesame-Sifan (Accession HSc-016#13)
+seed_variety,SEED_VARIETY_ethioseed-907,sesame-Sifan (Accession HSc-016#13)
+seed_variety,SEED_VARIETY_ethioseed-685,Sesame - T.85
+seed_variety,SEED_VARIETY_ethioseed-689,Sesame - Tate /BSC-003/
+seed_variety,SEED_VARIETY_ethioseed-231,Sesame - Waliin (BG-004-1)
+seed_variety,SEED_VARIETY_ethioseed-143,Sesame - Yale ( EW002 …
+seed_variety,SEED_VARIETY_ethioseed-792,Setit-1 (col sel p#1)
+seed_variety,SEED_VARIETY_ethioseed-779,Sorghum
+seed_variety,SEED_VARIETY_ethioseed-590,Sorghum - 76TI# 23
+seed_variety,SEED_VARIETY_ethioseed-235,Sorghum - 9058 (ESH-5)
+seed_variety,SEED_VARIETY_ethioseed-602,Sorghum - Aba-Melko (Sartu)
+seed_variety,SEED_VARIETY_ethioseed-598,Sorghum - ABSHIR (P-9403)
+seed_variety,SEED_VARIETY_ethioseed-606,Sorghum - Abuare (90MW 5353)
+seed_variety,SEED_VARIETY_ethioseed-262,Sorghum - Adukara
+seed_variety,SEED_VARIETY_ethioseed-207,Sorghum - Alene (WSV-387 x …
+seed_variety,SEED_VARIETY_ethioseed-264,Sorghum - Assosa-1 (Bambasi no-9)
+seed_variety,SEED_VARIETY_ethioseed-17,Sorghum - AYINAGE (Acc.5012)
+seed_variety,SEED_VARIETY_ethioseed-596,Sorghum - Baji (85 MW …
+seed_variety,SEED_VARIETY_ethioseed-144,Sorghum -Beletew (ICSR24005)
+seed_variety,SEED_VARIETY_ethioseed-605,Sorghum - Birhan (Key#8566)
+seed_variety,SEED_VARIETY_ethioseed-594,Sorghum - Birmash
+seed_variety,SEED_VARIETY_ethioseed-608,Sorghum - Chelenko ETS 1176
+seed_variety,SEED_VARIETY_ethioseed-334,Sorghum - Chemeda (Acc- BRC-18)
+seed_variety,SEED_VARIETY_ethioseed-595,Sorghum - Chiro (Coll#4)
+seed_variety,SEED_VARIETY_ethioseed-609,Sorghum - Dano (BRC-378)
+seed_variety,SEED_VARIETY_ethioseed-555,Sorghum - Dekeba (ICSR 24004)
+seed_variety,SEED_VARIETY_ethioseed-592,Sorghum - Dinkimash
+seed_variety,SEED_VARIETY_ethioseed-114,Sorghum - Elemo (Acc.237261)
+seed_variety,SEED_VARIETY_ethioseed-614,Sorghum - EMAHOY (Pw01-092)
+seed_variety,SEED_VARIETY_ethioseed-18,Sorghum - Erer (#2005MI5081)
+seed_variety,SEED_VARIETY_ethioseed-404,Sorghum - ESH-3 (Ethiopian Sorghum …
+seed_variety,SEED_VARIETY_ethioseed-307,Sorghum - ESH-4
+seed_variety,SEED_VARIETY_ethioseed-116,Sorghum - Fadis 01 (M-36121 …
+seed_variety,SEED_VARIETY_ethioseed-266,Sorghum - Fendisha-1
+seed_variety,SEED_VARIETY_ethioseed-88,Sorghum forage - Guta (IS38331)
+seed_variety,SEED_VARIETY_ethioseed-589,Sorghum - Gambella 1107
+seed_variety,SEED_VARIETY_ethioseed-618,Sorghum - GEDO (Striga resistant)
+seed_variety,SEED_VARIETY_ethioseed-335,Sorghum - Gemedi (ACC-BCC-5)
+seed_variety,SEED_VARIETY_ethioseed-617,Sorghum - GEREMEW (87 BK …
+seed_variety,SEED_VARIETY_ethioseed-611,Sorghum - GIRANA-1 (Early maturing)
+seed_variety,SEED_VARIETY_ethioseed-599,Sorghum - Gubiye (P-9401)
+seed_variety,SEED_VARIETY_ethioseed-607,Sorghum - Hormat -- (ICSV …
+seed_variety,SEED_VARIETY_ethioseed-591,Sorghum - IS 9302
+seed_variety,SEED_VARIETY_ethioseed-610,Sorghum - Lalo (BRC-245)
+seed_variety,SEED_VARIETY_ethioseed-615,Sorghum - MACIA (Malting type)
+seed_variety,SEED_VARIETY_ethioseed-135,Sorghum - Marara [ETSL 101371 …
+seed_variety,SEED_VARIETY_ethioseed-597,Sorghum - MEKO-1 (M – …
+seed_variety,SEED_VARIETY_ethioseed-781,Sorghum Melkam (WSV 387)
+seed_variety,SEED_VARIETY_ethioseed-236,Sorghum - Mentebteb (Debir)
+seed_variety,SEED_VARIETY_ethioseed-612,Sorghum - MISKIR (PGRC/E#69441XP-9401) (Early …
+seed_variety,SEED_VARIETY_ethioseed-601,Sorghum - Muyra-1 (EST-1005)
+seed_variety,SEED_VARIETY_ethioseed-600,Sorghum - Muyra-2 (EST-567)
+seed_variety,SEED_VARIETY_ethioseed-405,Sorghum - PAC 537
+seed_variety,SEED_VARIETY_ethioseed-330,Sorghum - PAC537
+seed_variety,SEED_VARIETY_ethioseed-613,Sorghum - RAYA (PGRC/ EX222878XKAT369-1)
+seed_variety,SEED_VARIETY_ethioseed-616,Sorghum - RED SWAZI (Malting …
+seed_variety,SEED_VARIETY_ethioseed-146,Sorghum - Sadii (SLRC-046)
+seed_variety,SEED_VARIETY_ethioseed-593,Sorghum - Seredo
+seed_variety,SEED_VARIETY_ethioseed-112,Sorghum - SIMA (Kalu)
+seed_variety,SEED_VARIETY_ethioseed-604,Sorghum - Teshale (3443-2-0P)
+seed_variety,SEED_VARIETY_ethioseed-603,Sorghum - Yeju (ICSV 111 …
+seed_variety,SEED_VARIETY_ethioseed-205,Sorghum - ቦንሳ (07MW6085) (97BK6129/85MW4138)
+seed_variety,SEED_VARIETY_ethioseed-206,Sorghum - አርጊቲ (2005M15064) (WSV387 …
+seed_variety,SEED_VARIETY_ethioseed-316,Sorghum - አደሌ (ACC#70583/Hararghecoll #4)
+seed_variety,SEED_VARIETY_ethioseed-261,Sorghum - ዲባባ (ETS 639/SRN-39)
+seed_variety,SEED_VARIETY_ethioseed-319,Sorghum - ጅሩ (Jiru) (yellow)/ETS-2752)
+seed_variety,SEED_VARIETY_ethioseed-110,Sorghum - ጥላሁን (Tilahun) 14MWLSDT7114 …
+seed_variety,SEED_VARIETY_ethioseed-140,Soyabean - Andinet (Pedigree: TGX-1989-75F)
+seed_variety,SEED_VARIETY_ethioseed-884,soyabean- belesa -95( PR-149-6
+seed_variety,SEED_VARIETY_ethioseed-378,Soyabean - BOSHE (IAC-13-1)
+seed_variety,SEED_VARIETY_ethioseed-887,soyabean- cheri IPB -81-EP7
+seed_variety,SEED_VARIETY_ethioseed-671,Soyabean - Clark 63K
+seed_variety,SEED_VARIETY_ethioseed-670,Soyabean - Coker 240
+seed_variety,SEED_VARIETY_ethioseed-669,Soyabean - Davis
+seed_variety,SEED_VARIETY_ethioseed-379,Soyabean - Dhidhessa (PR-149-81-EP-7-2
+seed_variety,SEED_VARIETY_ethioseed-888,soyabean- ETHIO- YUGOSLAVIA
+seed_variety,SEED_VARIETY_ethioseed-284,Soyabean - Gazale
+seed_variety,SEED_VARIETY_ethioseed-40,Soyabean - Guda (PR142-15-SB)
+seed_variety,SEED_VARIETY_ethioseed-885,soyabean- katta(PR-145-2)
+seed_variety,SEED_VARIETY_ethioseed-886,soyabean- korme (AGS-129-2)
+seed_variety,SEED_VARIETY_ethioseed-427,Soyabean - Nyala
+seed_variety,SEED_VARIETY_ethioseed-285,Soyabean - Pawe 01 (PARC-2013-2)
+seed_variety,SEED_VARIETY_ethioseed-41,Soyabean - SCS-1
+seed_variety,SEED_VARIETY_ethioseed-898,Soybean Afgat
+seed_variety,SEED_VARIETY_ethioseed-865,soybean-Bechera(Late set)
+seed_variety,SEED_VARIETY_ethioseed-166,Soybean - Billo (PM-12-37)
+seed_variety,SEED_VARIETY_ethioseed-851,Soybean EthioYugozlavia
+seed_variety,SEED_VARIETY_ethioseed-165,Soybean -Gute (PM-12-3)
+seed_variety,SEED_VARIETY_ethioseed-904,soybean-Maya
+seed_variety,SEED_VARIETY_ethioseed-167,Soybean- Melko Bonsa -1 (JM-CLK/CRFD-15-SD)
+seed_variety,SEED_VARIETY_ethioseed-286,Soybean - Pawe-02 (PARC-2013-3)
+seed_variety,SEED_VARIETY_ethioseed-373,Soybean - Pawe 03 (TGX-1987-62F)
+seed_variety,SEED_VARIETY_ethioseed-160,Soybean - Pawe-78 (Tgx-1990-21F)
+seed_variety,SEED_VARIETY_ethioseed-161,Soybean - Tana Beles (Tgx-1990-59F)
+seed_variety,SEED_VARIETY_ethioseed-866,soybeen
+seed_variety,SEED_VARIETY_ethioseed-431,Sunflower - Ayehu(አየሁ)
+seed_variety,SEED_VARIETY_ethioseed-433,Sunflower - Camara II
+seed_variety,SEED_VARIETY_ethioseed-295,Sunflower - Gimja (P63A98)
+seed_variety,SEED_VARIETY_ethioseed-363,Sunflower - Hysun 33
+seed_variety,SEED_VARIETY_ethioseed-434,Sunflower - NLN 11037
+seed_variety,SEED_VARIETY_ethioseed-296,Sunflower - Pawi 2 (P63LL06)
+seed_variety,SEED_VARIETY_ethioseed-183,Sunflower - Uke - PAN7057
+seed_variety,SEED_VARIETY_ethioseed-435,Sunflower - Vincenzo
+seed_variety,SEED_VARIETY_ethioseed-432,Sunflower - X6859
+seed_variety,SEED_VARIETY_ethioseed-58,Sweet/Hot pepper - Demon F1
+seed_variety,SEED_VARIETY_ethioseed-62,Sweet/Hot pepper - Jajo Acc#28
+seed_variety,SEED_VARIETY_ethioseed-60,Sweet/Hot Pepper - Oda Gibe …
+seed_variety,SEED_VARIETY_ethioseed-63,Sweet/Hot pepper - SERENADE EXPLORER
+seed_variety,SEED_VARIETY_ethioseed-59,Sweet/Hot pepper - Tongla F1
+seed_variety,SEED_VARIETY_ethioseed-915,Sweet potato (Ipomoea batatas)-NASPOT-12 (Orange …
+seed_variety,SEED_VARIETY_ethioseed-916,Taro (Colocasia esculenta)-Mulu-04 (053)
+seed_variety,SEED_VARIETY_ethioseed-185,Tef - Abay (Acc#225931)
+seed_variety,SEED_VARIETY_ethioseed-241,Tef - Abola (7 (Quncho …
+seed_variety,SEED_VARIETY_ethioseed-438,Tef - Ajora
+seed_variety,SEED_VARIETY_ethioseed-446,Tef - Amarach
+seed_variety,SEED_VARIETY_ethioseed-421,Tef - Ambo Toke (DZ-01-1278)
+seed_variety,SEED_VARIETY_ethioseed-169,Tef - Areka-1 (Dz-01-974 X …
+seed_variety,SEED_VARIETY_ethioseed-837,Tef-Ataye (አጣየ) (DZ-CR-459(RIL-16)
+seed_variety,SEED_VARIETY_ethioseed-9,Tef-Axumawit (Dz-cr-494(RIL.7)
+seed_variety,SEED_VARIETY_ethioseed-785,Tef - Bekur በኩር
+seed_variety,SEED_VARIETY_ethioseed-835,tef -Beriso (BK-01-1817)
+seed_variety,SEED_VARIETY_ethioseed-784,Tef - Biradama
+seed_variety,SEED_VARIETY_ethioseed-4,Tef - Bishoftu (ቢሾፍቱ ) …
+seed_variety,SEED_VARIETY_ethioseed-12,Tef - (Boni (ቦኒ)
+seed_variety,SEED_VARIETY_ethioseed-524,Tef - Boset [ DZ-Cr-409 …
+seed_variety,SEED_VARIETY_ethioseed-287,Tef - Dagem [DZ-Cr-438 (RIL …
+seed_variety,SEED_VARIETY_ethioseed-442,Tef - Dega-Tef
+seed_variety,SEED_VARIETY_ethioseed-444,Tef - Dima
+seed_variety,SEED_VARIETY_ethioseed-419,Tef - Dukem (DZ-01-974)
+seed_variety,SEED_VARIETY_ethioseed-186,Tef - DURSI (Acc.236952)
+seed_variety,SEED_VARIETY_ethioseed-410,Tef - DZ-01-787
+seed_variety,SEED_VARIETY_ethioseed-744,Tef - DZ-01-99
+seed_variety,SEED_VARIETY_ethioseed-413,Tef - DZ-Cr-44
+seed_variety,SEED_VARIETY_ethioseed-414,Tef - DZ-Cr-82
+seed_variety,SEED_VARIETY_ethioseed-96,Tef - Ebba (Kay muri …
+seed_variety,SEED_VARIETY_ethioseed-745,Tef - Enatit (DZ-01-354)
+seed_variety,SEED_VARIETY_ethioseed-450,Tef - Estub
+seed_variety,SEED_VARIETY_ethioseed-170,Tef - Felagot (DZ-Cr-442 (RILNo.77C))
+seed_variety,SEED_VARIETY_ethioseed-449,Tef - Gemechis (DZ-Cr-387)
+seed_variety,SEED_VARIETY_ethioseed-439,Tef - Genete
+seed_variety,SEED_VARIETY_ethioseed-422,Tef - Gerado
+seed_variety,SEED_VARIETY_ethioseed-877,Tef- gerado (DZ- 01-1281)
+seed_variety,SEED_VARIETY_ethioseed-416,Tef - Gibe (DZ-Cr-255)
+seed_variety,SEED_VARIETY_ethioseed-441,Tef - Gimbichu
+seed_variety,SEED_VARIETY_ethioseed-437,Tef - Gola
+seed_variety,SEED_VARIETY_ethioseed-445,Tef - Guduru
+seed_variety,SEED_VARIETY_ethioseed-836,Tef-hanga ( BK-01- 53-17)
+seed_variety,SEED_VARIETY_ethioseed-168,Tef - Hiber-1 (DZ-01-974* P1222988)
+seed_variety,SEED_VARIETY_ethioseed-420,Tef - Holeta Key (DZ-01-2053)
+seed_variety,SEED_VARIETY_ethioseed-11,Tef-Jarso (RIL No.76B)
+seed_variety,SEED_VARIETY_ethioseed-94,Tef - Jitu (Acc. DZ-01-256)
+seed_variety,SEED_VARIETY_ethioseed-365,Tef - Kena (23-Tafi-Adi-72)
+seed_variety,SEED_VARIETY_ethioseed-391,Tef - Kora [DZ-Cr-438
+seed_variety,SEED_VARIETY_ethioseed-436,Tef - Koye
+seed_variety,SEED_VARIETY_ethioseed-876,Tef- koye (DZ-01-1285)
+seed_variety,SEED_VARIETY_ethioseed-447,Tef - Kuncho
+seed_variety,SEED_VARIETY_ethioseed-453,Tef - Lakech
+seed_variety,SEED_VARIETY_ethioseed-412,Tef - Magna (DZ-01-196)
+seed_variety,SEED_VARIETY_ethioseed-448,Tef - Mechare
+seed_variety,SEED_VARIETY_ethioseed-95,Tef - Mena (DZ-01-354 X …
+seed_variety,SEED_VARIETY_ethioseed-172,Tef - Negus (DZ-Cr-429 (RIL.125))
+seed_variety,SEED_VARIETY_ethioseed-452,Tef - Simada
+seed_variety,SEED_VARIETY_ethioseed-10,Tef-Takusa (DZ-01-974 X GA-10-3(RILL-104)
+seed_variety,SEED_VARIETY_ethioseed-171,Tef - Tesfa (DZ-Cr-457 (RIL.181))
+seed_variety,SEED_VARIETY_ethioseed-415,Tef - Tsedey (DZ-Cr-37)
+seed_variety,SEED_VARIETY_ethioseed-93,Tef - Washera (353*Key muri) …
+seed_variety,SEED_VARIETY_ethioseed-392,Tef - Worekitu (214746A)
+seed_variety,SEED_VARIETY_ethioseed-443,Tef - Yilmana
+seed_variety,SEED_VARIETY_ethioseed-417,Tef - Ziquala (DZ-Cr-358)
+seed_variety,SEED_VARIETY_ethioseed-440,Tef - Zobel
+seed_variety,SEED_VARIETY_ethioseed-91,Tobaco - KRK26R
+seed_variety,SEED_VARIETY_ethioseed-807,Tomato
+seed_variety,SEED_VARIETY_ethioseed-54,Tomato - Abale RZ
+seed_variety,SEED_VARIETY_ethioseed-52,Tomato - GABBI
+seed_variety,SEED_VARIETY_ethioseed-53,Tomato - GALILEA 86
+seed_variety,SEED_VARIETY_ethioseed-918,Tomato -Jorgie-1 (Wonhong No.3) Cherry …
+seed_variety,SEED_VARIETY_ethioseed-919,tomato-Jorgie-2 (Wonhong No.5) Cherry tomato
+seed_variety,SEED_VARIETY_ethioseed-311,Triticale - Abdissa (TCL-76)
+seed_variety,SEED_VARIETY_ethioseed-533,Triticale - Dersolign (ADTR-085)
+seed_variety,SEED_VARIETY_ethioseed-182,Triticale - ETCL-161 (CHIMA)
+seed_variety,SEED_VARIETY_ethioseed-103,Triticale - Kombolcha (Acc. 2012 …
+seed_variety,SEED_VARIETY_ethioseed-747,Triticale - Minet (USGEN 19)
+seed_variety,SEED_VARIETY_ethioseed-312,Triticale - Moti (TCL-61)
+seed_variety,SEED_VARIETY_ethioseed-746,Triticale - Snan (95t62-APL9-M)
+seed_variety,SEED_VARIETY_ethioseed-748,Triticale - TT14 (LOGAW SHIBO)
+seed_variety,SEED_VARIETY_ethioseed-749,Triticale - TT2 (DILFEKAR)
+seed_variety,SEED_VARIETY_ethioseed-310,Triticale - Zenkatie (TCL 59)
+seed_variety,SEED_VARIETY_ethioseed-68,Water melon - Carmen F1
+seed_variety,SEED_VARIETY_ethioseed-69,Water melon - Menuetto F1
+seed_variety,SEED_VARIETY_ethioseed-921,watermelon-Tamerlan F1
+seed_variety,SEED_VARIETY_ethioseed-789,Wheat - Begna
+seed_variety,SEED_VARIETY_ethioseed-787,Wheat - BIFTU
+seed_variety,SEED_VARIETY_ethioseed-788,Wheat - Emegwa እመጓ
+seed_variety,SEED_VARIETY_ethioseed-786,Wheat - MIJU (ETBW7082)
+seed_variety,SEED_VARIETY_ethioseed-51,Yam - Koffe (AW/56/76)
+seed_variety,SEED_VARIETY_ethioseed-928,Yellow Dodola
