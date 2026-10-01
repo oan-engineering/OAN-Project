@@ -1,0 +1,208 @@
+{%- macro norm(value) -%}
+{{- (value or '') | string | trim | upper -}}
+{%- endmacro -%}
+
+{%- macro measurement_unit(value) -%}
+{%- set v = norm(value) -%}
+{%- if v in ['H', 'HECTARE'] -%}Hectare
+{%- elif v in ['AC', 'ACRE'] -%}Acre
+{%- elif v in ['SQM', 'SQUARE_METER'] -%}Square meter
+{%- elif v in ['TIMAD'] -%}Timad
+{%- else -%}{{ value or '' }}
+{%- endif -%}
+{%- endmacro -%}
+
+{%- macro land_tenure(value) -%}
+{%- set v = norm(value) -%}
+{%- if v == 'OWNER' -%}Owned
+{%- elif v == 'TENANT' -%}Leased (Rented from someone else)
+{%- elif v in ['CROP_SHARE', 'CROP_SHARING'] -%}Crop share
+{%- elif v == 'FAMILY_GIFT' -%}Family gift
+{%- else -%}{{ value or '' }}
+{%- endif -%}
+{%- endmacro -%}
+
+{%- macro crop_category(value) -%}
+{%- set v = norm(value) -%}
+{%- if v in ['CEREALS', 'CEREAL'] -%}Cereals
+{%- elif v in ['PULSES', 'LEGUMINOUS'] -%}Leguminous crops
+{%- elif v in ['OIL_SEEDS', 'OILSEED', 'OILSEEDS'] -%}Oilseed crops and oleaginous fruits
+{%- elif v in ['VEGETABLES'] -%}Vegetables and melons
+{%- elif v in ['FRUITS', 'FRUIT'] -%}Fruit and nuts
+{%- elif v in ['ROOT_CROPS', 'ROOT_TUBER'] -%}Root/tuber crops with high starch or inulin content
+{%- elif v in ['STIMULANTS', 'SPICES'] -%}Stimulant, spice and aromatic crops
+{%- else -%}{{ value or '' }}
+{%- endif -%}
+{%- endmacro -%}
+
+{%- macro water_source(value) -%}
+{%- set v = norm(value) -%}
+{%- if v in ['RAINFED', 'RAIN_FED'] -%}Rainfed
+{%- elif v in ['RIVER'] -%}Surface water (river)
+{%- elif v in ['POND'] -%}Surface water (pond)
+{%- elif v in ['WELL', 'BOREHOLE'] -%}Groundwater
+{%- elif v in ['SPRING'] -%}Spring water
+{%- elif v in ['IRRIGATION_SCHEME'] -%}Irrigation scheme
+{%- else -%}{{ value or '' }}
+{%- endif -%}
+{%- endmacro -%}
+
+{%- macro sowing_status(value) -%}
+{%- set v = norm(value) -%}
+{%- if v == 'FULLY_SOWN' -%}Fully sown
+{%- elif v == 'PARTIALLY_SOWN' -%}Partially sown
+{%- elif v == 'RE_SOWN' -%}Re-sown
+{%- elif v == 'NOT_SOWN' -%}Not sown
+{%- else -%}{{ value or '' }}
+{%- endif -%}
+{%- endmacro -%}
+
+{#- The register hierarchy the ERD draws: farmer -> crop sown record -> the seven
+    crop lines. The land is not a register: its attributes sit flat on the crop
+    sown record, which covers exactly one plot. -#}
+{%- set d = data if data is defined else {} -%}
+{%- set crop_sown_list = d.get('crop_sown') or [] -%}
+{%- set crop_sown = d if d.get('production_year') is not none or d.get('planning') is not none or d.get('sowing') is not none else (crop_sown_list[0] if crop_sown_list else {}) -%}
+{#- Land is flat on the crop sown record, so `land` is just the record itself;
+    the alias keeps the farm_details block below reading unchanged. -#}
+{%- set land = crop_sown -%}
+{%- set plannings = crop_sown.get('planning') or [] -%}
+{%- set cultivations = crop_sown.get('cultivation') or [] -%}
+{%- set sowings = crop_sown.get('sowing') or [] -%}
+{%- set productions = crop_sown.get('production') or [] -%}
+{%- set harvests = crop_sown.get('harvest') or [] -%}
+{%- set infestations = crop_sown.get('infestation') or [] -%}
+{%- set clusters = crop_sown.get('cluster') or [] -%}
+{
+  "crop_sown_details": {
+    "record_identifier": [
+      {
+        "@type": "Identifier",
+        "identifier_type": "UIN",
+        "identifier_value": {{ (crop_sown.get('functional_record_id') or '') | tojson }}
+      }
+    ],
+    "farmer_info": {
+      "member_identifier": [
+        {
+          "@type": "Identifier",
+          "identifier_type": "UIN",
+          "identifier_value": {{ (crop_sown.get('fayda_fan_id') or crop_sown.get('farmer_id') or '') | tojson }}
+        }
+      ],
+      "farmer_id": {{ (crop_sown.get('farmer_id') or '') | tojson }},
+      "farmer_uuid": {{ (crop_sown.get('farmer_uuid') or '') | tojson }},
+      "demographic_info": {
+        "name": {
+          "@type": "Name",
+          "given_name": {{ (crop_sown.get('farmer_name') or '') | tojson }}
+        }
+      }
+    },
+    "production_year": {{ (crop_sown.get('production_year') or '') | tojson }},
+    "status": {{ (crop_sown.get('status') or '') | tojson }},
+    "lifecycle_stage": {{ (crop_sown.get('lifecycle_stage') or '') | tojson }},
+    "survey_info": {
+      "surveyor_name": {{ (crop_sown.get('surveyor_name') or '') | tojson }},
+      "surveyor_mobile_number": {{ (crop_sown.get('surveyor_mobile_number') or '') | tojson }},
+      "supervisor_name": {{ (crop_sown.get('supervisor_name') or '') | tojson }},
+      "supervisor_mobile_number": {{ (crop_sown.get('supervisor_mobile_number') or '') | tojson }}
+    },
+    "place": {
+      "name": {{ (crop_sown.get('address_line_2') or crop_sown.get('address_line_1') or '') | tojson }},
+      "geo": {
+        "@type": "spdci:GeoLocation",
+        "latitude": {{ crop_sown.get('latitude') or 0 }},
+        "longitude": {{ crop_sown.get('longitude') or 0 }}
+      }
+    },
+    "registration_date": {{ (crop_sown.get('registration_date') or crop_sown.get('created_at') or '') | tojson }},
+    "last_updated": {{ (crop_sown.get('last_approved_at') or '') | tojson }}
+  },
+  "farm_details": {
+    "farm_identifier": {{ (land.get('land_id') or '') | tojson }},
+    "farm_uuid": {{ (crop_sown.get('land_uuid') or land.get('land_uuid') or '') | tojson }},
+    "place": {
+      "name": {{ (land.get('sub_kebele') or land.get('address_line_2') or '') | tojson }},
+      "geo": {
+        "@type": "spdci:GeoLocation",
+        "latitude": {{ land.get('latitude') or 0 }},
+        "longitude": {{ land.get('longitude') or 0 }}
+      }
+    },
+    "area": {{ land.get('land_area') or 0 }},
+    "measurement_unit": {{ measurement_unit(land.get('unit')) | tojson }},
+    "land_tenure": {{ land_tenure(land.get('ownership_type')) | tojson }},
+    "soil_fertility": {{ (land.get('soil_fertility_type') or '') | tojson }},
+    "plot_category": {{ (land.get('plot_category') or '') | tojson }}
+  },
+  "crop_production_details": [
+    {%- for sowing in sowings %}
+    {%- set commodity = sowing.get('commodity') -%}
+    {%- set planning = (plannings | selectattr('commodity', 'equalto', commodity) | list | first) or {} -%}
+    {%- set cultivation = (cultivations | selectattr('commodity', 'equalto', commodity) | list | first) or {} -%}
+    {%- set production = (productions | selectattr('commodity', 'equalto', commodity) | list | first) or {} -%}
+    {%- set harvest = (harvests | selectattr('commodity', 'equalto', commodity) | list | first) or {} -%}
+    {%- set crop_infestations = infestations | selectattr('commodity', 'equalto', commodity) | list -%}
+    {
+      "crop_type": {{ (commodity or '') | tojson }},
+      "crop_category": {{ crop_category(sowing.get('crop_category')) | tojson }},
+      "variety": {{ (sowing.get('crop_variety') or '') | tojson }},
+      "season": {{ (sowing.get('season') or '') | string | lower | tojson }},
+      "land_identifier": {{ (sowing.get('land_uuid') or '') | tojson }},
+      "planned_area": {{ planning.get('planned_area') or 0 }},
+      "expected_yield": {{ planning.get('expected_yield') or production.get('expected_yield') or 0 }},
+      "land_preparation": {{ (cultivation.get('land_prep_method') or '') | tojson }},
+      "sowing_status": {{ sowing_status(sowing.get('sowing_status')) | tojson }},
+      "area_sown": {{ sowing.get('area_sown') or 0 }},
+      "sowing_date": {{ (sowing.get('sowing_date') or '') | tojson }},
+      "seed_quantity": {{ sowing.get('actual_seed_qty') or 0 }},
+      "fertilizer_type": [
+        {%- if sowing.get('fertilizer_type') %}
+        {{ sowing.get('fertilizer_type') | tojson }}
+        {%- endif %}
+      ],
+      "irrigation": {{ 'true' if planning.get('water_source') and norm(planning.get('water_source')) not in ['RAINFED', 'RAIN_FED'] else 'false' }},
+      "irrigation_water": [
+        {%- if planning.get('water_source') %}
+        {{ water_source(planning.get('water_source')) | tojson }}
+        {%- endif %}
+      ],
+      "growth_stage": {{ (production.get('growth_stage') or '') | tojson }},
+      "actual_yield": {{ production.get('actual_yield') or 0 }},
+      "yield_per_ha": {{ production.get('yield_per_ha') or harvest.get('yield_per_ha') or 0 }},
+      "harvest_date": {{ (harvest.get('harvest_date') or '') | tojson }},
+      "area_harvested": {{ harvest.get('area_harvested') or 0 }},
+      "quantity_harvested": {{ harvest.get('qty_harvested') or 0 }},
+      "post_harvest_loss_pct": {{ harvest.get('post_harvest_loss_pct') or 0 }},
+      "infestation_reported": {{ 'true' if crop_infestations else 'false' }}
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ],
+  "infestation_details": [
+    {%- for incident in infestations %}
+    {
+      "crop_type": {{ (incident.get('commodity') or '') | tojson }},
+      "growth_stage": {{ (incident.get('growth_stage') or '') | tojson }},
+      "infestation_type": {{ (incident.get('infestation_type') or '') | tojson }},
+      "severity_level": {{ (incident.get('severity_level') or '') | tojson }},
+      "estimated_damage_pct": {{ incident.get('estimated_damage_pct') or 0 }},
+      "observation_date": {{ (incident.get('observation_date') or '') | tojson }},
+      "action_taken": {{ (incident.get('action_taken') or '') | tojson }}
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ],
+  "cluster_details": [
+    {%- for cluster in clusters %}
+    {
+      "name": {{ (cluster.get('cluster_name') or '') | tojson }},
+      "status": {{ (cluster.get('cluster_status') or '') | tojson }},
+      "agro_ecological_zone": {{ (cluster.get('agro_ecological_zone') or '') | tojson }},
+      "season": {{ (cluster.get('season') or '') | string | lower | tojson }},
+      "area": {{ cluster.get('cluster_area_hectare') or 0 }},
+      "smallholders": {{ cluster.get('number_of_smallholders') or 0 }},
+      "participant_farmers": {{ cluster.get('participant_farmers') or 0 }}
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}

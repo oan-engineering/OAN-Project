@@ -1,0 +1,19 @@
+# Line endings.
+#
+# Scripts that run inside Linux containers must keep LF regardless of the
+# checkout platform. A CRLF checkout on Windows breaks them at the first line:
+# `set -eu\r` fails with "set: illegal option -", which is how
+# local/iam-register/register.sh first failed here.
+* text=auto eol=lf
+*.sh text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+local/.env text eol=lf
+
+# Binary assets — never touched.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.gz binary

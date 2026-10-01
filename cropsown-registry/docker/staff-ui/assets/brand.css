@@ -1,0 +1,88 @@
+
+/* ── Crop Sown Registry branding overrides ──────────────────────────────────
+   Appended to the portal's compiled stylesheets. The base build sets the page
+   shell to `bg-[url('/images/common/bg_pattern.png')] ... overflow-hidden`,
+   which assumes a small tiling pattern and clips anything past the viewport.
+   Our background is a photograph, so it has to cover rather than repeat, and
+   the shell has to scroll. Both rules use !important because they override
+   Tailwind utilities of equal specificity that may load after this file. */
+.bg-\[url\(\'\/images\/common\/bg_pattern\.png\'\)\] {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  /* fixed keeps the photo filling the viewport while the content scrolls */
+  background-attachment: fixed !important;
+}
+
+/* The home shell should fill exactly one viewport and not grow into a page
+   scroll. The base build already sets min-h-screen + overflow-hidden; pin the
+   height too so tall content is contained rather than pushing the document
+   taller than the screen. */
+.min-h-screen.overflow-hidden {
+  height: 100vh !important;
+  max-height: 100vh !important;
+  overflow: hidden !important;
+}
+
+/* ── Page transition ────────────────────────────────────────────────────────
+   Fade content in as each page mounts. Deliberately opacity-only: a transform
+   on an ancestor makes `background-attachment: fixed` resolve against that
+   element instead of the viewport, which would break the background above.
+
+   The portal is a compiled Next.js build, so there is no template component to
+   hook — this rides on the elements being re-created when a route renders. */
+@keyframes cs-page-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.min-h-screen {
+  animation: cs-page-fade-in 320ms ease-out both;
+}
+
+/* Honour the OS setting: no motion, no delayed content. */
+@media (prefers-reduced-motion: reduce) {
+  .min-h-screen {
+    animation: none !important;
+    opacity: 1 !important;
+  }
+}
+
+/* ── File upload control ────────────────────────────────────────────────────
+   The portal sizes the "Upload File" label with `width:100%; max-width:180px`
+   and `justify-content: space-between`, which assumes a wide column. In a
+   narrower one it shrinks below its own content and the upload icon rides out
+   over the border.
+
+   `width: max-content` sizes the control to exactly what is inside it, and
+   `flex-shrink: 0` stops a flex parent squeezing it again. The width and
+   max-width are inline styles on the element, so both need !important. */
+label.cursor-pointer.inline-flex.items-center.justify-between {
+  width: max-content !important;
+  max-width: none !important;
+  min-width: 9.5rem;
+  flex-shrink: 0;
+  justify-content: flex-start !important;
+  gap: 0.5rem;
+  overflow: visible;
+}
+
+label.cursor-pointer.inline-flex.items-center.justify-between > span {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+label.cursor-pointer.inline-flex.items-center.justify-between > img {
+  flex-shrink: 0;
+}
+
+/* Reduce width of the first panel (profile picture container) to avoid too much empty space */
+div[data-panel-id="vertical_panel_cs_cropsown_record_1"],
+#vertical_panel_cs_cropsown_record_1,
+.vertical_panel_cs_cropsown_record_1 {
+  width: 220px !important;
+  max-width: 220px !important;
+  min-width: 220px !important;
+  flex: 0 0 220px !important;
+}
+
