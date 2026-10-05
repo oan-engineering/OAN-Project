@@ -1,0 +1,178 @@
+{% set d = expanded if expanded is defined else {} %}
+{% set crop_sown = d.get("crop_sown_details", {}) %}
+{% set farmer = crop_sown.get("farmer_info", {}) %}
+{% set farmer_demo = farmer.get("demographic_info", {}) %}
+{% set farmer_name = farmer_demo.get("name", {}) %}
+{% set farmer_identifier = (farmer.get("member_identifier", []) | first) or farmer_demo.get("identifier", {}) %}
+{% set survey = crop_sown.get("survey_info", {}) %}
+{% set farm = d.get("farm_details", {}) %}
+{% set farm_place = farm.get("place", {}) %}
+{% set farm_geo = farm_place.get("geo", {}) %}
+{% set crops = d.get("crop_production_details", []) %}
+{% set incidents = d.get("infestation_details", []) %}
+{% set clusters = d.get("cluster_details", []) %}
+{% set place = crop_sown.get("place", {}) %}
+{% set geo = place.get("geo", {}) %}
+
+{% set lifecycle_stage = (crop_sown.get("lifecycle_stage", "") or "PLANNING") | upper %}
+{% if lifecycle_stage not in ["PLANNING", "CULTIVATION", "SOWING", "PRODUCTION", "HARVESTING", "CLOSED"] %}
+  {% set lifecycle_stage = "PLANNING" %}
+{% endif %}
+
+{% set land_id = farm.get("farm_identifier", "") %}
+{% set land_uuid = farm.get("farm_uuid", "") %}
+{% set full_name = (farmer_name.get('given_name', '') ~ ' ' ~ farmer_name.get('surname', '')).strip() %}
+
+{
+  "cs_cropsown_record": [
+    {
+      "record_name": "{{ full_name }} {{ crop_sown.get('production_year', '') }}",
+      "farmer_uuid": "{{ farmer.get('farmer_uuid', '') }}",
+      "farmer_id": "{{ farmer.get('farmer_id', '') }}",
+      "fayda_fan_id": "{{ farmer_identifier.get('identifier_value', '') }}",
+      "farmer_name": "{{ full_name }}",
+      "farmer_odk_ack_id": "{{ farmer.get('odk_ack_id', '') or crop_sown.get('odk_ack_id', '') }}",
+      "land_uuid": "{{ land_uuid }}",
+      "status": "{{ (crop_sown.get('status', '') or '') | upper | replace(' ', '_') }}",
+      "production_year": "{{ crop_sown.get('production_year', '') }}",
+      "lifecycle_stage": "{{ lifecycle_stage }}"
+    }
+  ],
+  "cs_land_details": [
+    {
+      "land_uuid": "{{ land_uuid }}",
+      "land_id": "{{ land_id }}",
+      "is_land_registered": {{ "true" if land_id else "false" }},
+      "ownership_type": "{{ (farm.get('land_tenure', '') or '') | upper | replace(' ', '_') }}",
+      "soil_fertility_type": "{{ (farm.get('soil_fertility', '') or '') | upper }}",
+      "plot_category": "{{ (farm.get('plot_category', '') or '') | upper | replace(' ', '_') }}",
+      "land_area": "{{ farm.get('area', '') }}",
+      "unit": "HECTARE",
+      "sub_kebele": "{{ farm_place.get('name', '') }}"
+    }
+  ],
+  "cs_survey_personnel": [
+    {
+      "surveyor_name": "{{ survey.get('surveyor_name', '') }}",
+      "surveyor_mobile_number": "{{ survey.get('surveyor_mobile_number', '') }}",
+      "supervisor_name": "{{ survey.get('supervisor_name', '') }}",
+      "supervisor_mobile_number": "{{ survey.get('supervisor_mobile_number', '') }}"
+    }
+  ],
+  "cs_cropsown_location": [
+    {
+      "locality": "{{ place.get('name', '') }}",
+      "latitude": "{{ farm_geo.get('latitude', '') or geo.get('latitude', '') }}",
+      "longitude": "{{ farm_geo.get('longitude', '') or geo.get('longitude', '') }}"
+    }
+  ],
+  "cs_planning_details": [
+{% for crop in crops %}
+    {
+      "land_uuid": "{{ crop.get('land_identifier', land_uuid) }}",
+      "land_id": "{{ land_id }}",
+      "season": "{{ (crop.get('season', '') or '') | upper }}",
+      "commodity": "{{ crop.get('crop_type', '') }}",
+      "crop_variety": "{{ crop.get('variety', '') }}",
+      "planned_area": "{{ crop.get('planned_area', '') }}",
+      "expected_yield": "{{ crop.get('expected_yield', '') }}",
+      "water_source": "{{ (crop.get('irrigation_water', ['']) | first) if crop.get('irrigation_water') else '' }}"
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ],
+  "cs_cultivation_details": [
+{% for crop in crops %}
+    {
+      "land_uuid": "{{ crop.get('land_identifier', land_uuid) }}",
+      "land_id": "{{ land_id }}",
+      "season": "{{ (crop.get('season', '') or '') | upper }}",
+      "commodity": "{{ crop.get('crop_type', '') }}",
+      "crop_variety": "{{ crop.get('variety', '') }}",
+      "land_prep_method": "{{ (crop.get('land_preparation', '') or '') | upper | replace(' ', '_') }}",
+      "actual_crop_area": "{{ crop.get('area_sown', '') }}"
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ],
+  "cs_sowing_details": [
+{% for crop in crops %}
+    {
+      "land_uuid": "{{ crop.get('land_identifier', land_uuid) }}",
+      "land_id": "{{ land_id }}",
+      "season": "{{ (crop.get('season', '') or '') | upper }}",
+      "commodity": "{{ crop.get('crop_type', '') }}",
+      "crop_variety": "{{ crop.get('variety', '') }}",
+      "sowing_status": "{{ (crop.get('sowing_status', 'FULLY_SOWN') or 'FULLY_SOWN') | upper | replace(' ', '_') | replace('-', '_') }}",
+      "area_sown": "{{ crop.get('area_sown', '') }}",
+      "sowing_date": "{{ (crop.get('sowing_date', '') or '').split('T')[0] }}",
+      "actual_seed_qty": "{{ crop.get('seed_quantity', '') }}",
+      "fertilizer_type": "{{ (crop.get('fertilizer_type', ['']) | first) if crop.get('fertilizer_type') else '' }}",
+      "has_pest_disease": {{ "true" if crop.get("infestation_reported") else "false" }}
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ],
+  "cs_production_details": [
+{% for crop in crops %}
+    {
+      "land_uuid": "{{ crop.get('land_identifier', land_uuid) }}",
+      "land_id": "{{ land_id }}",
+      "season": "{{ (crop.get('season', '') or '') | upper }}",
+      "commodity": "{{ crop.get('crop_type', '') }}",
+      "growth_stage": "{{ (crop.get('growth_stage', '') or '') | upper }}",
+      "area_under_production": "{{ crop.get('area_sown', '') }}",
+      "expected_yield": "{{ crop.get('expected_yield', '') }}",
+      "actual_yield": "{{ crop.get('actual_yield', '') }}",
+      "yield_per_ha": "{{ crop.get('yield_per_ha', '') }}"
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ],
+  "cs_harvest_details": [
+{% set harvest_rows = namespace(first=true) %}
+{% for crop in crops %}
+  {% if crop.get("harvest_date") or crop.get("quantity_harvested") %}
+    {% if not harvest_rows.first %},{% endif %}
+    {
+      "land_uuid": "{{ crop.get('land_identifier', land_uuid) }}",
+      "land_id": "{{ land_id }}",
+      "commodity": "{{ crop.get('crop_type', '') }}",
+      "crop_maturity_status": "HARVESTED",
+      "harvest_date": "{{ (crop.get('harvest_date', '') or '').split('T')[0] }}",
+      "area_harvested": "{{ crop.get('area_harvested', '') }}",
+      "qty_harvested": "{{ crop.get('quantity_harvested', '') }}",
+      "post_harvest_loss_pct": "{{ crop.get('post_harvest_loss_pct', '') }}"
+    }
+    {% set harvest_rows.first = false %}
+  {% endif %}
+{% endfor %}
+  ],
+  "cs_infestation_details": [
+{% for incident in incidents %}
+    {% set severity = (incident.get('severity_level', '') or '') | upper %}
+    {% if severity not in ["LOW", "MEDIUM", "HIGH"] %}{% set severity = "LOW" %}{% endif %}
+    {
+      "land_uuid": "{{ land_uuid }}",
+      "commodity": "{{ incident.get('crop_type', '') }}",
+      "growth_stage": "{{ (incident.get('growth_stage', '') or '') | upper }}",
+      "infestation_type": "{{ (incident.get('infestation_type', '') or '') | upper | replace(' ', '_') }}",
+      "severity_level": "{{ severity }}",
+      "estimated_damage_pct": "{{ incident.get('estimated_damage_pct', '') }}",
+      "observation_date": "{{ (incident.get('observation_date', '') or '').split('T')[0] }}",
+      "action_taken": "{{ incident.get('action_taken', '') }}"
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ],
+  "cs_cluster_details": [
+{% for cluster in clusters %}
+    {% set zone = (cluster.get("agro_ecological_zone", "") or "") | upper | replace(" ", "_") | replace("-", "_") %}
+    {% if zone not in ["KOLLA", "WOINA_DEGA", "DEGA", "WURCH", "BEREHA"] %}{% set zone = "WOINA_DEGA" %}{% endif %}
+    {
+      "cluster_name": "{{ cluster.get('name', '') }}",
+      "cluster_status": "{{ (cluster.get('status', 'CLUSTERED') or 'CLUSTERED') | upper }}",
+      "agro_ecological_zone": "{{ zone }}",
+      "season": "{{ (cluster.get('season', '') or '') | upper }}",
+      "cluster_area_hectare": "{{ cluster.get('area', '') }}",
+      "number_of_smallholders": {{ cluster.get("smallholders", 0) | int }},
+      "participant_farmers": {{ cluster.get("participant_farmers", 0) | int }}
+    }{% if not loop.last %},{% endif %}
+{% endfor %}
+  ]
+}

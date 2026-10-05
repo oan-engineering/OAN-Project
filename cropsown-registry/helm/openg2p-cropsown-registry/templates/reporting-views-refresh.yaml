@@ -1,0 +1,55 @@
+{{- if and .Values.reporting.views.enabled .Values.reporting.views.refreshSchedule }}
+{{/*
+Keep the cs_rpt_* views current.
+
+They are MATERIALIZED: Postgres never updates them when the register changes,
+so without this the dashboards stay frozen at the last install or upgrade.
+
+Views are refreshed in dependency order, resolved from the catalog
+(cs_rpt_sowing reads cs_rpt_crop_sown). files/reporting-views-refresh.sh is the
+same script the farmer registry uses: every outcome is a JSON line on stdout
+and a row in reporting_refresh_log.
+*/}}
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: {{ .Release.Name }}-cs-reporting-views-refresh
+  labels:
+    app.kubernetes.io/name: cs-reporting-views-refresh
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+spec:
+  schedule: {{ .Values.reporting.views.refreshSchedule | quote }}
+  # A refresh that overruns its slot must not have a second one started on top.
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 1
+  failedJobsHistoryLimit: 3
+  startingDeadlineSeconds: 600
+  jobTemplate:
+    spec:
+      backoffLimit: 1
+      template:
+        metadata:
+          labels:
+            app.kubernetes.io/name: cs-reporting-views-refresh
+            app.kubernetes.io/instance: {{ .Release.Name }}
+        spec:
+          restartPolicy: Never
+          containers:
+            - name: refresh
+              image: {{ include "cropsown.reporting.image" . | quote }}
+              command:
+                - sh
+                - -c
+                - |
+{{ .Files.Get "files/reporting-views-refresh.sh" | indent 18 }}
+              env:
+                - name: MATCH_PREFIX
+                  value: cs_rpt_
+                - name: REFRESH_LOG_ENABLED
+                  value: {{ .Values.reporting.views.refreshLog.enabled | toString | quote }}
+                - name: REFRESH_LOG_RETENTION_DAYS
+                  value: {{ .Values.reporting.views.refreshLog.retentionDays | toString | quote }}
+                {{- include "cropsown.reporting.dbEnv" . | nindent 16 }}
+              resources: {{- toYaml .Values.reporting.resources | nindent 16 }}
+{{- end }}

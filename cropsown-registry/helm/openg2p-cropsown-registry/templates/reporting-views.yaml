@@ -1,0 +1,57 @@
+{{- if .Values.reporting.views.enabled }}
+{{/*
+Create (or re-create) the crop sown reporting layer: apply
+reporting_views.sql, which ships in the registry's db-seed image.
+
+A hook rather than a plain Job so it re-runs on every upgrade: a REFRESH does
+not pick up an edited view definition, the DDL has to be applied again.
+
+The register tables are created by the staff-api's migrations when it starts,
+which on a fresh install can be after this hook fires, so the script waits for
+them rather than failing the release.
+*/}}
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: {{ .Release.Name }}-cs-reporting-views
+  labels:
+    app.kubernetes.io/name: cs-reporting-views
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+  annotations:
+    helm.sh/hook: post-install,post-upgrade
+    helm.sh/hook-weight: "45"
+    helm.sh/hook-delete-policy: before-hook-creation
+spec:
+  backoffLimit: 2
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: cs-reporting-views
+        app.kubernetes.io/instance: {{ .Release.Name }}
+    spec:
+      restartPolicy: OnFailure
+      containers:
+        - name: reporting-views
+          image: {{ include "cropsown.reporting.image" . | quote }}
+          command:
+            - sh
+            - -c
+            - |
+              set -e
+              i=0
+              until [ "$(psql -qtAX -c "SELECT to_regclass('public.g2p_register_cultivations') IS NOT NULL")" = "t" ]; do
+                i=$((i + 1))
+                if [ "$i" -gt {{ div .Values.reporting.views.waitForSchemaSeconds 10 }} ]; then
+                  echo "[reporting-views] register tables still missing; is staff-api running its migrations?" >&2
+                  exit 1
+                fi
+                echo "[reporting-views] waiting for the register schema..."
+                sleep 10
+              done
+              psql -v ON_ERROR_STOP=1 -X -f /seed/reporting_views.sql
+              echo "[reporting-views] cs_rpt_* views applied"
+          env:
+            {{- include "cropsown.reporting.dbEnv" . | nindent 12 }}
+          resources: {{- toYaml .Values.reporting.resources | nindent 12 }}
+{{- end }}
