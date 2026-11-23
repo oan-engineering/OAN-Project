@@ -20,6 +20,7 @@ jobs:
         with:
           ref: feat/farmer-registry
           fetch-depth: 0
+          token: ${{ secrets.SYNC_TOKEN }}
 
       - name: Configure Git
         run: |
