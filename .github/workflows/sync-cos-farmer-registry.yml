@@ -1,0 +1,44 @@
+
+name: Sync COS Farmer Registry
+
+on:
+  schedule:
+    # Every day at 8:00 AM IST (02:30 UTC)
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-upstream:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout OAN branch
+        uses: actions/checkout@v4
+        with:
+          ref: feat/farmer-registry
+          fetch-depth: 0
+          token: ${{ secrets.SYNC_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add COS upstream
+        run: |
+          git remote add upstream https://github.com/Centre-for-Open-Societal-Systems/farmer-registry.git
+
+      - name: Fetch COS updates
+        run: |
+          git fetch upstream develop
+
+      - name: Merge COS develop into OAN branch
+        run: |
+          git merge upstream/develop --no-edit
+
+      - name: Push updated OAN branch
+        run: |
+          git push origin HEAD:feat/farmer-registry
